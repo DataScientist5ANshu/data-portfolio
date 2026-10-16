@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ask KISS — Campus Guide Assistant</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lora:wght@600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#10141e;--surface:#171d2b;--gold:#c99a3b;--sage:#6fa88f;
+  --text:#e9e7de;--muted:#8a93a6;--line:#2a3247;
+  box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;}
+body{display:flex;flex-direction:column;max-width:600px;margin:0 auto;padding:16px;}
+h1{font-family:'Lora',serif;font-size:1.25rem;margin:4px 0 2px;}
+.sub{color:var(--muted);font-size:0.85rem;margin-bottom:14px;}
+#log{flex:1;overflow-y:auto;display:flex;flex-direction:column;gap:10px;padding-bottom:10px;min-height:300px;}
+.msg{padding:10px 14px;border-radius:12px;font-size:0.92rem;line-height:1.5;max-width:88%;}
+.msg.user{align-self:flex-end;background:var(--sage);color:#0e1712;}
+.msg.bot{align-self:flex-start;background:var(--surface);border:1px solid var(--line);}
+.msg.thinking{color:var(--muted);font-style:italic;}
+form{display:flex;gap:8px;border-top:1px solid var(--line);padding-top:12px;}
+input[type=text]{flex:1;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:11px 13px;color:var(--text);font-size:0.95rem;}
+input[type=text]:focus{outline:1.5px solid var(--gold);}
+button{background:var(--gold);border:none;border-radius:10px;padding:0 18px;color:#171207;font-weight:600;cursor:pointer;}
+button:disabled{opacity:0.5;}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px;}
+.chip{border:1px solid var(--line);color:var(--muted);border-radius:20px;padding:5px 11px;font-size:0.78rem;cursor:pointer;background:var(--surface);}
+.unavailable{color:var(--muted);font-size:0.9rem;padding:20px;text-align:center;border:1px dashed var(--line);border-radius:10px;}
+</style>
+</head>
+<body>
+<h1>Ask KISS</h1>
+<p class="sub">A campus guide assistant for KISS & KIIT visitors — grounded in kiss.ac.in and kiit.ac.in.</p>
+<div class="chips">
+  <div class="chip" data-q="What is KISS and who founded it?">What is KISS?</div>
+  <div class="chip" data-q="How many students does KISS educate?">Student numbers?</div>
+  <div class="chip" data-q="What happens on a campus tour to KISS?">Campus tour?</div>
+  <div class="chip" data-q="What is KISS's relationship to KIIT?">KISS & KIIT link?</div>
+</div>
+<div id="log"></div>
+<form id="f">
+  <input id="input" type="text" placeholder="Ask about KISS, KIIT, or a campus visit..." autocomplete="off">
+  <button id="send">Ask</button>
+</form>
+
+<script>
+const CONTEXT = `You are "Ask KISS", a warm, knowledgeable campus guide assistant for visitors to
+Kalinga Institute of Social Sciences (KISS) and KIIT Deemed to be University in Bhubaneswar, India.
+Ground every answer in these verified facts (from kiss.ac.in and kiit.ac.in):
+- KISS was founded in 1992-93 by Prof. Dr. Achyuta Samanta with just 125 tribal students.
+- KISS is the world's first university exclusively for tribal (indigenous) students, granted
+  Deemed University status by India's Ministry of Human Resource Development on 25 August 2017.
+- KISS now educates more than 30,000 students, with nearly 7,000 pursuing higher education there.
+  Education, food, and residential care are all provided free of cost.
+- KISS's stated long-term goal is to empower over 2 million indigenous youth.
+- KIIT (Kalinga Institute of Industrial Technology) is a separate, deemed-to-be university,
+  also founded by Dr. Achyuta Samanta, with 40,000+ learners, 30 schools, and 200+ programmes.
+  KIIT and KISS together form one founding vision but are administratively distinct institutions.
+- KIMS (Kalinga Institute of Medical Sciences) is KIIT's teaching hospital.
+- Campus tours typically cover a drive-through of the KIIT and KIMS campuses, with a mandatory
+  walking tour of the KISS campus, since visitors consistently find the KISS visit the most
+  moving part of the experience.
+Answer briefly (2-4 sentences), warmly, and only using the facts above plus general reasoning.
+If asked something you don't have grounded facts for, say so honestly rather than guessing.`;
+
+let sample = null;
+const log = document.getElementById('log');
+const form = document.getElementById('f');
+const input = document.getElementById('input');
+const sendBtn = document.getElementById('send');
+
+function addMsg(text, cls) {
+  const d = document.createElement('div');
+  d.className = 'msg ' + cls;
+  d.textContent = text;
+  log.appendChild(d);
+  log.scrollTop = log.scrollHeight;
+  return d;
+}
+
+async function ask(q) {
+  addMsg(q, 'user');
+  input.value = '';
+  sendBtn.disabled = true;
+  const thinking = addMsg('Thinking...', 'bot thinking');
+  try {
+    const result = await sample(
+      [{ role: 'user', content: CONTEXT + '\n\nVisitor question: ' + q }],
+      { onText: ({ text }) => { thinking.textContent = text || 'Thinking...'; thinking.classList.remove('thinking'); } }
+    );
+    thinking.textContent = result.text;
+    thinking.classList.remove('thinking');
+  } catch (e) {
+    thinking.textContent = "I couldn't reach the assistant just now (" + (e.code || 'error') + "). Try again in a moment.";
+    thinking.classList.remove('thinking');
+  }
+  sendBtn.disabled = false;
+}
+
+form.addEventListener('submit', (e) => {
+  e.preventDefault();
+  const q = input.value.trim();
+  if (!q || !sample) return;
+  ask(q);
+});
+
+document.querySelectorAll('.chip').forEach(chip => {
+  chip.addEventListener('click', () => { if (sample) ask(chip.dataset.q); });
+});
+
+(async () => {
+  try {
+    sample = await claude.use('sample');
+  } catch (e) { sample = null; }
+  if (!sample) {
+    log.innerHTML = '<div class="unavailable">This assistant needs the "Ask Claude" capability, which isn\'t available in this view. The chat UI and grounding prompt are fully built — reconnect the capability to activate it.</div>';
+    sendBtn.disabled = true;
+    input.disabled = true;
+  } else {
+    addMsg("Hi! Ask me anything about KISS, KIIT, or what to expect on a campus tour.", "bot");
+  }
+})();
+</script>
+</body>
+</html>

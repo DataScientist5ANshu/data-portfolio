@@ -1,0 +1,701 @@
+Event_ID,Event_Date,Disruption_Type,Cause,Passengers_Affected,Avg_Wait_Minutes,Complaints_Logged
+E0001,2015-01-02,Delay,Fog / low visibility,71,61,5
+E0002,2015-01-05,Diversion,Fog / low visibility,174,258,18
+E0003,2015-01-06,Diversion,Fog / low visibility,134,291,23
+E0004,2015-01-09,Delay,Fog / low visibility,86,132,7
+E0005,2015-01-09,Delay,Fog / low visibility,61,191,3
+E0006,2015-01-09,Delay,Fog / low visibility,137,69,13
+E0007,2015-01-10,Delay,Fog / low visibility,79,96,8
+E0008,2015-01-10,Delay,Fog / low visibility,116,213,8
+E0009,2015-01-11,Delay,Fog / low visibility,64,180,6
+E0010,2015-01-13,Diversion,Fog / low visibility,154,320,21
+E0011,2015-01-14,Delay,Fog / low visibility,159,160,12
+E0012,2015-01-21,Cancellation,Fog / low visibility,178,333,49
+E0013,2015-01-24,Delay,Fog / low visibility,167,93,18
+E0014,2015-01-25,Delay,Fog / low visibility,105,68,11
+E0015,2015-01-26,Diversion,Fog / low visibility,144,244,27
+E0016,2015-01-27,Delay,Fog / low visibility,155,188,14
+E0017,2015-01-29,Delay,Fog / low visibility,86,218,6
+E0018,2015-01-30,Delay,Fog / low visibility,176,69,10
+E0019,2015-01-31,Delay,Fog / low visibility,135,113,10
+E0020,2015-01-31,Delay,Fog / low visibility,98,157,5
+E0021,2015-02-05,Cancellation,Weather,122,585,25
+E0022,2015-02-07,Cancellation,Weather,130,284,18
+E0023,2015-02-10,Diversion,Crew,130,299,15
+E0024,2015-02-13,Delay,Crew,126,62,7
+E0025,2015-02-16,Delay,ATC / airspace,161,185,16
+E0026,2015-02-21,Delay,Weather,157,60,13
+E0027,2015-02-23,Delay,Weather,110,157,10
+E0028,2015-03-05,Delay,Weather,79,207,6
+E0029,2015-03-06,Diversion,ATC / airspace,176,185,33
+E0030,2015-03-12,Cancellation,Crew,150,231,31
+E0031,2015-03-12,Delay,Weather,131,67,10
+E0032,2015-03-13,Delay,Technical,132,139,6
+E0033,2015-03-13,Delay,Technical,74,158,5
+E0034,2015-03-18,Cancellation,ATC / airspace,168,379,27
+E0035,2015-03-19,Cancellation,ATC / airspace,165,511,50
+E0036,2015-03-20,Delay,Technical,85,63,5
+E0037,2015-04-03,Delay,ATC / airspace,141,109,10
+E0038,2015-04-05,Delay,ATC / airspace,168,161,9
+E0039,2015-04-05,Delay,Technical,136,125,10
+E0040,2015-04-08,Delay,ATC / airspace,110,87,8
+E0041,2015-04-14,Cancellation,ATC / airspace,150,253,42
+E0042,2015-04-24,Delay,Technical,147,70,14
+E0043,2015-04-26,Delay,ATC / airspace,83,106,5
+E0044,2015-04-29,Delay,Crew,142,60,11
+E0045,2015-05-02,Delay,Crew,146,82,15
+E0046,2015-05-03,Diversion,Weather,159,282,26
+E0047,2015-05-13,Cancellation,ATC / airspace,146,332,43
+E0048,2015-05-13,Delay,Technical,150,97,12
+E0049,2015-05-15,Delay,Weather,123,228,7
+E0050,2015-05-17,Delay,Weather,77,106,8
+E0051,2015-05-24,Delay,Crew,84,197,7
+E0052,2015-05-29,Cancellation,ATC / airspace,150,442,45
+E0053,2015-06-01,Delay,Weather,151,216,15
+E0054,2015-06-02,Delay,Weather,175,68,19
+E0055,2015-06-03,Delay,Weather,180,162,19
+E0056,2015-06-03,Diversion,Weather,138,145,17
+E0057,2015-06-05,Diversion,ATC / airspace,101,270,10
+E0058,2015-06-06,Cancellation,Weather,135,493,40
+E0059,2015-06-06,Delay,Weather,116,92,12
+E0060,2015-06-07,Diversion,Weather,173,346,29
+E0061,2015-06-07,Diversion,Weather,171,242,34
+E0062,2015-06-10,Delay,ATC / airspace,89,89,5
+E0063,2015-06-12,Delay,ATC / airspace,175,229,17
+E0064,2015-06-13,Diversion,Weather,165,185,27
+E0065,2015-06-15,Delay,Weather,170,141,18
+E0066,2015-06-16,Diversion,ATC / airspace,102,317,9
+E0067,2015-06-16,Delay,Weather,96,147,7
+E0068,2015-06-23,Delay,ATC / airspace,164,163,16
+E0069,2015-06-25,Cancellation,Weather,142,180,34
+E0070,2015-06-26,Delay,Weather,77,166,5
+E0071,2015-06-26,Delay,Weather,92,45,6
+E0072,2015-06-29,Delay,Weather,75,98,4
+E0073,2015-07-02,Diversion,ATC / airspace,147,250,24
+E0074,2015-07-03,Diversion,Weather,139,322,22
+E0075,2015-07-03,Diversion,ATC / airspace,125,338,19
+E0076,2015-07-07,Delay,Weather,80,217,8
+E0077,2015-07-07,Diversion,Weather,123,188,18
+E0078,2015-07-13,Cancellation,Weather,169,384,35
+E0079,2015-07-14,Delay,ATC / airspace,86,55,4
+E0080,2015-07-15,Diversion,Weather,91,257,9
+E0081,2015-07-20,Cancellation,Weather,131,216,30
+E0082,2015-07-20,Cancellation,Weather,155,461,36
+E0083,2015-07-23,Delay,Weather,63,181,4
+E0084,2015-07-26,Diversion,ATC / airspace,151,352,22
+E0085,2015-07-26,Cancellation,Weather,163,533,49
+E0086,2015-07-27,Diversion,ATC / airspace,160,173,33
+E0087,2015-07-27,Diversion,ATC / airspace,121,317,13
+E0088,2015-07-30,Cancellation,ATC / airspace,157,516,32
+E0089,2015-08-05,Delay,Weather,124,188,8
+E0090,2015-08-09,Delay,Weather,109,163,12
+E0091,2015-08-09,Delay,Weather,116,82,12
+E0092,2015-08-10,Diversion,Weather,176,278,26
+E0093,2015-08-14,Cancellation,Weather,121,355,23
+E0094,2015-08-16,Diversion,Weather,130,316,21
+E0095,2015-08-20,Diversion,Weather,94,139,15
+E0096,2015-08-22,Delay,Weather,60,144,5
+E0097,2015-08-22,Delay,Weather,108,76,7
+E0098,2015-09-06,Cancellation,Weather,127,309,23
+E0099,2015-09-09,Delay,Weather,146,219,7
+E0100,2015-09-11,Delay,Weather,128,99,9
+E0101,2015-09-12,Cancellation,Weather,121,336,18
+E0102,2015-09-12,Cancellation,Weather,124,384,37
+E0103,2015-09-12,Delay,Weather,146,148,15
+E0104,2015-09-14,Cancellation,Weather,127,470,31
+E0105,2015-09-17,Delay,Weather,140,226,15
+E0106,2015-09-21,Delay,Weather,110,156,10
+E0107,2015-09-22,Diversion,ATC / airspace,162,314,24
+E0108,2015-09-23,Diversion,ATC / airspace,167,242,32
+E0109,2015-09-24,Delay,Weather,138,95,10
+E0110,2015-09-29,Delay,Weather,151,121,10
+E0111,2015-09-30,Delay,Weather,153,187,17
+E0112,2015-10-01,Delay,ATC / airspace,83,125,5
+E0113,2015-10-05,Delay,Crew,93,223,6
+E0114,2015-10-05,Cancellation,Technical,143,378,27
+E0115,2015-10-06,Delay,Technical,174,155,14
+E0116,2015-10-07,Delay,Crew,112,168,8
+E0117,2015-10-10,Delay,Crew,127,90,8
+E0118,2015-10-13,Delay,ATC / airspace,162,184,13
+E0119,2015-10-14,Delay,Weather,62,55,3
+E0120,2015-10-19,Delay,Technical,77,79,7
+E0121,2015-10-30,Delay,ATC / airspace,111,198,11
+E0122,2015-11-12,Diversion,ATC / airspace,111,305,13
+E0123,2015-11-12,Delay,Weather,141,201,7
+E0124,2015-11-22,Cancellation,Technical,172,295,31
+E0125,2015-11-23,Diversion,Crew,126,267,25
+E0126,2015-11-23,Delay,Weather,83,234,9
+E0127,2015-11-24,Delay,Weather,169,177,9
+E0128,2015-11-28,Delay,Weather,170,130,14
+E0129,2015-11-30,Delay,ATC / airspace,87,206,7
+E0130,2015-12-01,Delay,Fog / low visibility,83,111,7
+E0131,2015-12-02,Delay,Fog / low visibility,105,159,8
+E0132,2015-12-03,Delay,Fog / low visibility,122,103,7
+E0133,2015-12-04,Diversion,Fog / low visibility,175,176,28
+E0134,2015-12-07,Delay,Fog / low visibility,111,188,10
+E0135,2015-12-07,Delay,Fog / low visibility,173,108,12
+E0136,2015-12-07,Delay,Fog / low visibility,90,158,6
+E0137,2015-12-07,Diversion,Fog / low visibility,95,214,9
+E0138,2015-12-09,Delay,Fog / low visibility,166,120,8
+E0139,2015-12-11,Delay,Fog / low visibility,158,200,9
+E0140,2015-12-11,Delay,Fog / low visibility,63,67,4
+E0141,2015-12-12,Delay,Fog / low visibility,85,143,8
+E0142,2015-12-12,Delay,Fog / low visibility,144,100,12
+E0143,2015-12-13,Delay,Fog / low visibility,149,159,12
+E0144,2015-12-16,Delay,Fog / low visibility,108,197,7
+E0145,2015-12-16,Diversion,Fog / low visibility,171,337,23
+E0146,2015-12-18,Delay,Fog / low visibility,80,72,7
+E0147,2015-12-18,Delay,Fog / low visibility,147,156,12
+E0148,2015-12-20,Diversion,Fog / low visibility,156,173,21
+E0149,2015-12-20,Delay,Fog / low visibility,96,49,5
+E0150,2015-12-21,Delay,Fog / low visibility,86,47,4
+E0151,2015-12-23,Delay,Fog / low visibility,171,171,13
+E0152,2015-12-23,Cancellation,Fog / low visibility,158,368,32
+E0153,2015-12-23,Delay,Fog / low visibility,77,54,4
+E0154,2015-12-27,Delay,Fog / low visibility,109,203,9
+E0155,2015-12-28,Delay,Fog / low visibility,124,171,7
+E0156,2015-12-29,Cancellation,Fog / low visibility,141,252,22
+E0157,2015-12-31,Delay,Fog / low visibility,98,179,9
+E0158,2016-01-03,Cancellation,Fog / low visibility,163,219,37
+E0159,2016-01-03,Delay,Fog / low visibility,72,150,7
+E0160,2016-01-04,Delay,Fog / low visibility,138,93,6
+E0161,2016-01-05,Delay,Fog / low visibility,106,100,8
+E0162,2016-01-06,Cancellation,Fog / low visibility,170,588,44
+E0163,2016-01-07,Delay,Fog / low visibility,67,117,3
+E0164,2016-01-07,Cancellation,Fog / low visibility,149,398,36
+E0165,2016-01-09,Delay,Fog / low visibility,166,73,8
+E0166,2016-01-11,Diversion,Fog / low visibility,116,308,18
+E0167,2016-01-11,Delay,Fog / low visibility,158,88,12
+E0168,2016-01-16,Delay,Fog / low visibility,109,179,7
+E0169,2016-01-19,Delay,Fog / low visibility,134,208,7
+E0170,2016-01-20,Delay,Fog / low visibility,74,99,7
+E0171,2016-01-23,Delay,Fog / low visibility,75,121,5
+E0172,2016-01-23,Delay,Fog / low visibility,72,68,4
+E0173,2016-01-23,Cancellation,Fog / low visibility,129,347,26
+E0174,2016-01-24,Delay,Fog / low visibility,158,205,14
+E0175,2016-01-25,Diversion,Fog / low visibility,115,201,18
+E0176,2016-01-27,Delay,Fog / low visibility,60,67,4
+E0177,2016-01-28,Delay,Fog / low visibility,100,153,9
+E0178,2016-01-28,Delay,Fog / low visibility,140,239,10
+E0179,2016-01-29,Delay,Fog / low visibility,141,213,14
+E0180,2016-01-29,Cancellation,Fog / low visibility,127,395,27
+E0181,2016-01-29,Delay,Fog / low visibility,97,97,8
+E0182,2016-01-30,Delay,Fog / low visibility,150,51,8
+E0183,2016-02-02,Delay,Crew,109,126,8
+E0184,2016-02-15,Delay,ATC / airspace,83,226,9
+E0185,2016-02-22,Delay,ATC / airspace,126,93,6
+E0186,2016-02-22,Delay,Technical,98,124,8
+E0187,2016-03-02,Delay,Crew,112,55,8
+E0188,2016-03-08,Delay,Crew,117,80,10
+E0189,2016-03-17,Delay,Weather,101,170,10
+E0190,2016-03-17,Cancellation,ATC / airspace,169,431,41
+E0191,2016-03-18,Cancellation,Crew,135,489,22
+E0192,2016-03-21,Delay,Crew,62,212,5
+E0193,2016-03-22,Cancellation,Weather,169,569,36
+E0194,2016-03-23,Diversion,Weather,134,356,26
+E0195,2016-03-27,Delay,ATC / airspace,141,75,9
+E0196,2016-03-28,Cancellation,Crew,124,480,30
+E0197,2016-04-02,Cancellation,ATC / airspace,148,428,34
+E0198,2016-04-09,Cancellation,Crew,170,291,22
+E0199,2016-04-12,Delay,Weather,118,141,7
+E0200,2016-04-13,Delay,ATC / airspace,127,100,10
+E0201,2016-04-14,Delay,Weather,92,110,7
+E0202,2016-04-29,Delay,Weather,119,55,6
+E0203,2016-05-07,Delay,Crew,68,167,4
+E0204,2016-05-07,Delay,Technical,84,151,7
+E0205,2016-05-08,Delay,Weather,80,75,8
+E0206,2016-05-13,Delay,Crew,141,129,13
+E0207,2016-05-15,Delay,Technical,127,157,11
+E0208,2016-05-17,Delay,Weather,76,211,6
+E0209,2016-05-21,Delay,ATC / airspace,179,92,14
+E0210,2016-05-25,Delay,Weather,112,216,7
+E0211,2016-05-25,Delay,Crew,115,103,12
+E0212,2016-05-28,Delay,Crew,155,195,11
+E0213,2016-06-01,Diversion,Weather,108,232,16
+E0214,2016-06-02,Diversion,ATC / airspace,147,131,17
+E0215,2016-06-06,Diversion,Weather,156,157,19
+E0216,2016-06-08,Diversion,Weather,103,272,15
+E0217,2016-06-12,Delay,Weather,92,188,8
+E0218,2016-06-14,Diversion,ATC / airspace,106,288,11
+E0219,2016-06-18,Delay,Weather,140,160,9
+E0220,2016-06-20,Cancellation,ATC / airspace,165,296,34
+E0221,2016-06-25,Diversion,Weather,121,327,18
+E0222,2016-06-27,Delay,Weather,175,221,14
+E0223,2016-07-01,Delay,ATC / airspace,118,53,8
+E0224,2016-07-02,Cancellation,Weather,137,382,28
+E0225,2016-07-02,Diversion,ATC / airspace,158,211,17
+E0226,2016-07-03,Delay,ATC / airspace,142,157,13
+E0227,2016-07-04,Delay,Weather,107,236,10
+E0228,2016-07-04,Cancellation,Weather,130,401,28
+E0229,2016-07-06,Delay,ATC / airspace,130,199,6
+E0230,2016-07-08,Delay,ATC / airspace,164,46,14
+E0231,2016-07-10,Cancellation,Weather,174,578,32
+E0232,2016-07-10,Delay,Weather,131,113,12
+E0233,2016-07-12,Diversion,Weather,137,199,20
+E0234,2016-07-13,Diversion,Weather,147,341,16
+E0235,2016-07-16,Cancellation,Weather,133,428,40
+E0236,2016-07-16,Delay,Weather,127,184,9
+E0237,2016-07-17,Delay,Weather,152,104,16
+E0238,2016-07-17,Delay,Weather,145,61,10
+E0239,2016-07-20,Delay,Weather,177,85,9
+E0240,2016-07-21,Delay,ATC / airspace,170,60,9
+E0241,2016-07-23,Cancellation,Weather,138,555,21
+E0242,2016-07-25,Delay,ATC / airspace,76,123,7
+E0243,2016-07-25,Diversion,Weather,91,170,17
+E0244,2016-07-27,Diversion,ATC / airspace,115,232,16
+E0245,2016-07-29,Delay,ATC / airspace,151,217,10
+E0246,2016-08-04,Delay,Weather,65,115,3
+E0247,2016-08-04,Diversion,Weather,158,282,23
+E0248,2016-08-05,Delay,ATC / airspace,163,117,16
+E0249,2016-08-06,Cancellation,ATC / airspace,147,555,20
+E0250,2016-08-07,Cancellation,Weather,155,272,34
+E0251,2016-08-07,Cancellation,ATC / airspace,137,579,20
+E0252,2016-08-12,Delay,Weather,88,159,6
+E0253,2016-08-14,Delay,Weather,162,126,12
+E0254,2016-08-15,Diversion,Weather,97,166,8
+E0255,2016-08-16,Delay,Weather,77,51,6
+E0256,2016-08-16,Diversion,Weather,152,217,29
+E0257,2016-08-16,Delay,ATC / airspace,111,80,11
+E0258,2016-08-17,Cancellation,Weather,177,571,52
+E0259,2016-08-17,Delay,Weather,160,144,12
+E0260,2016-08-19,Diversion,Weather,97,312,12
+E0261,2016-08-20,Cancellation,ATC / airspace,134,400,30
+E0262,2016-08-21,Diversion,Weather,165,289,19
+E0263,2016-08-21,Diversion,Weather,99,197,9
+E0264,2016-08-25,Delay,Weather,94,185,7
+E0265,2016-08-27,Delay,Weather,109,216,6
+E0266,2016-08-28,Cancellation,Weather,122,235,23
+E0267,2016-08-29,Delay,ATC / airspace,109,114,8
+E0268,2016-08-31,Delay,Weather,101,53,6
+E0269,2016-09-03,Cancellation,Weather,159,244,25
+E0270,2016-09-04,Diversion,Weather,148,172,27
+E0271,2016-09-04,Delay,Weather,98,237,7
+E0272,2016-09-05,Delay,Weather,130,238,12
+E0273,2016-09-06,Cancellation,Weather,156,401,30
+E0274,2016-09-07,Delay,Weather,171,65,18
+E0275,2016-09-08,Cancellation,ATC / airspace,143,181,28
+E0276,2016-09-08,Delay,Weather,116,202,8
+E0277,2016-09-15,Cancellation,Weather,143,555,32
+E0278,2016-09-20,Delay,Weather,65,192,4
+E0279,2016-09-21,Delay,Weather,137,212,13
+E0280,2016-09-21,Delay,Weather,97,231,5
+E0281,2016-09-22,Diversion,Weather,159,177,26
+E0282,2016-09-22,Delay,Weather,178,208,11
+E0283,2016-09-23,Delay,Weather,114,151,10
+E0284,2016-09-23,Delay,Weather,75,124,8
+E0285,2016-09-24,Cancellation,Weather,168,328,29
+E0286,2016-09-26,Cancellation,Weather,178,282,50
+E0287,2016-09-27,Delay,Weather,173,58,13
+E0288,2016-09-29,Cancellation,ATC / airspace,143,228,42
+E0289,2016-09-29,Delay,Weather,124,114,13
+E0290,2016-09-29,Cancellation,Weather,177,552,54
+E0291,2016-10-03,Delay,ATC / airspace,88,149,4
+E0292,2016-10-07,Delay,ATC / airspace,173,231,12
+E0293,2016-10-10,Diversion,Crew,95,308,15
+E0294,2016-10-27,Delay,Weather,71,121,6
+E0295,2016-10-28,Delay,Weather,177,100,15
+E0296,2016-10-30,Delay,Weather,119,91,12
+E0297,2016-11-02,Diversion,Crew,101,131,11
+E0298,2016-11-05,Delay,Technical,72,50,4
+E0299,2016-11-07,Cancellation,ATC / airspace,176,205,50
+E0300,2016-11-07,Cancellation,Weather,179,219,44
+E0301,2016-11-18,Delay,Crew,157,177,13
+E0302,2016-11-18,Delay,Crew,144,55,7
+E0303,2016-11-21,Delay,Crew,160,239,8
+E0304,2016-11-30,Delay,Technical,75,113,4
+E0305,2016-12-01,Delay,Fog / low visibility,60,106,2
+E0306,2016-12-02,Delay,Fog / low visibility,174,123,13
+E0307,2016-12-03,Delay,Fog / low visibility,78,57,6
+E0308,2016-12-11,Delay,Fog / low visibility,92,160,6
+E0309,2016-12-12,Delay,Fog / low visibility,177,232,10
+E0310,2016-12-14,Delay,Fog / low visibility,62,127,3
+E0311,2016-12-14,Delay,Fog / low visibility,99,202,8
+E0312,2016-12-15,Delay,Fog / low visibility,179,94,18
+E0313,2016-12-15,Delay,Fog / low visibility,165,228,11
+E0314,2016-12-16,Delay,Fog / low visibility,177,230,11
+E0315,2016-12-16,Diversion,Fog / low visibility,141,349,21
+E0316,2016-12-16,Delay,Fog / low visibility,143,225,13
+E0317,2016-12-18,Delay,Fog / low visibility,174,184,11
+E0318,2016-12-21,Delay,Fog / low visibility,122,185,13
+E0319,2016-12-22,Diversion,Fog / low visibility,109,260,13
+E0320,2016-12-22,Delay,Fog / low visibility,62,219,5
+E0321,2016-12-25,Delay,Fog / low visibility,66,176,5
+E0322,2016-12-25,Delay,Fog / low visibility,135,168,9
+E0323,2016-12-25,Delay,Fog / low visibility,72,58,3
+E0324,2016-12-26,Delay,Fog / low visibility,70,83,5
+E0325,2016-12-26,Delay,Fog / low visibility,158,84,12
+E0326,2016-12-28,Delay,Fog / low visibility,90,97,5
+E0327,2016-12-28,Delay,Fog / low visibility,149,208,15
+E0328,2016-12-29,Delay,Fog / low visibility,169,214,8
+E0329,2016-12-30,Delay,Fog / low visibility,155,113,10
+E0330,2016-12-30,Diversion,Fog / low visibility,113,173,11
+E0331,2016-12-30,Delay,Fog / low visibility,173,134,15
+E0332,2017-01-02,Delay,Fog / low visibility,73,155,3
+E0333,2017-01-07,Delay,Fog / low visibility,143,186,13
+E0334,2017-01-07,Delay,Fog / low visibility,102,93,8
+E0335,2017-01-07,Diversion,Fog / low visibility,177,199,28
+E0336,2017-01-08,Delay,Fog / low visibility,176,151,18
+E0337,2017-01-08,Delay,Fog / low visibility,174,142,10
+E0338,2017-01-09,Delay,Fog / low visibility,141,133,14
+E0339,2017-01-12,Delay,Fog / low visibility,168,77,13
+E0340,2017-01-13,Diversion,Fog / low visibility,168,246,25
+E0341,2017-01-13,Diversion,Fog / low visibility,112,335,20
+E0342,2017-01-14,Delay,Fog / low visibility,142,69,15
+E0343,2017-01-17,Diversion,Fog / low visibility,114,255,21
+E0344,2017-01-17,Delay,Fog / low visibility,89,236,7
+E0345,2017-01-19,Delay,Fog / low visibility,111,234,12
+E0346,2017-01-20,Delay,Fog / low visibility,180,83,9
+E0347,2017-01-22,Delay,Fog / low visibility,82,55,5
+E0348,2017-01-26,Diversion,Fog / low visibility,116,340,14
+E0349,2017-01-28,Diversion,Fog / low visibility,158,209,24
+E0350,2017-01-28,Delay,Fog / low visibility,143,134,12
+E0351,2017-01-29,Delay,Fog / low visibility,166,78,8
+E0352,2017-01-29,Delay,Fog / low visibility,66,179,4
+E0353,2017-01-30,Cancellation,Fog / low visibility,124,589,31
+E0354,2017-01-31,Delay,Fog / low visibility,147,85,15
+E0355,2017-01-31,Delay,Fog / low visibility,129,228,6
+E0356,2017-02-02,Diversion,Technical,127,296,14
+E0357,2017-02-06,Delay,ATC / airspace,139,168,14
+E0358,2017-02-07,Delay,Technical,106,225,8
+E0359,2017-02-11,Delay,Weather,166,233,14
+E0360,2017-02-12,Delay,Weather,71,140,3
+E0361,2017-02-16,Delay,ATC / airspace,91,162,4
+E0362,2017-02-19,Delay,ATC / airspace,135,185,13
+E0363,2017-02-25,Delay,Technical,110,91,9
+E0364,2017-03-01,Delay,ATC / airspace,167,223,18
+E0365,2017-03-17,Delay,ATC / airspace,99,96,8
+E0366,2017-03-21,Diversion,Weather,132,258,22
+E0367,2017-03-24,Cancellation,Technical,150,327,24
+E0368,2017-04-12,Delay,Technical,69,164,6
+E0369,2017-04-16,Delay,Technical,147,96,15
+E0370,2017-04-18,Cancellation,Technical,168,260,47
+E0371,2017-04-24,Delay,Crew,60,163,3
+E0372,2017-04-28,Delay,ATC / airspace,118,95,10
+E0373,2017-04-29,Cancellation,Weather,172,497,29
+E0374,2017-04-30,Cancellation,ATC / airspace,128,231,21
+E0375,2017-05-09,Delay,Crew,146,143,16
+E0376,2017-05-12,Delay,Weather,178,219,19
+E0377,2017-05-17,Delay,Weather,118,91,5
+E0378,2017-05-18,Delay,Crew,97,198,9
+E0379,2017-05-20,Diversion,ATC / airspace,105,232,17
+E0380,2017-05-22,Delay,Technical,146,114,10
+E0381,2017-05-24,Delay,ATC / airspace,154,236,13
+E0382,2017-05-24,Delay,Weather,60,174,3
+E0383,2017-05-24,Delay,Crew,148,187,9
+E0384,2017-05-24,Diversion,Weather,154,251,22
+E0385,2017-05-29,Delay,Technical,135,230,7
+E0386,2017-06-01,Delay,Weather,89,220,8
+E0387,2017-06-04,Cancellation,Weather,178,568,54
+E0388,2017-06-04,Delay,Weather,133,236,14
+E0389,2017-06-06,Delay,Weather,137,179,10
+E0390,2017-06-09,Cancellation,Weather,138,218,20
+E0391,2017-06-10,Cancellation,Weather,159,257,35
+E0392,2017-06-13,Cancellation,Weather,141,215,19
+E0393,2017-06-14,Cancellation,Weather,174,311,50
+E0394,2017-06-16,Diversion,Weather,112,260,17
+E0395,2017-06-17,Delay,ATC / airspace,166,211,12
+E0396,2017-06-19,Delay,ATC / airspace,69,81,7
+E0397,2017-06-20,Cancellation,ATC / airspace,163,411,32
+E0398,2017-06-21,Delay,Weather,101,235,9
+E0399,2017-06-21,Cancellation,Weather,125,373,27
+E0400,2017-06-24,Delay,Weather,76,127,4
+E0401,2017-07-05,Delay,ATC / airspace,131,217,12
+E0402,2017-07-06,Delay,ATC / airspace,97,166,4
+E0403,2017-07-06,Diversion,Weather,118,242,11
+E0404,2017-07-11,Delay,Weather,81,46,5
+E0405,2017-07-13,Cancellation,ATC / airspace,130,546,28
+E0406,2017-07-15,Delay,Weather,70,122,6
+E0407,2017-07-17,Delay,Weather,162,90,14
+E0408,2017-07-17,Delay,Weather,86,199,5
+E0409,2017-07-19,Delay,Weather,145,107,8
+E0410,2017-07-19,Diversion,Weather,107,132,20
+E0411,2017-07-23,Cancellation,Weather,130,453,36
+E0412,2017-07-23,Diversion,Weather,113,228,16
+E0413,2017-07-27,Cancellation,Weather,172,555,30
+E0414,2017-07-28,Diversion,ATC / airspace,154,248,27
+E0415,2017-07-28,Delay,Weather,105,72,6
+E0416,2017-08-02,Diversion,Weather,95,146,9
+E0417,2017-08-02,Delay,Weather,67,114,3
+E0418,2017-08-02,Delay,Weather,178,236,8
+E0419,2017-08-03,Cancellation,ATC / airspace,161,411,30
+E0420,2017-08-09,Delay,Weather,77,203,5
+E0421,2017-08-10,Delay,Weather,159,63,9
+E0422,2017-08-10,Diversion,Weather,140,316,26
+E0423,2017-08-10,Delay,ATC / airspace,161,213,14
+E0424,2017-08-11,Delay,Weather,139,133,13
+E0425,2017-08-14,Diversion,Weather,136,331,14
+E0426,2017-08-15,Delay,Weather,150,171,16
+E0427,2017-08-16,Delay,Weather,121,89,5
+E0428,2017-08-19,Delay,ATC / airspace,63,228,3
+E0429,2017-08-20,Cancellation,ATC / airspace,137,254,18
+E0430,2017-08-20,Diversion,Weather,154,241,24
+E0431,2017-08-25,Cancellation,ATC / airspace,169,207,33
+E0432,2017-08-25,Diversion,Weather,136,269,15
+E0433,2017-08-29,Diversion,Weather,164,326,32
+E0434,2017-08-29,Cancellation,Weather,129,471,18
+E0435,2017-08-29,Cancellation,Weather,146,499,20
+E0436,2017-09-01,Cancellation,Weather,176,553,52
+E0437,2017-09-02,Delay,Weather,82,214,4
+E0438,2017-09-02,Delay,Weather,81,131,5
+E0439,2017-09-03,Diversion,Weather,123,129,15
+E0440,2017-09-04,Delay,Weather,112,221,9
+E0441,2017-09-04,Delay,Weather,85,121,4
+E0442,2017-09-06,Cancellation,Weather,149,485,34
+E0443,2017-09-07,Delay,ATC / airspace,101,211,7
+E0444,2017-09-08,Cancellation,Weather,129,316,18
+E0445,2017-09-13,Diversion,ATC / airspace,174,209,28
+E0446,2017-09-13,Diversion,Weather,169,244,22
+E0447,2017-09-14,Cancellation,Weather,132,449,24
+E0448,2017-09-17,Cancellation,Weather,165,233,30
+E0449,2017-09-17,Cancellation,Weather,123,203,32
+E0450,2017-09-19,Delay,Weather,78,163,4
+E0451,2017-09-21,Cancellation,Weather,162,523,24
+E0452,2017-09-24,Delay,Weather,124,102,8
+E0453,2017-09-26,Cancellation,Weather,164,486,43
+E0454,2017-09-27,Diversion,Weather,145,180,14
+E0455,2017-09-27,Delay,Weather,113,54,12
+E0456,2017-09-28,Cancellation,Weather,177,200,41
+E0457,2017-09-29,Delay,ATC / airspace,146,163,14
+E0458,2017-10-01,Delay,Crew,64,79,5
+E0459,2017-10-04,Cancellation,Technical,143,350,29
+E0460,2017-10-05,Delay,ATC / airspace,93,142,5
+E0461,2017-10-05,Delay,Crew,115,167,7
+E0462,2017-10-11,Delay,Crew,134,149,7
+E0463,2017-10-12,Cancellation,Weather,152,260,36
+E0464,2017-10-15,Delay,ATC / airspace,110,239,8
+E0465,2017-10-17,Cancellation,Weather,159,417,22
+E0466,2017-10-25,Diversion,ATC / airspace,131,285,12
+E0467,2017-10-25,Cancellation,ATC / airspace,125,192,18
+E0468,2017-11-01,Delay,Technical,133,63,13
+E0469,2017-11-04,Cancellation,Weather,132,207,32
+E0470,2017-11-06,Delay,ATC / airspace,142,132,15
+E0471,2017-11-06,Cancellation,Technical,139,201,35
+E0472,2017-11-06,Delay,ATC / airspace,166,218,11
+E0473,2017-11-17,Delay,Weather,76,70,6
+E0474,2017-11-19,Cancellation,Technical,138,218,42
+E0475,2017-11-22,Delay,Crew,165,121,15
+E0476,2017-11-27,Cancellation,Weather,142,525,26
+E0477,2017-11-29,Cancellation,Weather,154,461,40
+E0478,2017-11-30,Diversion,Crew,153,297,22
+E0479,2017-12-02,Delay,Fog / low visibility,147,58,7
+E0480,2017-12-02,Delay,Fog / low visibility,119,96,12
+E0481,2017-12-07,Delay,Fog / low visibility,176,231,16
+E0482,2017-12-09,Cancellation,Fog / low visibility,126,309,16
+E0483,2017-12-12,Delay,Fog / low visibility,171,182,14
+E0484,2017-12-14,Delay,Fog / low visibility,126,72,8
+E0485,2017-12-14,Delay,Fog / low visibility,129,121,13
+E0486,2017-12-15,Delay,Fog / low visibility,74,125,7
+E0487,2017-12-15,Delay,Fog / low visibility,139,168,13
+E0488,2017-12-16,Delay,Fog / low visibility,70,79,6
+E0489,2017-12-17,Delay,Fog / low visibility,101,219,8
+E0490,2017-12-18,Delay,Fog / low visibility,86,101,8
+E0491,2017-12-19,Delay,Fog / low visibility,180,72,13
+E0492,2017-12-21,Delay,Fog / low visibility,90,200,8
+E0493,2017-12-21,Diversion,Fog / low visibility,98,299,10
+E0494,2017-12-23,Cancellation,Fog / low visibility,135,582,40
+E0495,2017-12-23,Diversion,Fog / low visibility,93,125,16
+E0496,2017-12-30,Cancellation,Fog / low visibility,143,565,40
+E0497,2017-12-30,Diversion,Fog / low visibility,100,212,19
+E0498,2018-01-04,Delay,Fog / low visibility,175,209,12
+E0499,2018-01-06,Delay,Fog / low visibility,143,203,15
+E0500,2018-01-06,Delay,Fog / low visibility,64,94,5
+E0501,2018-01-06,Delay,Fog / low visibility,105,71,8
+E0502,2018-01-07,Cancellation,Fog / low visibility,174,237,48
+E0503,2018-01-08,Delay,Fog / low visibility,88,203,6
+E0504,2018-01-09,Delay,Fog / low visibility,80,75,7
+E0505,2018-01-09,Delay,Fog / low visibility,99,188,7
+E0506,2018-01-10,Delay,Fog / low visibility,165,198,17
+E0507,2018-01-11,Delay,Fog / low visibility,121,159,11
+E0508,2018-01-12,Delay,Fog / low visibility,102,56,8
+E0509,2018-01-13,Delay,Fog / low visibility,74,215,7
+E0510,2018-01-13,Delay,Fog / low visibility,113,178,7
+E0511,2018-01-16,Delay,Fog / low visibility,80,177,8
+E0512,2018-01-17,Delay,Fog / low visibility,152,163,10
+E0513,2018-01-24,Delay,Fog / low visibility,93,116,7
+E0514,2018-01-25,Delay,Fog / low visibility,104,208,6
+E0515,2018-01-28,Delay,Fog / low visibility,73,157,5
+E0516,2018-01-31,Delay,Fog / low visibility,134,57,12
+E0517,2018-01-31,Delay,Fog / low visibility,127,62,13
+E0518,2018-02-03,Delay,Technical,131,158,10
+E0519,2018-02-13,Diversion,Technical,107,232,15
+E0520,2018-02-13,Delay,Crew,147,171,15
+E0521,2018-02-20,Cancellation,ATC / airspace,146,490,34
+E0522,2018-02-21,Delay,ATC / airspace,120,113,11
+E0523,2018-02-22,Cancellation,ATC / airspace,175,233,34
+E0524,2018-02-22,Cancellation,Weather,168,450,33
+E0525,2018-02-23,Delay,Technical,165,214,10
+E0526,2018-02-26,Delay,ATC / airspace,180,195,18
+E0527,2018-03-01,Delay,ATC / airspace,138,80,15
+E0528,2018-03-03,Delay,Weather,68,86,3
+E0529,2018-03-11,Delay,Crew,146,167,9
+E0530,2018-03-19,Delay,Technical,146,190,8
+E0531,2018-03-19,Diversion,Crew,122,220,12
+E0532,2018-03-22,Cancellation,Weather,154,535,28
+E0533,2018-03-23,Delay,Weather,164,90,10
+E0534,2018-03-25,Diversion,ATC / airspace,144,265,26
+E0535,2018-03-28,Delay,Technical,141,124,11
+E0536,2018-03-30,Delay,Technical,148,111,16
+E0537,2018-03-31,Delay,Crew,156,197,15
+E0538,2018-03-31,Delay,Crew,101,45,5
+E0539,2018-04-01,Delay,Technical,63,94,4
+E0540,2018-04-02,Delay,Crew,97,125,7
+E0541,2018-04-03,Delay,Crew,146,179,14
+E0542,2018-04-18,Cancellation,Weather,164,464,30
+E0543,2018-04-24,Cancellation,Technical,127,506,18
+E0544,2018-04-26,Delay,ATC / airspace,151,216,12
+E0545,2018-04-28,Delay,ATC / airspace,180,145,10
+E0546,2018-04-29,Delay,Technical,163,81,8
+E0547,2018-04-29,Delay,Technical,105,135,9
+E0548,2018-04-30,Delay,Weather,133,46,12
+E0549,2018-05-03,Delay,Weather,177,156,15
+E0550,2018-05-05,Delay,ATC / airspace,149,56,12
+E0551,2018-05-06,Delay,Weather,128,161,7
+E0552,2018-05-06,Delay,Crew,139,228,15
+E0553,2018-05-10,Delay,Weather,135,222,9
+E0554,2018-05-11,Cancellation,Crew,154,470,31
+E0555,2018-05-17,Delay,Weather,167,95,18
+E0556,2018-05-25,Delay,Technical,84,230,7
+E0557,2018-05-28,Delay,Weather,172,144,8
+E0558,2018-06-01,Cancellation,Weather,139,268,36
+E0559,2018-06-03,Diversion,Weather,114,338,22
+E0560,2018-06-06,Delay,Weather,99,127,5
+E0561,2018-06-08,Delay,Weather,145,220,7
+E0562,2018-06-11,Delay,Weather,102,139,10
+E0563,2018-06-11,Diversion,Weather,161,144,15
+E0564,2018-06-12,Diversion,Weather,126,294,14
+E0565,2018-06-12,Delay,Weather,85,114,6
+E0566,2018-06-13,Delay,Weather,73,199,3
+E0567,2018-06-18,Delay,Weather,151,130,8
+E0568,2018-06-19,Cancellation,Weather,132,487,38
+E0569,2018-06-19,Delay,Weather,175,115,13
+E0570,2018-06-21,Delay,Weather,114,225,6
+E0571,2018-06-24,Cancellation,ATC / airspace,126,230,24
+E0572,2018-06-25,Delay,ATC / airspace,139,182,13
+E0573,2018-06-27,Delay,ATC / airspace,148,85,8
+E0574,2018-06-28,Delay,ATC / airspace,124,99,7
+E0575,2018-07-01,Delay,Weather,178,173,11
+E0576,2018-07-01,Cancellation,Weather,162,289,37
+E0577,2018-07-03,Diversion,Weather,157,262,27
+E0578,2018-07-04,Diversion,Weather,107,329,15
+E0579,2018-07-08,Delay,Weather,146,189,14
+E0580,2018-07-10,Delay,ATC / airspace,159,207,15
+E0581,2018-07-11,Diversion,ATC / airspace,162,266,16
+E0582,2018-07-12,Delay,Weather,104,136,9
+E0583,2018-07-15,Diversion,Weather,147,223,22
+E0584,2018-07-17,Diversion,Weather,122,248,23
+E0585,2018-07-17,Cancellation,Weather,124,274,22
+E0586,2018-07-18,Delay,ATC / airspace,100,206,5
+E0587,2018-07-21,Delay,Weather,61,159,6
+E0588,2018-07-22,Diversion,ATC / airspace,93,175,15
+E0589,2018-07-22,Delay,Weather,99,205,6
+E0590,2018-07-23,Delay,ATC / airspace,62,187,5
+E0591,2018-07-26,Delay,Weather,97,177,7
+E0592,2018-07-27,Diversion,Weather,147,204,17
+E0593,2018-07-29,Diversion,Weather,148,299,16
+E0594,2018-07-31,Delay,Weather,155,215,11
+E0595,2018-07-31,Delay,Weather,116,185,11
+E0596,2018-07-31,Cancellation,Weather,180,351,44
+E0597,2018-08-02,Delay,ATC / airspace,144,106,10
+E0598,2018-08-04,Diversion,Weather,131,147,27
+E0599,2018-08-08,Delay,Weather,136,55,14
+E0600,2018-08-08,Diversion,Weather,174,265,32
+E0601,2018-08-11,Diversion,Weather,156,234,24
+E0602,2018-08-13,Delay,ATC / airspace,121,126,13
+E0603,2018-08-14,Cancellation,ATC / airspace,136,306,41
+E0604,2018-08-19,Delay,ATC / airspace,66,141,3
+E0605,2018-08-19,Diversion,Weather,173,296,34
+E0606,2018-08-21,Delay,Weather,140,217,12
+E0607,2018-08-25,Diversion,Weather,105,344,15
+E0608,2018-08-26,Cancellation,Weather,164,371,30
+E0609,2018-08-27,Diversion,ATC / airspace,124,347,20
+E0610,2018-08-28,Diversion,Weather,137,271,24
+E0611,2018-08-28,Diversion,Weather,167,353,28
+E0612,2018-08-30,Diversion,Weather,98,155,16
+E0613,2018-09-01,Delay,ATC / airspace,150,123,8
+E0614,2018-09-07,Diversion,Weather,91,310,12
+E0615,2018-09-08,Delay,Weather,155,207,13
+E0616,2018-09-09,Delay,ATC / airspace,119,75,8
+E0617,2018-09-11,Delay,Weather,179,109,18
+E0618,2018-09-11,Cancellation,Weather,168,547,48
+E0619,2018-09-13,Cancellation,ATC / airspace,177,575,53
+E0620,2018-09-14,Diversion,Weather,148,209,14
+E0621,2018-09-16,Delay,Weather,171,179,14
+E0622,2018-09-17,Delay,ATC / airspace,110,128,11
+E0623,2018-09-19,Delay,Weather,105,86,7
+E0624,2018-09-20,Delay,Weather,138,78,8
+E0625,2018-09-23,Delay,ATC / airspace,133,50,11
+E0626,2018-09-25,Cancellation,Weather,151,285,22
+E0627,2018-09-26,Delay,ATC / airspace,82,164,6
+E0628,2018-09-27,Delay,ATC / airspace,77,90,4
+E0629,2018-09-30,Diversion,ATC / airspace,158,231,17
+E0630,2018-10-03,Delay,Weather,93,64,9
+E0631,2018-10-05,Delay,ATC / airspace,108,213,9
+E0632,2018-10-10,Delay,Technical,94,239,8
+E0633,2018-10-20,Delay,ATC / airspace,176,234,18
+E0634,2018-10-23,Delay,ATC / airspace,163,151,9
+E0635,2018-10-31,Delay,ATC / airspace,79,218,8
+E0636,2018-11-02,Diversion,Crew,107,287,12
+E0637,2018-11-03,Delay,Technical,88,190,6
+E0638,2018-11-05,Delay,ATC / airspace,113,155,12
+E0639,2018-11-06,Delay,Weather,133,110,6
+E0640,2018-11-17,Delay,ATC / airspace,88,81,8
+E0641,2018-11-20,Delay,ATC / airspace,105,184,5
+E0642,2018-11-22,Cancellation,ATC / airspace,177,267,39
+E0643,2018-11-22,Delay,ATC / airspace,116,72,12
+E0644,2018-11-23,Delay,Technical,174,74,14
+E0645,2018-11-25,Delay,Technical,144,190,13
+E0646,2018-11-28,Delay,Crew,141,236,14
+E0647,2018-12-01,Cancellation,Fog / low visibility,157,566,24
+E0648,2018-12-02,Delay,Fog / low visibility,140,214,11
+E0649,2018-12-02,Delay,Fog / low visibility,148,64,10
+E0650,2018-12-04,Cancellation,Fog / low visibility,127,548,22
+E0651,2018-12-05,Delay,Fog / low visibility,133,96,13
+E0652,2018-12-05,Delay,Fog / low visibility,180,155,19
+E0653,2018-12-05,Delay,Fog / low visibility,89,80,9
+E0654,2018-12-05,Delay,Fog / low visibility,115,189,7
+E0655,2018-12-07,Diversion,Fog / low visibility,143,127,21
+E0656,2018-12-11,Delay,Fog / low visibility,114,107,11
+E0657,2018-12-11,Delay,Fog / low visibility,92,158,7
+E0658,2018-12-11,Delay,Fog / low visibility,130,111,14
+E0659,2018-12-11,Delay,Fog / low visibility,135,66,11
+E0660,2018-12-15,Delay,Fog / low visibility,156,64,9
+E0661,2018-12-16,Diversion,Fog / low visibility,117,199,16
+E0662,2018-12-17,Delay,Fog / low visibility,150,112,14
+E0663,2018-12-17,Delay,Fog / low visibility,69,65,3
+E0664,2018-12-21,Diversion,Fog / low visibility,157,247,29
+E0665,2018-12-23,Delay,Fog / low visibility,115,158,11
+E0666,2018-12-30,Cancellation,Fog / low visibility,176,250,48
+E0667,2018-12-30,Delay,Fog / low visibility,176,158,13
+E0668,2018-12-31,Delay,Fog / low visibility,113,182,5
+E0669,2018-12-31,Diversion,Fog / low visibility,142,209,25
+E0670,2019-01-01,Delay,Fog / low visibility,164,210,8
+E0671,2019-01-01,Cancellation,Fog / low visibility,177,523,40
+E0672,2019-01-01,Delay,Fog / low visibility,61,212,3
+E0673,2019-01-02,Delay,Fog / low visibility,118,181,5
+E0674,2019-01-03,Delay,Fog / low visibility,148,227,9
+E0675,2019-01-06,Delay,Fog / low visibility,113,73,10
+E0676,2019-01-08,Cancellation,Fog / low visibility,176,571,46
+E0677,2019-01-08,Delay,Fog / low visibility,78,59,6
+E0678,2019-01-08,Delay,Fog / low visibility,113,233,5
+E0679,2019-01-09,Delay,Fog / low visibility,107,181,6
+E0680,2019-01-13,Delay,Fog / low visibility,145,97,13
+E0681,2019-01-14,Delay,Fog / low visibility,127,104,9
+E0682,2019-01-18,Delay,Fog / low visibility,173,158,12
+E0683,2019-01-19,Cancellation,Fog / low visibility,159,291,42
+E0684,2019-01-22,Delay,Fog / low visibility,84,93,6
+E0685,2019-01-24,Delay,Fog / low visibility,167,58,18
+E0686,2019-01-26,Delay,Fog / low visibility,127,84,6
+E0687,2019-01-26,Delay,Fog / low visibility,85,205,7
+E0688,2019-01-27,Diversion,Fog / low visibility,134,326,17
+E0689,2019-01-30,Delay,Fog / low visibility,179,157,8
+E0690,2019-01-31,Delay,Fog / low visibility,92,135,8
+E0691,2019-01-31,Delay,Fog / low visibility,99,146,8
+E0692,2019-02-04,Delay,Weather,170,179,15
+E0693,2019-02-22,Delay,Technical,73,85,3
+E0694,2019-02-27,Delay,Crew,63,110,6
+E0695,2019-03-03,Delay,Weather,98,192,10
+E0696,2019-03-06,Cancellation,Weather,175,267,36
+E0697,2019-03-07,Delay,Weather,122,74,6
+E0698,2019-03-14,Cancellation,ATC / airspace,155,230,26
+E0699,2019-03-15,Delay,ATC / airspace,150,189,13
+E0700,2019-03-17,Delay,Crew,62,200,5

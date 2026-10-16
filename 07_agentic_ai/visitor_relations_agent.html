@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Visitor Relations Agent — Capstone</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lora:wght@600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#10141e;--surface:#171d2b;--gold:#c99a3b;--sage:#6fa88f;
+  --text:#e9e7de;--muted:#8a93a6;--line:#2a3247;
+  box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;}
+body{max-width:640px;margin:0 auto;padding:18px;}
+h1{font-family:'Lora',serif;font-size:1.3rem;margin:4px 0 2px;}
+.sub{color:var(--muted);font-size:0.85rem;margin-bottom:16px;line-height:1.5;}
+form{display:flex;flex-direction:column;gap:8px;margin-bottom:18px;}
+textarea{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px;color:var(--text);font-size:0.92rem;min-height:70px;resize:vertical;font-family:inherit;}
+textarea:focus{outline:1.5px solid var(--gold);}
+button{background:var(--gold);border:none;border-radius:10px;padding:11px;color:#171207;font-weight:600;cursor:pointer;font-size:0.92rem;}
+button:disabled{opacity:0.5;}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:4px;}
+.chip{border:1px solid var(--line);color:var(--muted);border-radius:20px;padding:5px 11px;font-size:0.75rem;cursor:pointer;background:var(--surface);}
+#answer{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px;font-size:0.92rem;line-height:1.55;margin-bottom:16px;min-height:20px;}
+.section-label{color:var(--sage);font-size:0.78rem;text-transform:uppercase;letter-spacing:0.04em;margin-bottom:8px;}
+.tool-log{display:flex;flex-direction:column;gap:8px;}
+.tool-call{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:0.82rem;}
+.tool-name{font-family:'IBM Plex Mono',monospace;color:var(--gold);font-size:0.8rem;}
+.tool-result{color:var(--muted);margin-top:4px;font-family:'IBM Plex Mono',monospace;font-size:0.78rem;white-space:pre-wrap;}
+.unavailable{color:var(--muted);font-size:0.9rem;padding:20px;text-align:center;border:1px dashed var(--line);border-radius:10px;}
+</style>
+</head>
+<body>
+<h1>Visitor Relations Agent</h1>
+<p class="sub">Describe what you need — the agent decides which tools to call: schedule a tour, log feedback, flag an SLA breach, or draft a thank-you note. This is a real tool-calling agent, not a scripted demo.</p>
+
+<div class="chips">
+  <div class="chip" data-q="Schedule a tour for a 20-person corporate CSR delegation next Thursday, and draft a thank-you note for them.">CSR delegation + thank-you</div>
+  <div class="chip" data-q="A hostel query has been open for 50 minutes with a 30 minute SLA. Flag the breach and log that the visitor was frustrated.">SLA breach</div>
+</div>
+
+<form id="f">
+  <textarea id="input" placeholder="e.g. Schedule a tour for a diplomatic delegation of 8 on Monday, then draft a thank-you note."></textarea>
+  <button id="send" type="submit">Run agent</button>
+</form>
+
+<div class="section-label">Agent response</div>
+<div id="answer">Ask the agent to do something above.</div>
+
+<div class="section-label">Tool calls made</div>
+<div class="tool-log" id="toollog"><span style="color:var(--muted);font-size:0.85rem;">No tool calls yet.</span></div>
+
+<script>
+let sample = null;
+const answerEl = document.getElementById('answer');
+const toollog = document.getElementById('toollog');
+const form = document.getElementById('f');
+const input = document.getElementById('input');
+const sendBtn = document.getElementById('send');
+
+// ---- Mock backend "tools" the agent can call ----
+let tourIdCounter = 100;
+let feedbackLog = [];
+let breachLog = [];
+
+const tools = [
+  {
+    name: "schedule_tour",
+    description: "Schedule a campus tour. Returns a confirmed tour ID.",
+    inputSchema: {
+      type: "object",
+      properties: {
+        visitor_type: { type: "string", description: "e.g. Corporate CSR, Diplomatic, Academic" },
+        group_size: { type: "number" },
+        date: { type: "string", description: "requested date, plain text is fine" },
+        campuses: { type: "string", description: "which campuses to include, e.g. 'KIIT, KISS'" }
+      },
+      required: ["visitor_type", "group_size", "date"]
+    },
+    execute: async (input) => {
+      tourIdCounter++;
+      const record = { tour_id: "T" + tourIdCounter, ...input, status: "confirmed" };
+      return record;
+    }
+  },
+  {
+    name: "log_feedback",
+    description: "Log visitor feedback or sentiment for a tour or interaction.",
+    inputSchema: {
+      type: "object",
+      properties: {
+        note: { type: "string" },
+        sentiment: { type: "string", enum: ["positive", "neutral", "negative"] }
+      },
+      required: ["note", "sentiment"]
+    },
+    execute: async (input) => {
+      feedbackLog.push(input);
+      return { logged: true, total_feedback_entries: feedbackLog.length };
+    }
+  },
+  {
+    name: "flag_sla_breach",
+    description: "Flag that a reception/query SLA has been breached, for escalation.",
+    inputSchema: {
+      type: "object",
+      properties: {
+        category: { type: "string" },
+        minutes_over: { type: "number" }
+      },
+      required: ["category"]
+    },
+    execute: async (input) => {
+      breachLog.push(input);
+      return { flagged: true, escalated_to: "CRRIP Duty Supervisor", total_breaches_today: breachLog.length };
+    }
+  },
+  {
+    name: "draft_thank_you_note",
+    description: "Draft a short, warm thank-you note for a visitor or delegation.",
+    inputSchema: {
+      type: "object",
+      properties: {
+        recipient: { type: "string" },
+        highlight: { type: "string", description: "something specific to mention, e.g. the KISS visit" }
+      },
+      required: ["recipient"]
+    },
+    execute: async (input) => {
+      const note = `Dear ${input.recipient},\n\nThank you for visiting KIIT and KISS. ` +
+        (input.highlight ? `We were glad you could experience ${input.highlight}. ` : '') +
+        `It was a pleasure hosting you, and we hope to welcome you again soon.\n\nWarm regards,\nCampus Relations, KIIT`;
+      return { draft: note };
+    }
+  }
+];
+
+function logToolCall(name, args, result) {
+  if (toollog.children.length === 1 && toollog.children[0].tagName === 'SPAN') {
+    toollog.innerHTML = '';
+  }
+  const div = document.createElement('div');
+  div.className = 'tool-call';
+  div.innerHTML = `<span class="tool-name">${name}(${JSON.stringify(args)})</span>` +
+                   `<div class="tool-result">→ ${JSON.stringify(result, null, 0)}</div>`;
+  toollog.appendChild(div);
+}
+
+// wrap tools so we can log calls as they happen
+const wrappedTools = tools.map(t => ({
+  ...t,
+  execute: async (input) => {
+    const result = await t.execute(input);
+    logToolCall(t.name, input, result);
+    return result;
+  }
+}));
+
+async function runAgent(task) {
+  sendBtn.disabled = true;
+  answerEl.textContent = "Working...";
+  toollog.innerHTML = '<span style="color:var(--muted);font-size:0.85rem;">Running...</span>';
+  try {
+    const result = await sample(
+      [{ role: 'user', content:
+        "You are a visitor relations agent for KIIT/KISS/KIMS campus operations. " +
+        "Use the available tools to complete the task. Call as many tools as needed, in order. " +
+        "After completing the tools, give a brief 2-3 sentence summary of what you did.\n\nTask: " + task
+      }],
+      { tools: wrappedTools, onText: ({ text }) => { if (text) answerEl.textContent = text; } }
+    );
+    answerEl.textContent = result.text || "Done.";
+  } catch (e) {
+    answerEl.textContent = "Agent couldn't run (" + (e.code || 'error') + "). Try again.";
+  }
+  sendBtn.disabled = false;
+}
+
+form.addEventListener('submit', (e) => {
+  e.preventDefault();
+  const q = input.value.trim();
+  if (!q || !sample) return;
+  runAgent(q);
+});
+
+document.querySelectorAll('.chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    input.value = chip.dataset.q;
+    if (sample) runAgent(chip.dataset.q);
+  });
+});
+
+(async () => {
+  try { sample = await claude.use('sample'); } catch (e) { sample = null; }
+  if (!sample) {
+    answerEl.parentElement.style.display = 'none';
+    toollog.parentElement.style.display = 'none';
+    document.querySelector('.tool-log').outerHTML = '<div class="unavailable">This agent needs the "Ask Claude" capability with tool-use, which isn\'t available in this view. The four tools (schedule_tour, log_feedback, flag_sla_breach, draft_thank_you_note) are fully built and ready to activate.</div>';
+    sendBtn.disabled = true;
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,900 @@
+Tour_ID,Tour_Date,Visitor_Type,Group_Size,Campuses_Covered,Duration_Hours,Purpose,Outcome,Satisfaction_Score,Data_Source,Lead_Visitor_Name,Visitor_Country,Visitor_Title
+T0001,2019-04-02,Government Dignitary Visit,20,"KIIT, KSAC, KISS",2.06,Government outreach on tribal welfare,Return visit requested,4.5,Synthetic,Ms Andrea Horton,UK,State Secretary (Tribal Welfare)
+T0002,2019-04-04,Media Visit,7,"KIIT, KIMS",1.57,Press coverage,Positive press coverage,3.7,Synthetic,長谷川 和也,Japan,Documentary Producer
+T0003,2019-04-05,Diplomatic Visit,39,"KIIT, KIMS, KISS",2.55,Diplomatic goodwill visit,Follow-up scheduled,4.6,Synthetic,Dalbir Tripathi,India,Consul General
+T0004,2019-04-07,Media Visit,26,"KIIT, KIMS",2.19,Press coverage,"Information shared, no commitment",4.7,Synthetic,Chinedu Balogun,Nigeria,Documentary Producer
+T0005,2019-04-08,Media Visit,11,"KIIT, KISS",2.4,Press coverage,Follow-up scheduled,4.1,Synthetic,Baljiwan Chadha,India,Documentary Producer
+T0006,2019-04-19,Diplomatic Visit,23,"KIIT, KIMS",3.96,Diplomatic goodwill visit,"Information shared, no commitment",3.7,Synthetic,Benjamin Davis,USA,Consul General
+T0007,2019-04-20,Alumni Visit,28,"KIIT, KISS",1.91,Alumni engagement / nostalgia visit,Partnership renewed,5.0,Synthetic,Daniel Dasgupta,India,Batch Representative
+T0008,2019-04-23,Alumni Visit,15,"KIIT, KIMS",2.84,Alumni engagement / nostalgia visit,Enrollment confirmed,4.3,Synthetic,清水 浩,Japan,Alumni Association Member
+T0009,2019-04-24,Alumni Visit,40,"KIIT, KISS",2.05,Alumni engagement / nostalgia visit,Follow-up scheduled,3.9,Synthetic,Laura Sanders,USA,Alumni Association Member
+T0010,2019-04-25,International Delegation,25,KIIT only,2.5,International partnership / MoU discussion,Positive press coverage,4.1,Synthetic,Alphonse Pascal-Lucas,France,Programme Director
+T0011,2019-04-27,Alumni Visit,36,"KIIT, KSAC, KISS",2.49,Alumni engagement / nostalgia visit,Partnership renewed,3.9,Synthetic,Oni Dhawan,India,Guest of Honour
+T0012,2019-04-28,Global Immersion / India Trek,39,KISS only,2.16,Cultural immersion programme,Positive press coverage,3.9,Synthetic,Darika Golla,India,Programme Coordinator
+T0013,2019-04-30,School Group,37,KIIT only,2.73,Cultural exchange / outreach,Follow-up scheduled,3.9,Synthetic,Gabriel Freitas,Brazil,Delegation Representative
+T0014,2019-05-01,Admission Counselling,416,"KIIT, KISS",1.45,Admission counselling / campus familiarization,Enrollment confirmed,3.1,Real,Dev Bhasin,India,Counselling Desk Coordinator
+T0015,2019-05-02,International Delegation,12,KISS only,3.2,International partnership / MoU discussion,Feedback collected,3.2,Synthetic,Emmanuelle Mahe du Diallo,France,International Liaison Officer
+T0016,2019-05-03,Admission Counselling,280,"KIIT, KISS",1.34,Admission counselling / campus familiarization,Follow-up scheduled,3.9,Real,Udyati Setty,India,Counselling Desk Coordinator
+T0017,2019-05-04,Admission Counselling,520,"KIIT, KIMS, KISS",1.22,Admission counselling / campus familiarization,Sponsorship renewed,3.6,Real,Chandani Kothari,India,Counselling Desk Coordinator
+T0018,2019-05-05,Global Immersion / India Trek,5,"KIIT, KIMS, KISS",3.0,Cultural immersion programme,Partnership renewed,4.4,Synthetic,橋本 翔太,Japan,Programme Coordinator
+T0019,2019-05-06,Government Dignitary Visit,20,KISS only,1.64,Government outreach on tribal welfare,Follow-up scheduled,3.7,Synthetic,Eric Simpson,USA,State Secretary (Tribal Welfare)
+T0020,2019-05-07,Global Immersion / India Trek,13,"KIIT, KIMS, KISS",1.82,Cultural immersion programme,Follow-up scheduled,3.4,Synthetic,Sophie Hervé,France,Programme Coordinator
+T0021,2019-05-08,Media Visit,18,"KIIT, KSAC, KISS",3.82,Press coverage,Feedback collected,5.0,Synthetic,Alan Hardy,UK,Bureau Chief
+T0022,2019-05-09,Alumni Visit,28,KISS only,2.6,Alumni engagement / nostalgia visit,MoU signed,4.1,Synthetic,Peter Hernandez,USA,Guest of Honour
+T0023,2019-05-10,Admission Counselling,501,"KIIT, KIMS, KISS",1.42,Admission counselling / campus familiarization,Return visit requested,4.2,Real,Oviya Baral,India,Counselling Desk Coordinator
+T0024,2019-05-11,Admission Counselling,216,"KIIT, KIMS, KISS",1.64,Admission counselling / campus familiarization,Partnership renewed,3.3,Real,Dipta Oak,India,Counselling Desk Coordinator
+T0025,2019-05-12,Admission Counselling,267,"KIIT, KISS",1.54,Admission counselling / campus familiarization,Enrollment confirmed,3.9,Real,Watika Shan,India,Counselling Desk Coordinator
+T0026,2019-05-13,Admission Counselling,249,"KIIT, KISS",1.49,Admission counselling / campus familiarization,Enrollment confirmed,4.3,Real,Girik Madan,India,Counselling Desk Coordinator
+T0027,2019-05-14,Admission Counselling,534,"KIIT, KIMS, KISS",1.74,Admission counselling / campus familiarization,Return visit requested,3.5,Real,Dhruv Bhat,India,Counselling Desk Coordinator
+T0028,2019-05-15,Diplomatic Visit,17,"KIIT, KIMS, KISS",1.98,Diplomatic goodwill visit,MoU signed,4.4,Synthetic,Sanaya Mane,India,Cultural Attache
+T0029,2019-05-16,Admission Counselling,238,"KIIT, KIMS, KISS",1.33,Admission counselling / campus familiarization,Positive press coverage,3.8,Real,Idika Bajaj,India,Counselling Desk Coordinator
+T0030,2019-05-17,Diplomatic Visit,15,"KIIT, KIMS, KISS",2.52,Diplomatic goodwill visit,Enrollment confirmed,4.0,Synthetic,Edward Thompson,UK,Cultural Attache
+T0031,2019-05-19,Admission Counselling,399,"KIIT, KISS",1.2,Admission counselling / campus familiarization,Return visit requested,3.8,Real,Wakeeta Bhargava,India,Counselling Desk Coordinator
+T0032,2019-05-22,Admission Counselling,279,"KIIT, KIMS, KISS",1.14,Admission counselling / campus familiarization,Feedback collected,5.0,Real,Bhavna Dayal,India,Counselling Desk Coordinator
+T0033,2019-05-23,Admission Counselling,360,"KIIT, KISS",1.04,Admission counselling / campus familiarization,Sponsorship renewed,4.2,Real,Mitali Raman,India,Counselling Desk Coordinator
+T0034,2019-05-24,Admission Counselling,460,"KIIT, KIMS, KISS",1.06,Admission counselling / campus familiarization,Donation pledged,3.6,Real,Faris Ganesan,India,Counselling Desk Coordinator
+T0035,2019-05-25,Admission Counselling,261,"KIIT, KIMS, KISS",1.71,Admission counselling / campus familiarization,Follow-up scheduled,4.7,Real,Neelima Mall,India,Counselling Desk Coordinator
+T0036,2019-05-26,Admission Counselling,498,"KIIT, KISS",1.42,Admission counselling / campus familiarization,Follow-up scheduled,3.5,Real,Qushi Mallick,India,Counselling Desk Coordinator
+T0037,2019-05-27,Admission Counselling,335,"KIIT, KISS",1.3,Admission counselling / campus familiarization,Sponsorship renewed,4.3,Real,Jagrati Rai,India,Counselling Desk Coordinator
+T0038,2019-05-29,Admission Counselling,488,"KIIT, KIMS, KISS",1.75,Admission counselling / campus familiarization,Positive press coverage,3.0,Real,Matthew Butala,India,Counselling Desk Coordinator
+T0039,2019-05-30,Corporate CSR Visit,20,"KIIT, KIMS",2.42,CSR partnership evaluation,Positive press coverage,3.0,Synthetic,Ngozi Okafor,Nigeria,Sustainability Lead
+T0040,2019-05-31,Admission Counselling,534,"KIIT, KISS",1.4,Admission counselling / campus familiarization,Follow-up scheduled,4.3,Real,Matthew Kata,India,Counselling Desk Coordinator
+T0041,2019-06-02,Corporate CSR Visit,11,"KIIT, KIMS",3.36,CSR partnership evaluation,Positive press coverage,4.2,Synthetic,Aimé Vallée-Pruvost,France,Sustainability Lead
+T0042,2019-06-03,Academic Partner Visit,18,"KIIT, KISS",3.22,Academic collaboration / MoU signing,Partnership renewed,4.3,Synthetic,Douglas Thomas,USA,Professor & Research Chair
+T0043,2019-06-06,Media Visit,22,"KIIT, KISS",1.61,Press coverage,Feedback collected,4.1,Synthetic,Eiravati Dass,India,Documentary Producer
+T0044,2019-06-08,Donor Visit - Art of Giving,40,KISS only,3.26,Donor relationship / philanthropy visit,Donation pledged,4.0,Synthetic,Dra. Ana Júlia Marques,Brazil,Philanthropy Director
+T0045,2019-06-11,International Delegation,28,"KIIT, KIMS",2.96,International partnership / MoU discussion,Donation pledged,2.9,Synthetic,Nathalie Chauvin-Alexandre,France,Visiting Faculty
+T0046,2019-06-12,International Delegation,27,"KIIT, KIMS",2.03,International partnership / MoU discussion,"Information shared, no commitment",3.4,Synthetic,Caroline Leduc,France,Visiting Faculty
+T0047,2019-06-17,Diplomatic Visit,15,"KIIT, KIMS",3.94,Diplomatic goodwill visit,Follow-up scheduled,3.5,Synthetic,佐藤 香織,Japan,Cultural Attache
+T0048,2019-06-18,Academic Partner Visit,31,"KIIT, KSAC, KISS",3.51,Academic collaboration / MoU signing,"Information shared, no commitment",4.8,Synthetic,Matthieu de la Masson,France,Professor & Research Chair
+T0049,2019-06-19,Corporate CSR Visit,29,"KIIT, KIMS, KISS",3.68,CSR partnership evaluation,Sponsorship renewed,4.4,Synthetic,Emeka Nwosu,Nigeria,Sustainability Lead
+T0050,2019-06-21,Diplomatic Visit,19,"KIIT, KIMS",1.56,Diplomatic goodwill visit,Partnership renewed,2.7,Synthetic,斎藤 加奈,Japan,Deputy Head of Mission
+T0051,2019-06-24,Alumni Visit,37,KISS only,2.5,Alumni engagement / nostalgia visit,Donation pledged,4.4,Synthetic,Ruth Hayes,UK,Alumni Association Member
+T0052,2019-06-25,Government Dignitary Visit,16,"KIIT, KISS",2.95,Government outreach on tribal welfare,Positive press coverage,4.0,Synthetic,Ngozi Okonkwo,Nigeria,State Secretary (Tribal Welfare)
+T0053,2019-06-28,MUN/TEDx Event Delegation,37,KISS only,1.79,Event sponsorship / jury hosting,Donation pledged,3.8,Synthetic,Januja Bal,India,Delegation Head
+T0054,2019-06-30,Global Immersion / India Trek,17,KIIT only,2.41,Cultural immersion programme,"Information shared, no commitment",4.2,Synthetic,Kelly Flynn,UK,Student Delegation Lead
+T0055,2019-07-03,Government Dignitary Visit,37,"KIIT, KIMS, KISS",2.27,Government outreach on tribal welfare,Return visit requested,4.8,Synthetic,山崎 太郎,Japan,District Collector
+T0056,2019-07-04,School Group,17,"KIIT, KIMS, KISS",2.55,Cultural exchange / outreach,Follow-up scheduled,4.8,Synthetic,Maria Clara Melo,Brazil,Delegation Representative
+T0057,2019-07-06,Global Immersion / India Trek,5,"KIIT, KIMS",2.26,Cultural immersion programme,Positive press coverage,3.3,Synthetic,Amy Baker,UK,Student Delegation Lead
+T0058,2019-07-08,Donor Visit - Art of Giving,33,KISS only,3.19,Donor relationship / philanthropy visit,Sponsorship renewed,4.0,Synthetic,Varsha Sule,India,Philanthropy Director
+T0059,2019-07-11,Alumni Visit,45,KIIT only,3.05,Alumni engagement / nostalgia visit,Follow-up scheduled,4.0,Synthetic,Augustin Meunier de Bouvet,France,Batch Representative
+T0060,2019-07-13,Diplomatic Visit,14,"KIIT, KIMS",1.56,Diplomatic goodwill visit,Feedback collected,4.4,Synthetic,Dennis Poole,USA,Deputy Head of Mission
+T0061,2019-07-15,Media Visit,45,"KIIT, KSAC, KISS",2.94,Press coverage,"Information shared, no commitment",3.9,Synthetic,Alexander Tapia,USA,Bureau Chief
+T0062,2019-07-17,International Delegation,11,"KIIT, KIMS",3.45,International partnership / MoU discussion,Return visit requested,3.7,Synthetic,高橋 結衣,Japan,Visiting Faculty
+T0063,2019-07-19,Diplomatic Visit,12,"KIIT, KIMS, KISS",2.64,Diplomatic goodwill visit,Feedback collected,3.5,Synthetic,Vinícius da Rosa,Brazil,Consul General
+T0064,2019-07-31,Diplomatic Visit,45,KISS only,2.19,Diplomatic goodwill visit,MoU signed,3.5,Synthetic,Emeka Balogun,Nigeria,Cultural Attache
+T0065,2019-08-01,Corporate CSR Visit,23,"KIIT, KISS",2.09,CSR partnership evaluation,Positive press coverage,4.7,Synthetic,Jordan Booth,UK,Sustainability Lead
+T0066,2019-08-02,School Group,19,"KIIT, KIMS",2.46,Cultural exchange / outreach,Follow-up scheduled,4.6,Synthetic,山口 さゆり,Japan,Delegation Representative
+T0067,2019-08-04,Donor Visit - Art of Giving,31,"KIIT, KIMS, KISS",1.66,Donor relationship / philanthropy visit,Sponsorship renewed,4.2,Synthetic,Udant Walia,India,Philanthropy Director
+T0068,2019-08-10,Academic Partner Visit,24,"KIIT, KIMS, KISS",3.38,Academic collaboration / MoU signing,Return visit requested,4.8,Synthetic,Tony Sheppard,UK,Professor & Research Chair
+T0069,2019-08-13,Diplomatic Visit,22,KIIT only,2.59,Diplomatic goodwill visit,Return visit requested,4.0,Synthetic,Gael da Costa,Brazil,Cultural Attache
+T0070,2019-08-16,Donor Visit - Art of Giving,13,KISS only,3.95,Donor relationship / philanthropy visit,Enrollment confirmed,3.8,Synthetic,Utkarsh Iyengar,India,Philanthropy Director
+T0071,2019-08-19,Media Visit,13,"KIIT, KIMS",3.67,Press coverage,Enrollment confirmed,4.0,Synthetic,Sabrina Fogaça,Brazil,Documentary Producer
+T0072,2019-08-20,Donor Visit - Art of Giving,25,"KIIT, KIMS, KISS",2.34,Donor relationship / philanthropy visit,Sponsorship renewed,5.0,Synthetic,Stephen Scott-Pearson,UK,Major Gifts Officer
+T0073,2019-08-25,Academic Partner Visit,19,"KIIT, KSAC, KISS",3.13,Academic collaboration / MoU signing,Donation pledged,4.2,Synthetic,Josette Leclercq,France,Vice-Provost
+T0074,2019-08-27,International Delegation,44,"KIIT, KIMS",1.88,International partnership / MoU discussion,Donation pledged,4.7,Synthetic,Tunde Balogun,Nigeria,International Liaison Officer
+T0075,2019-08-29,Government Dignitary Visit,28,KISS only,1.92,Government outreach on tribal welfare,Feedback collected,2.6,Synthetic,山田 春香,Japan,Policy Advisor
+T0076,2019-08-30,School Group,24,KIIT only,1.77,Cultural exchange / outreach,Feedback collected,4.3,Synthetic,Mrs Natalie Warner,UK,Delegation Representative
+T0077,2019-09-04,Alumni Visit,20,"KIIT, KISS",1.75,Alumni engagement / nostalgia visit,Feedback collected,4.3,Synthetic,田中 知実,Japan,Batch Representative
+T0078,2019-09-08,Global Immersion / India Trek,32,KIIT only,3.15,Cultural immersion programme,Partnership renewed,3.6,Synthetic,Dr. Leonard Smith,USA,Student Delegation Lead
+T0079,2019-09-09,Media Visit,36,"KIIT, KISS",1.76,Press coverage,"Information shared, no commitment",4.3,Synthetic,Frado Dar,India,Bureau Chief
+T0080,2019-09-14,Global Immersion / India Trek,35,"KIIT, KSAC, KISS",2.66,Cultural immersion programme,"Information shared, no commitment",3.0,Synthetic,Ryan Sridhar,India,Programme Coordinator
+T0081,2019-09-17,Donor Visit - Art of Giving,20,KISS only,3.38,Donor relationship / philanthropy visit,"Information shared, no commitment",4.1,Synthetic,Ifeoma Adeyemi,Nigeria,Major Gifts Officer
+T0082,2019-09-18,Donor Visit - Art of Giving,25,"KIIT, KIMS",1.95,Donor relationship / philanthropy visit,Partnership renewed,4.0,Synthetic,Jessica Fields,USA,Foundation Trustee
+T0083,2019-09-19,MUN/TEDx Event Delegation,22,KISS only,2.89,Event sponsorship / jury hosting,Follow-up scheduled,5.0,Synthetic,小川 裕太,Japan,Jury Chair
+T0084,2019-09-19,World Congress of Poets - Delegates,160,"KIIT, KISS",4.0,Event hosting / delegate coordination,Positive press coverage,4.6,Synthetic,遠藤 美加子,Japan,Delegate Lead
+T0085,2019-09-20,Media Visit,36,"KIIT, KIMS",2.89,Press coverage,Feedback collected,3.5,Synthetic,Ubika Ratti,India,Senior Correspondent
+T0086,2019-09-20,World Congress of Poets - Delegates,220,"KIIT, KISS",4.0,Event hosting / delegate coordination,Positive press coverage,4.4,Synthetic,山口 裕美子,Japan,Delegate Lead
+T0087,2019-09-21,World Congress of Poets - Delegates,190,"KIIT, KISS",4.0,Event hosting / delegate coordination,Positive press coverage,4.3,Synthetic,Éric du Lombard,France,Delegate Lead
+T0088,2019-09-23,Government Dignitary Visit,19,"KIIT, KIMS",2.51,Government outreach on tribal welfare,Positive press coverage,3.3,Synthetic,石川 健一,Japan,District Collector
+T0089,2019-09-26,Global Immersion / India Trek,26,"KIIT, KIMS, KISS",2.38,Cultural immersion programme,Partnership renewed,3.9,Synthetic,Alexandre Fernandes,France,Faculty Escort
+T0090,2019-09-27,Diplomatic Visit,25,KISS only,1.8,Diplomatic goodwill visit,Feedback collected,4.7,Synthetic,Julie Rios,USA,Deputy Head of Mission
+T0091,2019-09-28,Diplomatic Visit,35,KISS only,2.19,Diplomatic goodwill visit,Feedback collected,4.4,Synthetic,Ifeoma Okonkwo,Nigeria,Deputy Head of Mission
+T0092,2019-10-02,Academic Partner Visit,16,"KIIT, KSAC, KISS",2.26,Academic collaboration / MoU signing,Partnership renewed,3.9,Synthetic,Joel Robinson,UK,Vice-Provost
+T0093,2019-10-03,International Delegation,40,"KIIT, KIMS",2.23,International partnership / MoU discussion,"Information shared, no commitment",4.1,Synthetic,高橋 結衣,Japan,Visiting Faculty
+T0094,2019-10-04,International Delegation,41,"KIIT, KIMS, KISS",2.21,International partnership / MoU discussion,MoU signed,4.3,Synthetic,Adrian Arellano,USA,Visiting Faculty
+T0095,2019-10-06,Donor Visit - Art of Giving,12,"KIIT, KIMS, KISS",3.56,Donor relationship / philanthropy visit,Positive press coverage,4.8,Synthetic,Kelsey Peck,USA,Philanthropy Director
+T0096,2019-10-08,School Group,41,KIIT only,3.87,Cultural exchange / outreach,Follow-up scheduled,3.4,Synthetic,Shane Mckenzie,USA,Delegation Representative
+T0097,2019-10-10,MUN/TEDx Event Delegation,44,KISS only,2.06,Event sponsorship / jury hosting,Enrollment confirmed,4.0,Synthetic,Ayaan Krishnamurthy,India,Jury Chair
+T0098,2019-10-11,MUN/TEDx Event Delegation,32,KISS only,2.26,Event sponsorship / jury hosting,Return visit requested,4.0,Synthetic,Ngozi Balogun,Nigeria,Jury Chair
+T0099,2019-10-12,Diplomatic Visit,45,"KIIT, KSAC, KISS",2.03,Diplomatic goodwill visit,MoU signed,3.3,Synthetic,Brinda Thaker,India,Consul General
+T0100,2019-10-13,Corporate CSR Visit,15,"KIIT, KIMS, KISS",1.51,CSR partnership evaluation,"Information shared, no commitment",4.4,Synthetic,前田 太一,Japan,Sustainability Lead
+T0101,2019-10-14,Diplomatic Visit,23,"KIIT, KSAC, KISS",3.27,Diplomatic goodwill visit,Follow-up scheduled,4.4,Synthetic,Teresa Burton-Clarke,UK,Cultural Attache
+T0102,2019-10-21,Global Immersion / India Trek,19,"KIIT, KISS",3.12,Cultural immersion programme,Follow-up scheduled,4.2,Synthetic,Suzanne Dupré,France,Faculty Escort
+T0103,2019-10-22,Government Dignitary Visit,43,KISS only,3.37,Government outreach on tribal welfare,"Information shared, no commitment",4.1,Synthetic,Sue Fisher,USA,Policy Advisor
+T0104,2019-10-23,Government Dignitary Visit,30,KISS only,3.86,Government outreach on tribal welfare,Enrollment confirmed,3.4,Synthetic,Adaeze Nwosu,Nigeria,Policy Advisor
+T0105,2019-10-24,International Delegation,32,KISS only,3.34,International partnership / MoU discussion,Donation pledged,3.9,Synthetic,Folake Nwosu,Nigeria,Programme Director
+T0106,2019-10-25,Alumni Visit,41,KIIT only,2.97,Alumni engagement / nostalgia visit,Feedback collected,3.6,Synthetic,松本 直人,Japan,Alumni Association Member
+T0107,2019-10-29,Global Immersion / India Trek,33,"KIIT, KIMS",3.79,Cultural immersion programme,"Information shared, no commitment",3.3,Synthetic,遠藤 康弘,Japan,Student Delegation Lead
+T0108,2019-10-31,Corporate CSR Visit,35,"KIIT, KISS",2.37,CSR partnership evaluation,Donation pledged,4.1,Synthetic,斎藤 康弘,Japan,CSR Head
+T0109,2019-11-02,Donor Visit - Art of Giving,23,"KIIT, KIMS, KISS",3.16,Donor relationship / philanthropy visit,Feedback collected,4.4,Synthetic,Carrie Wells,USA,Philanthropy Director
+T0110,2019-11-03,Corporate CSR Visit,25,KIIT only,2.13,CSR partnership evaluation,"Information shared, no commitment",4.9,Synthetic,Kristie Nguyen,USA,VP Corporate Affairs
+T0111,2019-11-06,Global Immersion / India Trek,34,"KIIT, KIMS",2.53,Cultural immersion programme,Positive press coverage,3.9,Synthetic,Kristi Mueller,USA,Programme Coordinator
+T0112,2019-11-10,Global Immersion / India Trek,13,"KIIT, KIMS, KISS",3.82,Cultural immersion programme,"Information shared, no commitment",4.4,Synthetic,Heather George,UK,Student Delegation Lead
+T0113,2019-11-11,Alumni Visit,43,"KIIT, KSAC, KISS",3.5,Alumni engagement / nostalgia visit,Positive press coverage,4.2,Synthetic,Aradhana Basak,India,Alumni Association Member
+T0114,2019-11-12,Media Visit,10,KIIT only,2.06,Press coverage,Donation pledged,2.6,Synthetic,Yashica Sethi,India,Documentary Producer
+T0115,2019-11-14,Government Dignitary Visit,37,"KIIT, KIMS, KISS",3.26,Government outreach on tribal welfare,"Information shared, no commitment",4.2,Synthetic,Olivia Gaines,USA,Policy Advisor
+T0116,2019-11-15,Global Immersion / India Trek,14,KISS only,2.46,Cultural immersion programme,MoU signed,4.2,Synthetic,Eshana Tiwari,India,Faculty Escort
+T0117,2019-11-17,Media Visit,26,KISS only,3.84,Press coverage,Donation pledged,5.0,Synthetic,Émilie Jacquot Le Sauvage,France,Senior Correspondent
+T0118,2019-11-18,Government Dignitary Visit,42,"KIIT, KSAC, KISS",2.95,Government outreach on tribal welfare,MoU signed,4.1,Synthetic,Yashica Kota,India,State Secretary (Tribal Welfare)
+T0119,2019-11-19,Donor Visit - Art of Giving,27,KISS only,2.33,Donor relationship / philanthropy visit,Partnership renewed,4.4,Synthetic,Josette de la Pons,France,Foundation Trustee
+T0120,2019-11-22,Media Visit,19,"KIIT, KIMS, KISS",3.64,Press coverage,Return visit requested,4.2,Synthetic,Bryan Ramos,USA,Documentary Producer
+T0121,2019-11-23,Media Visit,29,"KIIT, KSAC, KISS",3.97,Press coverage,"Information shared, no commitment",3.5,Synthetic,Hollie Smith,UK,Bureau Chief
+T0122,2019-11-25,MUN/TEDx Event Delegation,26,"KIIT, KIMS, KISS",3.67,Event sponsorship / jury hosting,Enrollment confirmed,4.9,Synthetic,Franck Laroche,France,Jury Chair
+T0123,2019-11-26,School Group,31,"KIIT, KIMS",3.68,Cultural exchange / outreach,Sponsorship renewed,4.3,Synthetic,後藤 くみ子,Japan,Delegation Representative
+T0124,2019-11-28,Media Visit,10,"KIIT, KSAC, KISS",3.63,Press coverage,"Information shared, no commitment",4.7,Synthetic,Luke Kulkarni,India,Bureau Chief
+T0125,2019-12-02,Global Immersion / India Trek,7,"KIIT, KIMS",3.04,Cultural immersion programme,"Information shared, no commitment",3.3,Synthetic,藤原 翔太,Japan,Faculty Escort
+T0126,2019-12-05,Corporate CSR Visit,45,KIIT only,3.26,CSR partnership evaluation,Return visit requested,4.6,Synthetic,加藤 直樹,Japan,VP Corporate Affairs
+T0127,2019-12-06,International Delegation,7,KIIT only,2.31,International partnership / MoU discussion,Partnership renewed,3.0,Synthetic,Udarsh Edwin,India,Visiting Faculty
+T0128,2019-12-07,Diplomatic Visit,38,"KIIT, KSAC, KISS",2.53,Diplomatic goodwill visit,Follow-up scheduled,4.6,Synthetic,Yutika Raval,India,Cultural Attache
+T0129,2019-12-08,MUN/TEDx Event Delegation,29,"KIIT, KIMS",3.05,Event sponsorship / jury hosting,Positive press coverage,5.0,Synthetic,Dr Sandra Evans,UK,Delegation Head
+T0130,2019-12-09,Donor Visit - Art of Giving,45,"KIIT, KISS",2.13,Donor relationship / philanthropy visit,"Information shared, no commitment",3.6,Synthetic,Shannon Brown,UK,Foundation Trustee
+T0131,2019-12-12,Donor Visit - Art of Giving,27,"KIIT, KISS",3.97,Donor relationship / philanthropy visit,"Information shared, no commitment",3.9,Synthetic,Ngozi Eze,Nigeria,Philanthropy Director
+T0132,2019-12-14,Government Dignitary Visit,17,"KIIT, KIMS, KISS",4.0,Government outreach on tribal welfare,Enrollment confirmed,4.3,Synthetic,Jessica Smith,USA,Policy Advisor
+T0133,2019-12-18,Alumni Visit,30,KISS only,2.19,Alumni engagement / nostalgia visit,Feedback collected,3.9,Synthetic,Miss Molly Hunt,UK,Alumni Association Member
+T0134,2019-12-25,Academic Partner Visit,19,KISS only,3.09,Academic collaboration / MoU signing,Sponsorship renewed,3.3,Synthetic,Ian Caldeira,Brazil,Vice-Provost
+T0135,2020-01-01,Donor Visit - Art of Giving,7,"KIIT, KSAC, KISS",2.95,Donor relationship / philanthropy visit,Partnership renewed,4.2,Synthetic,Alka Magar,India,Major Gifts Officer
+T0136,2020-01-02,Media Visit,16,KISS only,2.0,Press coverage,"Information shared, no commitment",3.6,Synthetic,Katie Dixon,UK,Documentary Producer
+T0137,2020-01-06,Donor Visit - Art of Giving,23,"KIIT, KISS",3.37,Donor relationship / philanthropy visit,"Information shared, no commitment",4.5,Synthetic,Chinedu Okonkwo,Nigeria,Foundation Trustee
+T0138,2020-01-08,Diplomatic Visit,30,KISS only,3.92,Diplomatic goodwill visit,Sponsorship renewed,3.6,Synthetic,Marcel Labbé,France,Deputy Head of Mission
+T0139,2020-01-10,Corporate CSR Visit,34,"KIIT, KSAC, KISS",2.42,CSR partnership evaluation,Feedback collected,5.0,Synthetic,Deanna Hernandez,USA,VP Corporate Affairs
+T0140,2020-01-18,MUN/TEDx Event Delegation,19,"KIIT, KSAC, KISS",3.12,Event sponsorship / jury hosting,Feedback collected,3.7,Synthetic,Oluwaseun Eze,Nigeria,Delegation Head
+T0141,2020-01-19,Media Visit,12,KIIT only,1.85,Press coverage,Enrollment confirmed,3.6,Synthetic,Emeka Okonkwo,Nigeria,Senior Correspondent
+T0142,2020-01-20,Diplomatic Visit,39,"KIIT, KIMS, KISS",1.84,Diplomatic goodwill visit,Return visit requested,4.7,Synthetic,Virginie Le Blanc,France,Consul General
+T0143,2020-01-30,Academic Partner Visit,18,"KIIT, KIMS",2.61,Academic collaboration / MoU signing,Follow-up scheduled,3.1,Synthetic,Oluwaseun Adebayo,Nigeria,Professor & Research Chair
+T0144,2020-02-04,Government Dignitary Visit,17,"KIIT, KIMS, KISS",3.92,Government outreach on tribal welfare,MoU signed,4.3,Synthetic,Benjamin Sales,Brazil,State Secretary (Tribal Welfare)
+T0145,2020-02-07,Academic Partner Visit,20,KISS only,3.97,Academic collaboration / MoU signing,Sponsorship renewed,5.0,Synthetic,Steven Adams,USA,Vice-Provost
+T0146,2020-02-09,Diplomatic Visit,19,"KIIT, KIMS",2.32,Diplomatic goodwill visit,Feedback collected,2.8,Synthetic,山崎 陽一,Japan,Deputy Head of Mission
+T0147,2020-02-10,School Group,13,"KIIT, KIMS",2.85,Cultural exchange / outreach,Sponsorship renewed,3.9,Synthetic,Bryan Pereira,Brazil,Delegation Representative
+T0148,2020-02-11,International Delegation,27,"KIIT, KIMS",3.47,International partnership / MoU discussion,Follow-up scheduled,4.0,Synthetic,Ekalinga Lalla,India,Programme Director
+T0149,2020-02-12,International Delegation,13,KISS only,3.35,International partnership / MoU discussion,Donation pledged,4.7,Synthetic,山田 太一,Japan,Programme Director
+T0150,2020-02-16,Global Immersion / India Trek,19,KIIT only,3.86,Cultural immersion programme,Feedback collected,3.1,Synthetic,Jennifer Sexton DDS,USA,Student Delegation Lead
+T0151,2020-02-20,Donor Visit - Art of Giving,30,KIIT only,2.57,Donor relationship / philanthropy visit,Enrollment confirmed,3.0,Synthetic,Rémy Lacombe,France,Foundation Trustee
+T0152,2020-02-21,Corporate CSR Visit,25,KIIT only,3.02,CSR partnership evaluation,Positive press coverage,4.1,Synthetic,福田 健一,Japan,Sustainability Lead
+T0153,2020-02-24,MUN/TEDx Event Delegation,38,KISS only,2.24,Event sponsorship / jury hosting,Follow-up scheduled,4.4,Synthetic,Jessica Farrell-Begum,UK,Jury Chair
+T0154,2020-02-26,Alumni Visit,40,"KIIT, KIMS",3.3,Alumni engagement / nostalgia visit,MoU signed,4.0,Synthetic,Samesh Mann,India,Alumni Association Member
+T0155,2020-03-02,Academic Partner Visit,21,"KIIT, KIMS",2.44,Academic collaboration / MoU signing,"Information shared, no commitment",4.0,Synthetic,Xiti Gokhale,India,Dean of International Programs
+T0156,2020-03-03,Corporate CSR Visit,10,"KIIT, KSAC, KISS",2.58,CSR partnership evaluation,Follow-up scheduled,3.8,Synthetic,中村 明美,Japan,CSR Head
+T0157,2020-03-07,Corporate CSR Visit,31,"KIIT, KSAC, KISS",2.38,CSR partnership evaluation,"Information shared, no commitment",4.3,Synthetic,Karen Brown-Hunter,UK,CSR Head
+T0158,2020-03-14,Alumni Visit,35,KIIT only,2.06,Alumni engagement / nostalgia visit,Positive press coverage,4.0,Synthetic,山口 翔太,Japan,Guest of Honour
+T0159,2020-03-24,Alumni Visit,22,"KIIT, KISS",1.57,Alumni engagement / nostalgia visit,"Information shared, no commitment",3.8,Synthetic,Catherine Delmas,France,Alumni Association Member
+T0160,2020-03-27,School Group,41,KIIT only,3.14,Cultural exchange / outreach,Return visit requested,4.9,Synthetic,阿部 結衣,Japan,Delegation Representative
+T0161,2020-03-29,Global Immersion / India Trek,18,"KIIT, KIMS, KISS",2.44,Cultural immersion programme,Partnership renewed,4.5,Synthetic,Chinedu Adebayo,Nigeria,Student Delegation Lead
+T0162,2020-03-30,Academic Partner Visit,41,KIIT only,2.99,Academic collaboration / MoU signing,Sponsorship renewed,3.1,Synthetic,Yashawini Morar,India,Professor & Research Chair
+T0163,2020-04-02,Alumni Visit,32,"KIIT, KIMS, KISS",2.71,Alumni engagement / nostalgia visit,MoU signed,4.6,Synthetic,Oluwaseun Nwosu,Nigeria,Alumni Association Member
+T0164,2020-04-04,Media Visit,12,"KIIT, KSAC, KISS",2.21,Press coverage,Feedback collected,3.6,Synthetic,岡本 太一,Japan,Documentary Producer
+T0165,2020-04-06,Media Visit,43,"KIIT, KIMS",1.64,Press coverage,MoU signed,4.3,Synthetic,Lindsey Briggs,UK,Senior Correspondent
+T0166,2020-04-09,Corporate CSR Visit,5,"KIIT, KIMS, KISS",2.74,CSR partnership evaluation,Enrollment confirmed,4.9,Synthetic,Folake Nwosu,Nigeria,VP Corporate Affairs
+T0167,2020-04-11,Global Immersion / India Trek,27,"KIIT, KSAC, KISS",1.68,Cultural immersion programme,Donation pledged,3.7,Synthetic,Nathan Ferreira,Brazil,Programme Coordinator
+T0168,2020-04-13,Academic Partner Visit,41,"KIIT, KIMS, KISS",2.57,Academic collaboration / MoU signing,"Information shared, no commitment",4.8,Synthetic,Davi Lucca Albuquerque,Brazil,Dean of International Programs
+T0169,2020-04-14,Media Visit,6,"KIIT, KIMS",3.92,Press coverage,Feedback collected,4.0,Synthetic,Patrick Scott,USA,Senior Correspondent
+T0170,2020-04-19,Media Visit,42,KIIT only,2.5,Press coverage,Partnership renewed,4.3,Synthetic,Christopher Chad,India,Senior Correspondent
+T0171,2020-04-21,School Group,9,KIIT only,2.78,Cultural exchange / outreach,MoU signed,4.9,Synthetic,Claude Leconte,France,Delegation Representative
+T0172,2020-04-23,Alumni Visit,14,"KIIT, KIMS",2.09,Alumni engagement / nostalgia visit,MoU signed,3.7,Synthetic,Ngozi Eze,Nigeria,Guest of Honour
+T0173,2020-04-27,Alumni Visit,36,KISS only,2.66,Alumni engagement / nostalgia visit,"Information shared, no commitment",3.7,Synthetic,斎藤 七夏,Japan,Guest of Honour
+T0174,2020-05-02,Academic Partner Visit,14,"KIIT, KIMS, KISS",2.6,Academic collaboration / MoU signing,Partnership renewed,3.7,Synthetic,Fiona Skinner,UK,Dean of International Programs
+T0175,2020-05-03,Admission Counselling,380,"KIIT, KISS",1.38,Admission counselling / campus familiarization,Donation pledged,3.7,Synthetic,Sanaya Aggarwal,India,Counselling Desk Coordinator
+T0176,2020-05-04,Corporate CSR Visit,10,KISS only,3.04,CSR partnership evaluation,Positive press coverage,4.2,Synthetic,Jules-Jacques Lévy,France,Sustainability Lead
+T0177,2020-05-05,Admission Counselling,221,"KIIT, KIMS, KISS",1.34,Admission counselling / campus familiarization,Enrollment confirmed,4.4,Synthetic,Yash Banerjee,India,Counselling Desk Coordinator
+T0178,2020-05-06,Donor Visit - Art of Giving,11,"KIIT, KISS",3.53,Donor relationship / philanthropy visit,Follow-up scheduled,4.4,Synthetic,Emily Kelly,USA,Philanthropy Director
+T0179,2020-05-07,Admission Counselling,326,"KIIT, KISS",1.53,Admission counselling / campus familiarization,Positive press coverage,4.7,Synthetic,Gautami Raj,India,Counselling Desk Coordinator
+T0180,2020-05-08,Admission Counselling,344,"KIIT, KISS",1.29,Admission counselling / campus familiarization,Follow-up scheduled,4.2,Synthetic,Vaishnavi Mallick,India,Counselling Desk Coordinator
+T0181,2020-05-09,Admission Counselling,233,"KIIT, KISS",1.25,Admission counselling / campus familiarization,Return visit requested,5.0,Synthetic,Yuvraj Thaman,India,Counselling Desk Coordinator
+T0182,2020-05-10,MUN/TEDx Event Delegation,14,KISS only,2.33,Event sponsorship / jury hosting,"Information shared, no commitment",4.0,Synthetic,Gavin Lalla,India,Delegation Head
+T0183,2020-05-11,Admission Counselling,539,"KIIT, KIMS, KISS",1.29,Admission counselling / campus familiarization,Enrollment confirmed,5.0,Synthetic,Maanas Ratta,India,Counselling Desk Coordinator
+T0184,2020-05-12,Admission Counselling,265,"KIIT, KIMS, KISS",1.5,Admission counselling / campus familiarization,"Information shared, no commitment",4.6,Synthetic,Meera Bajaj,India,Counselling Desk Coordinator
+T0185,2020-05-13,Admission Counselling,358,"KIIT, KIMS, KISS",1.14,Admission counselling / campus familiarization,Sponsorship renewed,3.7,Synthetic,Daksha Kaul,India,Counselling Desk Coordinator
+T0186,2020-05-14,Admission Counselling,270,"KIIT, KISS",1.12,Admission counselling / campus familiarization,Follow-up scheduled,3.6,Synthetic,Mohammed Ramachandran,India,Counselling Desk Coordinator
+T0187,2020-05-15,Admission Counselling,578,"KIIT, KIMS, KISS",1.66,Admission counselling / campus familiarization,Feedback collected,4.5,Synthetic,Warda Doctor,India,Counselling Desk Coordinator
+T0188,2020-05-16,Admission Counselling,283,"KIIT, KIMS, KISS",1.14,Admission counselling / campus familiarization,Follow-up scheduled,4.1,Synthetic,Maanav Bassi,India,Counselling Desk Coordinator
+T0189,2020-05-17,Admission Counselling,321,"KIIT, KISS",1.73,Admission counselling / campus familiarization,"Information shared, no commitment",4.6,Synthetic,Yashasvi Dewan,India,Counselling Desk Coordinator
+T0190,2020-05-18,Admission Counselling,440,"KIIT, KIMS, KISS",1.68,Admission counselling / campus familiarization,Positive press coverage,4.5,Synthetic,Victor Chada,India,Counselling Desk Coordinator
+T0191,2020-05-20,Admission Counselling,395,"KIIT, KISS",1.38,Admission counselling / campus familiarization,Follow-up scheduled,4.2,Synthetic,Benjamin Deol,India,Counselling Desk Coordinator
+T0192,2020-05-21,Admission Counselling,328,"KIIT, KISS",1.04,Admission counselling / campus familiarization,Feedback collected,3.7,Synthetic,Henry Puri,India,Counselling Desk Coordinator
+T0193,2020-05-23,Admission Counselling,263,"KIIT, KIMS, KISS",1.21,Admission counselling / campus familiarization,Positive press coverage,3.3,Synthetic,Chandresh Bahl,India,Counselling Desk Coordinator
+T0194,2020-05-24,Admission Counselling,313,"KIIT, KISS",1.61,Admission counselling / campus familiarization,"Information shared, no commitment",3.9,Synthetic,Vrishti Lalla,India,Counselling Desk Coordinator
+T0195,2020-05-25,Admission Counselling,320,"KIIT, KIMS, KISS",1.29,Admission counselling / campus familiarization,Donation pledged,4.7,Synthetic,Tanmayi Boase,India,Counselling Desk Coordinator
+T0196,2020-05-26,Admission Counselling,565,"KIIT, KIMS, KISS",1.49,Admission counselling / campus familiarization,Partnership renewed,4.3,Synthetic,Dominic Som,India,Counselling Desk Coordinator
+T0197,2020-05-28,Donor Visit - Art of Giving,33,KIIT only,3.04,Donor relationship / philanthropy visit,MoU signed,3.1,Synthetic,Breno da Luz,Brazil,Philanthropy Director
+T0198,2020-05-29,Admission Counselling,572,"KIIT, KISS",1.46,Admission counselling / campus familiarization,Partnership renewed,4.3,Synthetic,Samesh Kashyap,India,Counselling Desk Coordinator
+T0199,2020-05-30,Admission Counselling,322,"KIIT, KISS",1.31,Admission counselling / campus familiarization,Sponsorship renewed,4.4,Synthetic,Wakeeta Raja,India,Counselling Desk Coordinator
+T0200,2020-06-02,Global Immersion / India Trek,41,"KIIT, KIMS",2.1,Cultural immersion programme,Donation pledged,3.3,Synthetic,Olivier Pottier,France,Student Delegation Lead
+T0201,2020-06-04,Media Visit,16,KIIT only,3.16,Press coverage,Partnership renewed,3.9,Synthetic,Anthony Chen,USA,Bureau Chief
+T0202,2020-06-05,Global Immersion / India Trek,39,KISS only,2.77,Cultural immersion programme,"Information shared, no commitment",4.2,Synthetic,Oluwaseun Adebayo,Nigeria,Programme Coordinator
+T0203,2020-06-07,Media Visit,28,KIIT only,2.13,Press coverage,Donation pledged,3.1,Synthetic,Faras Din,India,Bureau Chief
+T0204,2020-06-08,Alumni Visit,45,KISS only,1.76,Alumni engagement / nostalgia visit,"Information shared, no commitment",4.4,Synthetic,Matthew Schwartz,USA,Batch Representative
+T0205,2020-06-09,Academic Partner Visit,39,"KIIT, KSAC, KISS",2.35,Academic collaboration / MoU signing,Sponsorship renewed,4.5,Synthetic,Christiane Richard du Bonnet,France,Dean of International Programs
+T0206,2020-06-13,School Group,9,"KIIT, KIMS, KISS",3.29,Cultural exchange / outreach,MoU signed,4.8,Synthetic,Emeka Balogun,Nigeria,Delegation Representative
+T0207,2020-06-14,Diplomatic Visit,7,"KIIT, KISS",2.29,Diplomatic goodwill visit,Sponsorship renewed,4.8,Synthetic,Ngozi Okafor,Nigeria,Cultural Attache
+T0208,2020-06-16,Alumni Visit,17,KIIT only,2.22,Alumni engagement / nostalgia visit,"Information shared, no commitment",3.0,Synthetic,Aaron Page,UK,Batch Representative
+T0209,2020-06-17,Academic Partner Visit,32,"KIIT, KSAC, KISS",3.72,Academic collaboration / MoU signing,Enrollment confirmed,3.6,Synthetic,Henrique Rocha,Brazil,Vice-Provost
+T0210,2020-06-18,School Group,36,"KIIT, KISS",3.23,Cultural exchange / outreach,Feedback collected,4.5,Synthetic,Folake Adebayo,Nigeria,Delegation Representative
+T0211,2020-06-19,Corporate CSR Visit,32,KISS only,1.7,CSR partnership evaluation,Follow-up scheduled,4.5,Synthetic,Luce Neveu,France,CSR Head
+T0212,2020-06-21,Corporate CSR Visit,25,"KIIT, KISS",3.15,CSR partnership evaluation,Return visit requested,4.5,Synthetic,Louise du Turpin,France,Sustainability Lead
+T0213,2020-06-25,Academic Partner Visit,44,"KIIT, KISS",4.0,Academic collaboration / MoU signing,Follow-up scheduled,5.0,Synthetic,Jagat Iyengar,India,Professor & Research Chair
+T0214,2020-06-26,Alumni Visit,30,"KIIT, KSAC, KISS",2.41,Alumni engagement / nostalgia visit,Follow-up scheduled,4.5,Synthetic,Ngozi Eze,Nigeria,Alumni Association Member
+T0215,2020-06-27,MUN/TEDx Event Delegation,33,KIIT only,1.59,Event sponsorship / jury hosting,Return visit requested,4.5,Synthetic,Ngozi Adeyemi,Nigeria,Event Sponsor Representative
+T0216,2020-07-10,Corporate CSR Visit,6,"KIIT, KIMS, KISS",3.34,CSR partnership evaluation,Positive press coverage,4.8,Synthetic,松田 幹,Japan,Sustainability Lead
+T0217,2020-07-11,Government Dignitary Visit,33,KISS only,2.04,Government outreach on tribal welfare,Enrollment confirmed,4.6,Synthetic,João Vitor Marques,Brazil,State Secretary (Tribal Welfare)
+T0218,2020-07-12,School Group,9,"KIIT, KSAC, KISS",2.63,Cultural exchange / outreach,Donation pledged,4.0,Synthetic,Philippe Lebreton,France,Delegation Representative
+T0219,2020-07-19,Government Dignitary Visit,15,"KIIT, KSAC, KISS",3.28,Government outreach on tribal welfare,"Information shared, no commitment",4.7,Synthetic,Georgina Kelly-Harding,UK,Policy Advisor
+T0220,2020-07-21,Diplomatic Visit,13,"KIIT, KIMS, KISS",2.09,Diplomatic goodwill visit,Positive press coverage,3.7,Synthetic,Auguste de Blanchard,France,Cultural Attache
+T0221,2020-07-25,Corporate CSR Visit,9,"KIIT, KSAC, KISS",2.27,CSR partnership evaluation,Feedback collected,4.1,Synthetic,Julie Le Payet,France,VP Corporate Affairs
+T0222,2020-07-29,Academic Partner Visit,9,"KIIT, KSAC, KISS",2.62,Academic collaboration / MoU signing,MoU signed,3.9,Synthetic,Chinedu Eze,Nigeria,Dean of International Programs
+T0223,2020-08-02,School Group,32,KIIT only,2.76,Cultural exchange / outreach,Feedback collected,3.8,Synthetic,Lynn Ramirez,USA,Delegation Representative
+T0224,2020-08-03,School Group,15,"KIIT, KSAC, KISS",2.31,Cultural exchange / outreach,Positive press coverage,5.0,Synthetic,Lindsey Owen,UK,Delegation Representative
+T0225,2020-08-06,Alumni Visit,40,"KIIT, KSAC, KISS",2.19,Alumni engagement / nostalgia visit,Positive press coverage,3.1,Synthetic,Chinedu Eze,Nigeria,Batch Representative
+T0226,2020-08-07,Alumni Visit,15,KISS only,2.98,Alumni engagement / nostalgia visit,Return visit requested,4.6,Synthetic,Véronique Carlier,France,Alumni Association Member
+T0227,2020-08-10,MUN/TEDx Event Delegation,7,KIIT only,3.56,Event sponsorship / jury hosting,Return visit requested,2.8,Synthetic,Chinedu Nwosu,Nigeria,Jury Chair
+T0228,2020-08-12,Diplomatic Visit,41,"KIIT, KSAC, KISS",2.54,Diplomatic goodwill visit,Return visit requested,3.9,Synthetic,Édouard Bernard,France,Cultural Attache
+T0229,2020-08-15,Diplomatic Visit,30,KIIT only,2.24,Diplomatic goodwill visit,Follow-up scheduled,4.5,Synthetic,Stéphanie Lebon,France,Cultural Attache
+T0230,2020-08-18,MUN/TEDx Event Delegation,14,"KIIT, KSAC, KISS",2.28,Event sponsorship / jury hosting,Sponsorship renewed,4.2,Synthetic,Charles Cooper,USA,Delegation Head
+T0231,2020-08-19,Media Visit,13,KISS only,3.4,Press coverage,"Information shared, no commitment",3.6,Synthetic,Mrs Maria Winter,UK,Bureau Chief
+T0232,2020-08-20,Corporate CSR Visit,22,"KIIT, KIMS",2.62,CSR partnership evaluation,Partnership renewed,3.4,Synthetic,Nicole Mathieu,France,Sustainability Lead
+T0233,2020-08-29,School Group,36,"KIIT, KIMS, KISS",3.99,Cultural exchange / outreach,Partnership renewed,4.6,Synthetic,Tunde Eze,Nigeria,Delegation Representative
+T0234,2020-08-31,Media Visit,37,"KIIT, KIMS",2.64,Press coverage,Partnership renewed,3.4,Synthetic,Anthony Gabriel Sousa,Brazil,Documentary Producer
+T0235,2020-09-01,Government Dignitary Visit,36,"KIIT, KSAC, KISS",2.99,Government outreach on tribal welfare,"Information shared, no commitment",4.3,Synthetic,Hayley Patel-Leach,UK,Policy Advisor
+T0236,2020-09-11,Global Immersion / India Trek,23,KISS only,1.68,Cultural immersion programme,Positive press coverage,4.2,Synthetic,Ms. Heather Patterson MD,USA,Faculty Escort
+T0237,2020-09-12,MUN/TEDx Event Delegation,44,KIIT only,1.8,Event sponsorship / jury hosting,Sponsorship renewed,3.4,Synthetic,Brian Davenport,USA,Jury Chair
+T0238,2020-09-16,MUN/TEDx Event Delegation,37,KIIT only,2.5,Event sponsorship / jury hosting,MoU signed,5.0,Synthetic,Manthan Krish,India,Jury Chair
+T0239,2020-09-20,Global Immersion / India Trek,13,KISS only,2.32,Cultural immersion programme,Enrollment confirmed,4.6,Synthetic,吉田 花子,Japan,Faculty Escort
+T0240,2020-09-23,Academic Partner Visit,37,KISS only,3.57,Academic collaboration / MoU signing,Positive press coverage,3.0,Synthetic,Kashvi Sangha,India,Vice-Provost
+T0241,2020-09-24,International Delegation,28,KIIT only,2.33,International partnership / MoU discussion,Feedback collected,3.9,Synthetic,Robin Mccoy,USA,Programme Director
+T0242,2020-09-25,Alumni Visit,6,"KIIT, KISS",2.99,Alumni engagement / nostalgia visit,Feedback collected,3.8,Synthetic,Faris Bawa,India,Alumni Association Member
+T0243,2020-09-29,Alumni Visit,44,"KIIT, KIMS, KISS",3.44,Alumni engagement / nostalgia visit,Return visit requested,4.7,Synthetic,Sra. Milena Pimenta,Brazil,Batch Representative
+T0244,2020-09-30,MUN/TEDx Event Delegation,12,"KIIT, KIMS, KISS",1.98,Event sponsorship / jury hosting,MoU signed,3.7,Synthetic,Chinedu Adebayo,Nigeria,Event Sponsor Representative
+T0245,2020-10-01,Diplomatic Visit,31,KISS only,2.75,Diplomatic goodwill visit,Feedback collected,4.1,Synthetic,João Pedro Mendonça,Brazil,Cultural Attache
+T0246,2020-10-07,Media Visit,25,"KIIT, KIMS, KISS",3.89,Press coverage,"Information shared, no commitment",4.5,Synthetic,Yan Cardoso,Brazil,Bureau Chief
+T0247,2020-10-13,Donor Visit - Art of Giving,17,"KIIT, KISS",3.89,Donor relationship / philanthropy visit,Follow-up scheduled,4.7,Synthetic,Jason Campbell,USA,Foundation Trustee
+T0248,2020-10-19,Donor Visit - Art of Giving,27,"KIIT, KSAC, KISS",2.9,Donor relationship / philanthropy visit,Donation pledged,3.5,Synthetic,Parker Delgado,USA,Foundation Trustee
+T0249,2020-10-23,Academic Partner Visit,14,"KIIT, KISS",2.23,Academic collaboration / MoU signing,Follow-up scheduled,4.0,Synthetic,David Webb,USA,Vice-Provost
+T0250,2020-10-24,Donor Visit - Art of Giving,21,"KIIT, KIMS",3.37,Donor relationship / philanthropy visit,Positive press coverage,3.5,Synthetic,Jagdish Ganesh,India,Foundation Trustee
+T0251,2020-10-25,Global Immersion / India Trek,22,KISS only,1.84,Cultural immersion programme,Follow-up scheduled,3.8,Synthetic,鈴木 直人,Japan,Programme Coordinator
+T0252,2020-10-26,Alumni Visit,38,"KIIT, KIMS",2.06,Alumni engagement / nostalgia visit,Enrollment confirmed,4.9,Synthetic,Hellena Machado,Brazil,Alumni Association Member
+T0253,2020-10-27,Donor Visit - Art of Giving,11,"KIIT, KIMS",3.2,Donor relationship / philanthropy visit,Positive press coverage,4.0,Synthetic,Whitney Cole,USA,Major Gifts Officer
+T0254,2020-10-29,Alumni Visit,35,"KIIT, KIMS",2.69,Alumni engagement / nostalgia visit,"Information shared, no commitment",3.0,Synthetic,井上 翔太,Japan,Guest of Honour
+T0255,2020-10-30,Alumni Visit,8,KIIT only,3.77,Alumni engagement / nostalgia visit,Follow-up scheduled,4.4,Synthetic,田中 英樹,Japan,Batch Representative
+T0256,2020-11-04,School Group,7,"KIIT, KIMS, KISS",3.99,Cultural exchange / outreach,Follow-up scheduled,5.0,Synthetic,山本 太郎,Japan,Delegation Representative
+T0257,2020-11-09,MUN/TEDx Event Delegation,43,"KIIT, KISS",1.77,Event sponsorship / jury hosting,Return visit requested,4.8,Synthetic,Ruth Howell-Brown,UK,Jury Chair
+T0258,2020-11-11,School Group,37,"KIIT, KIMS",2.67,Cultural exchange / outreach,"Information shared, no commitment",2.9,Synthetic,Leela Sachdev,India,Delegation Representative
+T0259,2020-11-12,Donor Visit - Art of Giving,21,KIIT only,3.3,Donor relationship / philanthropy visit,"Information shared, no commitment",3.5,Synthetic,Krisha Madan,India,Foundation Trustee
+T0260,2020-11-15,Alumni Visit,30,KISS only,3.57,Alumni engagement / nostalgia visit,Enrollment confirmed,5.0,Synthetic,Anne Didier,France,Batch Representative
+T0261,2020-11-17,School Group,35,"KIIT, KIMS",2.31,Cultural exchange / outreach,Enrollment confirmed,3.4,Synthetic,木村 春香,Japan,Delegation Representative
+T0262,2020-11-18,Government Dignitary Visit,26,"KIIT, KSAC, KISS",2.25,Government outreach on tribal welfare,"Information shared, no commitment",4.5,Synthetic,池田 直人,Japan,District Collector
+T0263,2020-11-21,Corporate CSR Visit,34,"KIIT, KIMS, KISS",2.27,CSR partnership evaluation,Feedback collected,4.7,Synthetic,Benjamin Le Menard,France,Sustainability Lead
+T0264,2020-11-26,Diplomatic Visit,19,"KIIT, KIMS, KISS",3.89,Diplomatic goodwill visit,Return visit requested,3.6,Synthetic,Dr Josephine Williams,UK,Cultural Attache
+T0265,2020-11-28,Global Immersion / India Trek,35,"KIIT, KSAC, KISS",3.39,Cultural immersion programme,Follow-up scheduled,4.2,Synthetic,Anthony Datta,India,Programme Coordinator
+T0266,2020-12-04,MUN/TEDx Event Delegation,12,KISS only,1.65,Event sponsorship / jury hosting,Follow-up scheduled,2.3,Synthetic,Oluwaseun Okafor,Nigeria,Event Sponsor Representative
+T0267,2020-12-06,Academic Partner Visit,38,"KIIT, KSAC, KISS",2.6,Academic collaboration / MoU signing,Positive press coverage,3.6,Synthetic,Kirsty Ellis,UK,Professor & Research Chair
+T0268,2020-12-07,Global Immersion / India Trek,33,"KIIT, KIMS, KISS",3.52,Cultural immersion programme,Enrollment confirmed,4.0,Synthetic,Vrishti Acharya,India,Programme Coordinator
+T0269,2020-12-08,International Delegation,40,"KIIT, KISS",2.66,International partnership / MoU discussion,"Information shared, no commitment",3.5,Synthetic,Lynn Begum,UK,Visiting Faculty
+T0270,2020-12-09,International Delegation,18,KIIT only,2.95,International partnership / MoU discussion,Return visit requested,4.8,Synthetic,Folake Adebayo,Nigeria,International Liaison Officer
+T0271,2020-12-10,International Delegation,9,"KIIT, KIMS, KISS",3.97,International partnership / MoU discussion,Enrollment confirmed,3.3,Synthetic,Ifeoma Nwosu,Nigeria,Visiting Faculty
+T0272,2020-12-11,School Group,31,"KIIT, KIMS, KISS",2.44,Cultural exchange / outreach,Enrollment confirmed,3.9,Synthetic,Suzanne du Menard,France,Delegation Representative
+T0273,2020-12-12,Alumni Visit,39,"KIIT, KISS",1.83,Alumni engagement / nostalgia visit,Positive press coverage,4.3,Synthetic,Henry Gabriel Cassiano,Brazil,Batch Representative
+T0274,2020-12-13,School Group,19,KIIT only,3.59,Cultural exchange / outreach,"Information shared, no commitment",4.7,Synthetic,Ikbal Shankar,India,Delegation Representative
+T0275,2020-12-18,Academic Partner Visit,14,"KIIT, KSAC, KISS",2.19,Academic collaboration / MoU signing,Follow-up scheduled,3.3,Synthetic,Balveer Agarwal,India,Vice-Provost
+T0276,2020-12-20,International Delegation,20,KIIT only,2.02,International partnership / MoU discussion,"Information shared, no commitment",4.5,Synthetic,Crystal Gillespie,USA,Programme Director
+T0277,2020-12-23,International Delegation,30,KISS only,2.6,International partnership / MoU discussion,Sponsorship renewed,4.2,Synthetic,Kabir Krishnamurthy,India,Programme Director
+T0278,2020-12-25,Government Dignitary Visit,19,"KIIT, KSAC, KISS",3.54,Government outreach on tribal welfare,Feedback collected,3.6,Synthetic,Isaac Chaudhary,India,Policy Advisor
+T0279,2020-12-28,Government Dignitary Visit,14,KISS only,3.96,Government outreach on tribal welfare,Partnership renewed,4.5,Synthetic,Charita Vohra,India,District Collector
+T0280,2020-12-29,Global Immersion / India Trek,42,"KIIT, KIMS",3.7,Cultural immersion programme,"Information shared, no commitment",3.9,Synthetic,Lipika Lal,India,Student Delegation Lead
+T0281,2020-12-31,Academic Partner Visit,29,"KIIT, KISS",3.46,Academic collaboration / MoU signing,"Information shared, no commitment",3.8,Synthetic,Oluwaseun Okafor,Nigeria,Professor & Research Chair
+T0282,2021-01-01,Media Visit,16,"KIIT, KIMS, KISS",3.39,Press coverage,MoU signed,4.2,Synthetic,Chinedu Nwosu,Nigeria,Senior Correspondent
+T0283,2021-01-02,School Group,34,KISS only,3.79,Cultural exchange / outreach,Enrollment confirmed,4.0,Synthetic,Abbie Winter,UK,Delegation Representative
+T0284,2021-01-04,Diplomatic Visit,21,"KIIT, KSAC, KISS",2.01,Diplomatic goodwill visit,Enrollment confirmed,4.3,Synthetic,Derek Turner,UK,Cultural Attache
+T0285,2021-01-06,Diplomatic Visit,8,"KIIT, KSAC, KISS",2.17,Diplomatic goodwill visit,Follow-up scheduled,4.6,Synthetic,Eugene Franco,USA,Consul General
+T0286,2021-01-08,MUN/TEDx Event Delegation,40,"KIIT, KIMS",2.04,Event sponsorship / jury hosting,"Information shared, no commitment",4.8,Synthetic,Noël Laine-Huet,France,Delegation Head
+T0287,2021-01-09,International Delegation,18,"KIIT, KSAC, KISS",3.84,International partnership / MoU discussion,Sponsorship renewed,3.5,Synthetic,Alyssa Jenkins,USA,Visiting Faculty
+T0288,2021-01-11,MUN/TEDx Event Delegation,18,"KIIT, KIMS",2.49,Event sponsorship / jury hosting,"Information shared, no commitment",5.0,Synthetic,Amy Lee,USA,Jury Chair
+T0289,2021-01-15,Global Immersion / India Trek,36,"KIIT, KSAC, KISS",2.67,Cultural immersion programme,Sponsorship renewed,3.0,Synthetic,Finn Kurian,India,Programme Coordinator
+T0290,2021-01-16,Diplomatic Visit,28,KIIT only,2.28,Diplomatic goodwill visit,Follow-up scheduled,3.7,Synthetic,Jeff Wood,USA,Deputy Head of Mission
+T0291,2021-01-18,Global Immersion / India Trek,42,"KIIT, KIMS, KISS",2.95,Cultural immersion programme,MoU signed,4.6,Synthetic,Ana Beatriz Sampaio,Brazil,Faculty Escort
+T0292,2021-01-19,Media Visit,41,"KIIT, KIMS, KISS",3.58,Press coverage,Feedback collected,4.4,Synthetic,Paulette Étienne,France,Senior Correspondent
+T0293,2021-01-20,Donor Visit - Art of Giving,36,"KIIT, KSAC, KISS",2.65,Donor relationship / philanthropy visit,Follow-up scheduled,3.8,Synthetic,Joe Ryan,UK,Foundation Trustee
+T0294,2021-01-21,Global Immersion / India Trek,36,KISS only,1.96,Cultural immersion programme,Follow-up scheduled,4.1,Synthetic,Philippe Mercier de la Costa,France,Student Delegation Lead
+T0295,2021-01-24,Alumni Visit,8,"KIIT, KIMS, KISS",3.41,Alumni engagement / nostalgia visit,Return visit requested,3.9,Synthetic,Emily Wilkins,USA,Batch Representative
+T0296,2021-01-25,School Group,5,"KIIT, KIMS, KISS",2.05,Cultural exchange / outreach,Positive press coverage,3.8,Synthetic,Joan Quinn,UK,Delegation Representative
+T0297,2021-01-30,Global Immersion / India Trek,40,KIIT only,2.53,Cultural immersion programme,Partnership renewed,4.3,Synthetic,Dr Alexander Watson,UK,Programme Coordinator
+T0298,2021-02-01,Global Immersion / India Trek,32,"KIIT, KIMS",3.52,Cultural immersion programme,Donation pledged,4.0,Synthetic,Rachit Kapoor,India,Programme Coordinator
+T0299,2021-02-03,MUN/TEDx Event Delegation,38,"KIIT, KISS",2.13,Event sponsorship / jury hosting,Enrollment confirmed,3.8,Synthetic,Maria Vitória Rios,Brazil,Delegation Head
+T0300,2021-02-04,Media Visit,34,"KIIT, KSAC, KISS",2.91,Press coverage,Return visit requested,4.7,Synthetic,Théophile Rodrigues,France,Senior Correspondent
+T0301,2021-02-06,Alumni Visit,7,"KIIT, KIMS, KISS",1.73,Alumni engagement / nostalgia visit,Enrollment confirmed,4.4,Synthetic,Anastasie Benoit,France,Batch Representative
+T0302,2021-02-07,International Delegation,15,"KIIT, KIMS, KISS",1.71,International partnership / MoU discussion,"Information shared, no commitment",4.7,Synthetic,Kyle Perry,USA,Programme Director
+T0303,2021-02-10,Global Immersion / India Trek,7,"KIIT, KSAC, KISS",2.07,Cultural immersion programme,"Information shared, no commitment",4.6,Synthetic,Qarin Ramaswamy,India,Student Delegation Lead
+T0304,2021-02-11,Corporate CSR Visit,22,KISS only,3.75,CSR partnership evaluation,Follow-up scheduled,3.7,Synthetic,Folake Okonkwo,Nigeria,VP Corporate Affairs
+T0305,2021-02-13,Diplomatic Visit,42,"KIIT, KSAC, KISS",1.86,Diplomatic goodwill visit,Follow-up scheduled,3.9,Synthetic,Margaux Peron,France,Deputy Head of Mission
+T0306,2021-02-14,MUN/TEDx Event Delegation,20,"KIIT, KIMS, KISS",2.92,Event sponsorship / jury hosting,Feedback collected,4.6,Synthetic,Augustin Gaillard,France,Jury Chair
+T0307,2021-02-15,School Group,10,"KIIT, KISS",2.75,Cultural exchange / outreach,Enrollment confirmed,4.6,Synthetic,Sr. Francisco Rezende,Brazil,Delegation Representative
+T0308,2021-02-16,Corporate CSR Visit,26,KISS only,3.01,CSR partnership evaluation,"Information shared, no commitment",4.2,Synthetic,Nicole Johnson,USA,VP Corporate Affairs
+T0309,2021-02-18,Alumni Visit,22,"KIIT, KIMS, KISS",3.46,Alumni engagement / nostalgia visit,Partnership renewed,4.3,Synthetic,Jamie Brooks,USA,Guest of Honour
+T0310,2021-02-21,MUN/TEDx Event Delegation,29,KISS only,1.71,Event sponsorship / jury hosting,MoU signed,5.0,Synthetic,Dr. Enzo Gabriel Caldeira,Brazil,Delegation Head
+T0311,2021-02-23,School Group,29,"KIIT, KSAC, KISS",3.28,Cultural exchange / outreach,Enrollment confirmed,3.8,Synthetic,Douglas Bell,USA,Delegation Representative
+T0312,2021-02-24,Corporate CSR Visit,10,"KIIT, KISS",1.51,CSR partnership evaluation,Sponsorship renewed,4.5,Synthetic,Heather Robson,UK,CSR Head
+T0313,2021-02-25,School Group,10,"KIIT, KIMS, KISS",1.97,Cultural exchange / outreach,Feedback collected,4.1,Synthetic,Ngozi Okafor,Nigeria,Delegation Representative
+T0314,2021-02-27,Academic Partner Visit,40,KISS only,1.73,Academic collaboration / MoU signing,"Information shared, no commitment",4.1,Synthetic,Mateus Fogaça,Brazil,Vice-Provost
+T0315,2021-02-28,Media Visit,29,"KIIT, KSAC, KISS",3.45,Press coverage,Follow-up scheduled,4.9,Synthetic,Dr Robin Nicholson,UK,Bureau Chief
+T0316,2021-03-02,Media Visit,15,"KIIT, KISS",1.85,Press coverage,MoU signed,4.7,Synthetic,Christina Weaver,USA,Senior Correspondent
+T0317,2021-03-03,Media Visit,22,"KIIT, KIMS, KISS",2.55,Press coverage,"Information shared, no commitment",4.7,Synthetic,Reyansh Naik,India,Documentary Producer
+T0318,2021-03-04,Diplomatic Visit,45,KISS only,2.74,Diplomatic goodwill visit,Donation pledged,5.0,Synthetic,Folake Adebayo,Nigeria,Cultural Attache
+T0319,2021-03-05,International Delegation,30,KISS only,2.33,International partnership / MoU discussion,Sponsorship renewed,4.2,Synthetic,Dr. Arthur Pires,Brazil,Programme Director
+T0320,2021-03-06,Academic Partner Visit,32,"KIIT, KSAC, KISS",3.54,Academic collaboration / MoU signing,Follow-up scheduled,4.6,Synthetic,Jeanne Toussaint,France,Dean of International Programs
+T0321,2021-03-07,MUN/TEDx Event Delegation,17,"KIIT, KIMS",2.7,Event sponsorship / jury hosting,"Information shared, no commitment",3.6,Synthetic,Ana Cecília Garcia,Brazil,Jury Chair
+T0322,2021-03-08,Alumni Visit,36,"KIIT, KIMS",3.92,Alumni engagement / nostalgia visit,Partnership renewed,4.0,Synthetic,Ucchal Bhatnagar,India,Batch Representative
+T0323,2021-03-11,MUN/TEDx Event Delegation,17,KISS only,2.98,Event sponsorship / jury hosting,Sponsorship renewed,4.1,Synthetic,Amy Lee,USA,Event Sponsor Representative
+T0324,2021-03-17,Corporate CSR Visit,31,"KIIT, KIMS",3.18,CSR partnership evaluation,Follow-up scheduled,3.9,Synthetic,Katy Cook,UK,VP Corporate Affairs
+T0325,2021-03-18,School Group,32,KIIT only,3.47,Cultural exchange / outreach,Positive press coverage,4.2,Synthetic,Gautami Bassi,India,Delegation Representative
+T0326,2021-03-30,Diplomatic Visit,27,KISS only,1.92,Diplomatic goodwill visit,Return visit requested,3.7,Synthetic,Beth Saunders-White,UK,Deputy Head of Mission
+T0327,2021-04-05,Government Dignitary Visit,19,KISS only,2.78,Government outreach on tribal welfare,Feedback collected,5.0,Synthetic,Théophile Couturier,France,District Collector
+T0328,2021-04-12,International Delegation,35,"KIIT, KIMS, KISS",1.76,International partnership / MoU discussion,Follow-up scheduled,3.6,Synthetic,Ana Mckenzie,USA,Visiting Faculty
+T0329,2021-04-13,School Group,27,"KIIT, KIMS, KISS",2.28,Cultural exchange / outreach,Feedback collected,3.5,Synthetic,Jenna Edwards,UK,Delegation Representative
+T0330,2021-04-18,Government Dignitary Visit,7,KIIT only,3.53,Government outreach on tribal welfare,Partnership renewed,4.5,Synthetic,Alex Pearson,UK,State Secretary (Tribal Welfare)
+T0331,2021-04-21,Diplomatic Visit,38,"KIIT, KIMS",1.94,Diplomatic goodwill visit,Enrollment confirmed,4.3,Synthetic,Wakeeta Deo,India,Deputy Head of Mission
+T0332,2021-04-23,Media Visit,45,"KIIT, KSAC, KISS",1.96,Press coverage,"Information shared, no commitment",4.6,Synthetic,田中 七夏,Japan,Senior Correspondent
+T0333,2021-04-24,MUN/TEDx Event Delegation,17,"KIIT, KIMS, KISS",2.62,Event sponsorship / jury hosting,Return visit requested,4.6,Synthetic,斎藤 太一,Japan,Jury Chair
+T0334,2021-04-25,Government Dignitary Visit,9,KISS only,2.94,Government outreach on tribal welfare,Partnership renewed,4.2,Synthetic,Suzanne Étienne,France,Policy Advisor
+T0335,2021-04-26,Corporate CSR Visit,21,"KIIT, KIMS, KISS",3.18,CSR partnership evaluation,Return visit requested,3.7,Synthetic,Linda Hunt,USA,CSR Head
+T0336,2021-04-27,Media Visit,44,KIIT only,2.48,Press coverage,Sponsorship renewed,3.8,Synthetic,Constance Hoarau,France,Senior Correspondent
+T0337,2021-04-29,Alumni Visit,24,KISS only,3.8,Alumni engagement / nostalgia visit,MoU signed,3.8,Synthetic,Dhruv Bandi,India,Batch Representative
+T0338,2021-04-30,Diplomatic Visit,24,"KIIT, KISS",1.79,Diplomatic goodwill visit,Feedback collected,4.8,Synthetic,Chinedu Adeyemi,Nigeria,Deputy Head of Mission
+T0339,2021-05-01,Admission Counselling,494,"KIIT, KIMS, KISS",1.29,Admission counselling / campus familiarization,Positive press coverage,4.1,Synthetic,Eshana Dyal,India,Counselling Desk Coordinator
+T0340,2021-05-02,Admission Counselling,288,"KIIT, KISS",1.42,Admission counselling / campus familiarization,MoU signed,3.7,Synthetic,Henry Bora,India,Counselling Desk Coordinator
+T0341,2021-05-03,Admission Counselling,227,"KIIT, KIMS, KISS",1.65,Admission counselling / campus familiarization,MoU signed,4.0,Synthetic,Frado Joshi,India,Counselling Desk Coordinator
+T0342,2021-05-04,Global Immersion / India Trek,36,"KIIT, KIMS, KISS",2.52,Cultural immersion programme,Sponsorship renewed,4.4,Synthetic,Marc Didier,France,Programme Coordinator
+T0343,2021-05-05,Admission Counselling,489,"KIIT, KIMS, KISS",1.02,Admission counselling / campus familiarization,Partnership renewed,3.9,Synthetic,Oscar Kaur,India,Counselling Desk Coordinator
+T0344,2021-05-06,Admission Counselling,599,"KIIT, KISS",1.34,Admission counselling / campus familiarization,Donation pledged,3.7,Synthetic,Omaja Sharma,India,Counselling Desk Coordinator
+T0345,2021-05-07,Admission Counselling,478,"KIIT, KISS",1.62,Admission counselling / campus familiarization,Sponsorship renewed,4.3,Synthetic,Jairaj Memon,India,Counselling Desk Coordinator
+T0346,2021-05-08,Admission Counselling,479,"KIIT, KISS",1.16,Admission counselling / campus familiarization,Sponsorship renewed,4.3,Synthetic,Ati Loyal,India,Counselling Desk Coordinator
+T0347,2021-05-09,Admission Counselling,216,"KIIT, KISS",1.34,Admission counselling / campus familiarization,Follow-up scheduled,3.9,Synthetic,Aachal Lad,India,Counselling Desk Coordinator
+T0348,2021-05-10,Diplomatic Visit,18,KISS only,3.53,Diplomatic goodwill visit,Feedback collected,3.9,Synthetic,吉田 健一,Japan,Consul General
+T0349,2021-05-11,Admission Counselling,515,"KIIT, KIMS, KISS",1.1,Admission counselling / campus familiarization,Follow-up scheduled,4.3,Synthetic,Warinder Dube,India,Counselling Desk Coordinator
+T0350,2021-05-12,Admission Counselling,505,"KIIT, KISS",1.4,Admission counselling / campus familiarization,"Information shared, no commitment",3.3,Synthetic,Raghav Narain,India,Counselling Desk Coordinator
+T0351,2021-05-13,Admission Counselling,463,"KIIT, KIMS, KISS",1.74,Admission counselling / campus familiarization,Sponsorship renewed,3.4,Synthetic,Meghana Krishnamurthy,India,Counselling Desk Coordinator
+T0352,2021-05-14,Government Dignitary Visit,13,"KIIT, KIMS",3.25,Government outreach on tribal welfare,Return visit requested,3.4,Synthetic,Tina Hill,UK,District Collector
+T0353,2021-05-15,Admission Counselling,546,"KIIT, KIMS, KISS",1.29,Admission counselling / campus familiarization,"Information shared, no commitment",4.1,Synthetic,Ucchal Bansal,India,Counselling Desk Coordinator
+T0354,2021-05-16,Admission Counselling,238,"KIIT, KIMS, KISS",1.48,Admission counselling / campus familiarization,Return visit requested,4.4,Synthetic,Aayush Soman,India,Counselling Desk Coordinator
+T0355,2021-05-17,Academic Partner Visit,34,"KIIT, KISS",3.88,Academic collaboration / MoU signing,Feedback collected,5.0,Synthetic,Pietro Freitas,Brazil,Dean of International Programs
+T0356,2021-05-18,Alumni Visit,27,KISS only,3.63,Alumni engagement / nostalgia visit,Enrollment confirmed,4.7,Synthetic,Chaaya Kaul,India,Guest of Honour
+T0357,2021-05-19,Admission Counselling,365,"KIIT, KISS",1.62,Admission counselling / campus familiarization,MoU signed,4.1,Synthetic,Chandresh Gupta,India,Counselling Desk Coordinator
+T0358,2021-05-20,Admission Counselling,375,"KIIT, KIMS, KISS",1.67,Admission counselling / campus familiarization,Return visit requested,4.2,Synthetic,Falan Pradhan,India,Counselling Desk Coordinator
+T0359,2021-05-21,Admission Counselling,263,"KIIT, KIMS, KISS",1.7,Admission counselling / campus familiarization,Donation pledged,3.6,Synthetic,Saumya Lad,India,Counselling Desk Coordinator
+T0360,2021-05-23,School Group,24,"KIIT, KISS",1.9,Cultural exchange / outreach,Partnership renewed,4.2,Synthetic,Bernard Diaz,France,Delegation Representative
+T0361,2021-05-24,Admission Counselling,532,"KIIT, KISS",1.12,Admission counselling / campus familiarization,Feedback collected,4.0,Synthetic,Teerth Barad,India,Counselling Desk Coordinator
+T0362,2021-05-25,Admission Counselling,535,"KIIT, KIMS, KISS",1.07,Admission counselling / campus familiarization,Enrollment confirmed,4.4,Synthetic,Harini Dhaliwal,India,Counselling Desk Coordinator
+T0363,2021-05-26,Admission Counselling,465,"KIIT, KIMS, KISS",1.51,Admission counselling / campus familiarization,Partnership renewed,3.7,Synthetic,Samar Kumer,India,Counselling Desk Coordinator
+T0364,2021-05-27,Media Visit,13,"KIIT, KIMS",2.69,Press coverage,Return visit requested,4.1,Synthetic,Gustavo Albuquerque,Brazil,Documentary Producer
+T0365,2021-05-28,Admission Counselling,388,"KIIT, KIMS, KISS",1.66,Admission counselling / campus familiarization,Sponsorship renewed,5.0,Synthetic,Nilima Prabhu,India,Counselling Desk Coordinator
+T0366,2021-05-29,Admission Counselling,546,"KIIT, KIMS, KISS",1.11,Admission counselling / campus familiarization,Follow-up scheduled,4.1,Synthetic,Devika Brahmbhatt,India,Counselling Desk Coordinator
+T0367,2021-05-30,Admission Counselling,521,"KIIT, KISS",1.56,Admission counselling / campus familiarization,"Information shared, no commitment",4.4,Synthetic,Azad Tandon,India,Counselling Desk Coordinator
+T0368,2021-05-31,Admission Counselling,251,"KIIT, KIMS, KISS",1.11,Admission counselling / campus familiarization,"Information shared, no commitment",4.6,Synthetic,Dev Reddy,India,Counselling Desk Coordinator
+T0369,2021-06-04,Alumni Visit,10,KISS only,2.12,Alumni engagement / nostalgia visit,Feedback collected,4.0,Synthetic,Folake Adebayo,Nigeria,Batch Representative
+T0370,2021-06-05,International Delegation,24,KISS only,2.01,International partnership / MoU discussion,Return visit requested,4.3,Synthetic,Miguel Ribeiro,Brazil,Programme Director
+T0371,2021-06-10,Media Visit,12,"KIIT, KSAC, KISS",2.1,Press coverage,Feedback collected,4.2,Synthetic,Margaret Davis,USA,Bureau Chief
+T0372,2021-06-12,Academic Partner Visit,25,KISS only,1.83,Academic collaboration / MoU signing,Positive press coverage,4.3,Synthetic,Miguel Sampaio,Brazil,Vice-Provost
+T0373,2021-06-17,Corporate CSR Visit,5,KIIT only,2.16,CSR partnership evaluation,"Information shared, no commitment",3.3,Synthetic,Nicolas da Paz,Brazil,CSR Head
+T0374,2021-06-23,Global Immersion / India Trek,39,"KIIT, KISS",3.04,Cultural immersion programme,Donation pledged,4.2,Synthetic,Omisha Behl,India,Student Delegation Lead
+T0375,2021-06-25,School Group,39,KISS only,2.32,Cultural exchange / outreach,Feedback collected,4.5,Synthetic,Roland Hamon du Delattre,France,Delegation Representative
+T0376,2021-06-27,Media Visit,20,KIIT only,1.64,Press coverage,Follow-up scheduled,4.7,Synthetic,Luiz Otávio Ramos,Brazil,Documentary Producer
+T0377,2021-06-30,Alumni Visit,16,"KIIT, KSAC, KISS",1.8,Alumni engagement / nostalgia visit,Donation pledged,4.8,Synthetic,Ngozi Eze,Nigeria,Guest of Honour
+T0378,2021-07-01,Academic Partner Visit,38,"KIIT, KSAC, KISS",2.79,Academic collaboration / MoU signing,Partnership renewed,5.0,Synthetic,Louis du Martins,France,Dean of International Programs
+T0379,2021-07-02,Government Dignitary Visit,12,KIIT only,3.43,Government outreach on tribal welfare,Enrollment confirmed,3.3,Synthetic,Oluwaseun Okafor,Nigeria,State Secretary (Tribal Welfare)
+T0380,2021-07-03,Corporate CSR Visit,21,KISS only,3.28,CSR partnership evaluation,"Information shared, no commitment",4.7,Synthetic,Radha Dugar,India,CSR Head
+T0381,2021-07-09,Corporate CSR Visit,41,KIIT only,3.19,CSR partnership evaluation,Positive press coverage,3.9,Synthetic,Bruna Borges,Brazil,VP Corporate Affairs
+T0382,2021-07-10,International Delegation,20,"KIIT, KISS",1.61,International partnership / MoU discussion,MoU signed,5.0,Synthetic,Janya Sharma,India,Programme Director
+T0383,2021-07-11,International Delegation,40,"KIIT, KSAC, KISS",3.51,International partnership / MoU discussion,"Information shared, no commitment",3.7,Synthetic,Tunde Eze,Nigeria,Visiting Faculty
+T0384,2021-07-12,Diplomatic Visit,31,"KIIT, KISS",3.79,Diplomatic goodwill visit,Donation pledged,3.7,Synthetic,Davi Lucca Albuquerque,Brazil,Consul General
+T0385,2021-07-14,Alumni Visit,8,KISS only,1.95,Alumni engagement / nostalgia visit,"Information shared, no commitment",3.8,Synthetic,Yuri Casa Grande,Brazil,Guest of Honour
+T0386,2021-07-15,Donor Visit - Art of Giving,23,"KIIT, KISS",3.43,Donor relationship / philanthropy visit,Positive press coverage,2.9,Synthetic,Maria Laura Borges,Brazil,Philanthropy Director
+T0387,2021-07-18,Government Dignitary Visit,44,"KIIT, KISS",2.11,Government outreach on tribal welfare,"Information shared, no commitment",3.9,Synthetic,石川 さゆり,Japan,District Collector
+T0388,2021-07-24,Media Visit,6,"KIIT, KISS",2.08,Press coverage,Feedback collected,3.7,Synthetic,Ijaya Mander,India,Bureau Chief
+T0389,2021-07-27,Alumni Visit,29,"KIIT, KSAC, KISS",3.62,Alumni engagement / nostalgia visit,MoU signed,4.3,Synthetic,Chinedu Okonkwo,Nigeria,Guest of Honour
+T0390,2021-07-29,Donor Visit - Art of Giving,8,"KIIT, KIMS",3.93,Donor relationship / philanthropy visit,Follow-up scheduled,4.0,Synthetic,Raymond Picard,France,Philanthropy Director
+T0391,2021-07-30,Diplomatic Visit,38,"KIIT, KISS",2.53,Diplomatic goodwill visit,Return visit requested,5.0,Synthetic,Cauê Gomes,Brazil,Cultural Attache
+T0392,2021-07-31,Corporate CSR Visit,37,"KIIT, KIMS, KISS",1.83,CSR partnership evaluation,Positive press coverage,4.8,Synthetic,Rudra Mitra,India,Sustainability Lead
+T0393,2021-08-01,Alumni Visit,13,"KIIT, KISS",2.09,Alumni engagement / nostalgia visit,"Information shared, no commitment",3.9,Synthetic,Augusto Mendes,Brazil,Batch Representative
+T0394,2021-08-04,Government Dignitary Visit,19,"KIIT, KIMS",1.69,Government outreach on tribal welfare,Sponsorship renewed,3.3,Synthetic,Mrs Katy Bennett,UK,State Secretary (Tribal Welfare)
+T0395,2021-08-06,School Group,33,"KIIT, KIMS, KISS",2.67,Cultural exchange / outreach,Partnership renewed,4.5,Synthetic,Ifeoma Adeyemi,Nigeria,Delegation Representative
+T0396,2021-08-08,Government Dignitary Visit,34,KIIT only,2.16,Government outreach on tribal welfare,Sponsorship renewed,3.0,Synthetic,Tanner Oliver,USA,Policy Advisor
+T0397,2021-08-12,Academic Partner Visit,14,"KIIT, KIMS",1.73,Academic collaboration / MoU signing,"Information shared, no commitment",4.9,Synthetic,Henry Pinto,Brazil,Professor & Research Chair
+T0398,2021-08-15,School Group,6,"KIIT, KIMS, KISS",3.88,Cultural exchange / outreach,Feedback collected,4.9,Synthetic,斎藤 知実,Japan,Delegation Representative
+T0399,2021-08-16,Donor Visit - Art of Giving,11,"KIIT, KIMS",3.51,Donor relationship / philanthropy visit,Donation pledged,3.5,Synthetic,Qadim Kamdar,India,Foundation Trustee
+T0400,2021-08-19,Media Visit,28,"KIIT, KSAC, KISS",3.22,Press coverage,Positive press coverage,3.2,Synthetic,Murilo Moreira,Brazil,Bureau Chief
+T0401,2021-08-20,Corporate CSR Visit,6,"KIIT, KIMS",3.99,CSR partnership evaluation,"Information shared, no commitment",4.6,Synthetic,Adaeze Eze,Nigeria,Sustainability Lead
+T0402,2021-08-22,Academic Partner Visit,12,"KIIT, KIMS, KISS",1.61,Academic collaboration / MoU signing,Positive press coverage,4.1,Synthetic,Matheus Fogaça,Brazil,Dean of International Programs
+T0403,2021-08-30,Donor Visit - Art of Giving,14,KISS only,1.59,Donor relationship / philanthropy visit,Feedback collected,4.9,Synthetic,Mason Koshy,India,Major Gifts Officer
+T0404,2021-08-31,Media Visit,40,KIIT only,2.7,Press coverage,MoU signed,2.8,Synthetic,Robyn Lee,USA,Bureau Chief
+T0405,2021-09-04,Global Immersion / India Trek,6,"KIIT, KSAC, KISS",3.97,Cultural immersion programme,Positive press coverage,3.8,Synthetic,Tom Thomas,UK,Student Delegation Lead
+T0406,2021-09-06,MUN/TEDx Event Delegation,37,"KIIT, KISS",2.3,Event sponsorship / jury hosting,Partnership renewed,4.2,Synthetic,Sr. Mathias Peixoto,Brazil,Delegation Head
+T0407,2021-09-08,Government Dignitary Visit,8,"KIIT, KIMS, KISS",3.52,Government outreach on tribal welfare,Sponsorship renewed,4.2,Synthetic,Henry Baker,UK,Policy Advisor
+T0408,2021-09-10,School Group,11,"KIIT, KIMS",2.12,Cultural exchange / outreach,Sponsorship renewed,3.5,Synthetic,Victor De Oliveira Le Guillon,France,Delegation Representative
+T0409,2021-09-20,Diplomatic Visit,42,"KIIT, KSAC, KISS",2.3,Diplomatic goodwill visit,Feedback collected,4.6,Synthetic,Pavani Ramachandran,India,Deputy Head of Mission
+T0410,2021-09-21,Academic Partner Visit,41,KISS only,2.91,Academic collaboration / MoU signing,"Information shared, no commitment",3.6,Synthetic,Sanya Thakur,India,Professor & Research Chair
+T0411,2021-09-23,International Delegation,10,KISS only,1.64,International partnership / MoU discussion,Positive press coverage,4.1,Synthetic,Craig Brown,UK,International Liaison Officer
+T0412,2021-09-25,MUN/TEDx Event Delegation,17,"KIIT, KISS",3.52,Event sponsorship / jury hosting,"Information shared, no commitment",4.3,Synthetic,Udyati Keer,India,Delegation Head
+T0413,2021-09-26,School Group,42,"KIIT, KIMS",3.26,Cultural exchange / outreach,Feedback collected,4.1,Synthetic,Luke Fuentes,USA,Delegation Representative
+T0414,2021-10-01,Corporate CSR Visit,26,"KIIT, KIMS",2.25,CSR partnership evaluation,Feedback collected,4.2,Synthetic,Mr Frank Matthews,UK,Sustainability Lead
+T0415,2021-10-06,Global Immersion / India Trek,44,"KIIT, KIMS",3.47,Cultural immersion programme,Follow-up scheduled,3.1,Synthetic,Christophe Pelletier,France,Faculty Escort
+T0416,2021-10-07,Government Dignitary Visit,13,KIIT only,1.94,Government outreach on tribal welfare,Feedback collected,2.9,Synthetic,小林 美加子,Japan,District Collector
+T0417,2021-10-08,MUN/TEDx Event Delegation,7,"KIIT, KISS",1.96,Event sponsorship / jury hosting,Feedback collected,5.0,Synthetic,佐藤 京助,Japan,Event Sponsor Representative
+T0418,2021-10-09,MUN/TEDx Event Delegation,11,"KIIT, KIMS",3.84,Event sponsorship / jury hosting,Donation pledged,4.0,Synthetic,Hugues Merle,France,Event Sponsor Representative
+T0419,2021-10-10,Academic Partner Visit,15,KIIT only,3.09,Academic collaboration / MoU signing,Feedback collected,3.4,Synthetic,Conor Francis-Mitchell,UK,Dean of International Programs
+T0420,2021-10-13,Government Dignitary Visit,18,KIIT only,2.12,Government outreach on tribal welfare,Sponsorship renewed,4.7,Synthetic,阿部 くみ子,Japan,State Secretary (Tribal Welfare)
+T0421,2021-10-14,International Delegation,8,"KIIT, KSAC, KISS",2.46,International partnership / MoU discussion,MoU signed,4.3,Synthetic,Charlotte Turner,UK,Programme Director
+T0422,2021-10-16,Media Visit,27,KIIT only,2.87,Press coverage,Feedback collected,4.5,Synthetic,Rishi Deep,India,Documentary Producer
+T0423,2021-10-19,Corporate CSR Visit,7,"KIIT, KISS",2.24,CSR partnership evaluation,Donation pledged,4.2,Synthetic,山本 さゆり,Japan,VP Corporate Affairs
+T0424,2021-10-20,School Group,29,KIIT only,1.9,Cultural exchange / outreach,Donation pledged,5.0,Synthetic,鈴木 太郎,Japan,Delegation Representative
+T0425,2021-10-21,MUN/TEDx Event Delegation,35,"KIIT, KIMS, KISS",3.26,Event sponsorship / jury hosting,Follow-up scheduled,5.0,Synthetic,Darlene Nguyen,USA,Event Sponsor Representative
+T0426,2021-10-23,International Delegation,11,"KIIT, KIMS",2.33,International partnership / MoU discussion,Positive press coverage,3.7,Synthetic,Laure Pineau de la Adam,France,Visiting Faculty
+T0427,2021-10-26,Government Dignitary Visit,24,KIIT only,2.09,Government outreach on tribal welfare,Positive press coverage,4.4,Synthetic,Tamara Clark,USA,Policy Advisor
+T0428,2021-10-28,Academic Partner Visit,5,"KIIT, KISS",2.57,Academic collaboration / MoU signing,Feedback collected,4.6,Synthetic,Thibault-Philippe Gomez,France,Professor & Research Chair
+T0429,2021-10-30,International Delegation,18,"KIIT, KISS",1.93,International partnership / MoU discussion,"Information shared, no commitment",5.0,Synthetic,Miss Karen Ryan,UK,Visiting Faculty
+T0430,2021-11-01,Media Visit,35,"KIIT, KSAC, KISS",2.72,Press coverage,Return visit requested,3.6,Synthetic,Corinne Bousquet,France,Documentary Producer
+T0431,2021-11-03,Media Visit,28,KIIT only,1.97,Press coverage,Enrollment confirmed,4.2,Synthetic,Yves-Isaac Mallet,France,Bureau Chief
+T0432,2021-11-04,Government Dignitary Visit,41,"KIIT, KSAC, KISS",1.65,Government outreach on tribal welfare,Follow-up scheduled,4.8,Synthetic,Aishani Contractor,India,Policy Advisor
+T0433,2021-11-07,MUN/TEDx Event Delegation,19,"KIIT, KIMS, KISS",2.88,Event sponsorship / jury hosting,"Information shared, no commitment",3.1,Synthetic,Mr Elliott Taylor,UK,Event Sponsor Representative
+T0434,2021-11-12,Government Dignitary Visit,10,"KIIT, KSAC, KISS",2.49,Government outreach on tribal welfare,Positive press coverage,3.5,Synthetic,井上 裕美子,Japan,District Collector
+T0435,2021-11-17,Donor Visit - Art of Giving,16,"KIIT, KIMS",3.87,Donor relationship / philanthropy visit,Follow-up scheduled,2.6,Synthetic,渡辺 英樹,Japan,Philanthropy Director
+T0436,2021-11-18,Media Visit,10,"KIIT, KIMS, KISS",3.97,Press coverage,Sponsorship renewed,4.0,Synthetic,Jennifer Salinas,USA,Senior Correspondent
+T0437,2021-11-21,Corporate CSR Visit,10,"KIIT, KIMS, KISS",2.47,CSR partnership evaluation,"Information shared, no commitment",4.6,Synthetic,小林 春香,Japan,Sustainability Lead
+T0438,2021-11-24,MUN/TEDx Event Delegation,42,"KIIT, KIMS, KISS",2.81,Event sponsorship / jury hosting,MoU signed,5.0,Synthetic,小林 康弘,Japan,Jury Chair
+T0439,2021-11-25,MUN/TEDx Event Delegation,42,KIIT only,3.4,Event sponsorship / jury hosting,Feedback collected,3.8,Synthetic,Melissa Wilson,UK,Delegation Head
+T0440,2021-12-01,Alumni Visit,36,"KIIT, KIMS, KISS",2.93,Alumni engagement / nostalgia visit,Partnership renewed,5.0,Synthetic,Tina Phillips,USA,Batch Representative
+T0441,2021-12-02,MUN/TEDx Event Delegation,43,"KIIT, KIMS, KISS",3.2,Event sponsorship / jury hosting,Partnership renewed,3.4,Synthetic,Malcolm Gordon,UK,Jury Chair
+T0442,2021-12-04,Donor Visit - Art of Giving,22,KIIT only,3.74,Donor relationship / philanthropy visit,Sponsorship renewed,2.8,Synthetic,Dr David Morris,UK,Philanthropy Director
+T0443,2021-12-05,Government Dignitary Visit,36,"KIIT, KSAC, KISS",3.65,Government outreach on tribal welfare,Sponsorship renewed,4.2,Synthetic,Emeka Okafor,Nigeria,District Collector
+T0444,2021-12-06,Government Dignitary Visit,33,"KIIT, KISS",3.44,Government outreach on tribal welfare,Enrollment confirmed,4.4,Synthetic,Emeka Adebayo,Nigeria,District Collector
+T0445,2021-12-08,Donor Visit - Art of Giving,18,"KIIT, KIMS, KISS",3.78,Donor relationship / philanthropy visit,Feedback collected,4.2,Synthetic,Manthan Mannan,India,Philanthropy Director
+T0446,2021-12-12,Government Dignitary Visit,37,KISS only,2.51,Government outreach on tribal welfare,Follow-up scheduled,3.0,Synthetic,Marina Leão,Brazil,State Secretary (Tribal Welfare)
+T0447,2021-12-13,Diplomatic Visit,8,"KIIT, KIMS, KISS",2.12,Diplomatic goodwill visit,Partnership renewed,4.1,Synthetic,Maria Clara Aragão,Brazil,Deputy Head of Mission
+T0448,2021-12-15,Donor Visit - Art of Giving,37,KIIT only,2.49,Donor relationship / philanthropy visit,Follow-up scheduled,3.0,Synthetic,Grace Wilson,UK,Foundation Trustee
+T0449,2021-12-16,MUN/TEDx Event Delegation,33,"KIIT, KIMS, KISS",1.94,Event sponsorship / jury hosting,"Information shared, no commitment",4.6,Synthetic,Anthony Bhagat,India,Jury Chair
+T0450,2021-12-17,Government Dignitary Visit,10,"KIIT, KIMS, KISS",2.21,Government outreach on tribal welfare,Sponsorship renewed,4.4,Synthetic,木村 聡太郎,Japan,Policy Advisor
+T0451,2021-12-23,Media Visit,37,"KIIT, KSAC, KISS",1.55,Press coverage,MoU signed,3.6,Synthetic,Ishanvi Walla,India,Bureau Chief
+T0452,2021-12-26,Government Dignitary Visit,43,"KIIT, KISS",3.51,Government outreach on tribal welfare,Feedback collected,3.9,Synthetic,加藤 聡太郎,Japan,District Collector
+T0453,2021-12-28,Media Visit,27,"KIIT, KIMS",2.65,Press coverage,Return visit requested,3.2,Synthetic,Adaeze Balogun,Nigeria,Senior Correspondent
+T0454,2022-01-01,Alumni Visit,28,KISS only,2.9,Alumni engagement / nostalgia visit,"Information shared, no commitment",4.2,Synthetic,Samarth Peri,India,Guest of Honour
+T0455,2022-01-04,Government Dignitary Visit,45,"KIIT, KISS",2.31,Government outreach on tribal welfare,Return visit requested,4.8,Synthetic,Frank Steele,UK,Policy Advisor
+T0456,2022-01-07,Global Immersion / India Trek,20,KISS only,3.75,Cultural immersion programme,Partnership renewed,3.6,Synthetic,Robert Zimmerman,USA,Programme Coordinator
+T0457,2022-01-12,Media Visit,30,KIIT only,2.47,Press coverage,Feedback collected,4.1,Synthetic,Anthony Collins,UK,Bureau Chief
+T0458,2022-01-14,Diplomatic Visit,39,"KIIT, KIMS, KISS",3.1,Diplomatic goodwill visit,Feedback collected,3.9,Synthetic,Xavier Dupuy,France,Deputy Head of Mission
+T0459,2022-01-16,School Group,40,KIIT only,1.95,Cultural exchange / outreach,Return visit requested,3.3,Synthetic,Dennis Smith,USA,Delegation Representative
+T0460,2022-01-17,Global Immersion / India Trek,16,"KIIT, KISS",3.87,Cultural immersion programme,Follow-up scheduled,4.1,Synthetic,Folake Okafor,Nigeria,Student Delegation Lead
+T0461,2022-01-20,Academic Partner Visit,28,"KIIT, KISS",2.15,Academic collaboration / MoU signing,Donation pledged,3.6,Synthetic,林 裕美子,Japan,Vice-Provost
+T0462,2022-01-25,Diplomatic Visit,37,"KIIT, KSAC, KISS",1.8,Diplomatic goodwill visit,Partnership renewed,3.9,Synthetic,Virginie Menard,France,Consul General
+T0463,2022-01-28,Diplomatic Visit,26,KISS only,2.52,Diplomatic goodwill visit,"Information shared, no commitment",3.5,Synthetic,Alexandre Aparecida,Brazil,Consul General
+T0464,2022-01-29,School Group,10,"KIIT, KSAC, KISS",2.72,Cultural exchange / outreach,"Information shared, no commitment",5.0,Synthetic,Aryan Ravi,India,Delegation Representative
+T0465,2022-01-31,Government Dignitary Visit,18,"KIIT, KIMS",3.4,Government outreach on tribal welfare,Follow-up scheduled,3.8,Synthetic,伊藤 篤司,Japan,Policy Advisor
+T0466,2022-02-03,MUN/TEDx Event Delegation,32,"KIIT, KIMS, KISS",3.08,Event sponsorship / jury hosting,Enrollment confirmed,3.8,Synthetic,Ngozi Okonkwo,Nigeria,Jury Chair
+T0467,2022-02-05,Diplomatic Visit,28,"KIIT, KISS",3.88,Diplomatic goodwill visit,Feedback collected,4.3,Synthetic,佐藤 英樹,Japan,Consul General
+T0468,2022-02-06,Alumni Visit,5,"KIIT, KIMS",3.07,Alumni engagement / nostalgia visit,Partnership renewed,3.7,Synthetic,David du Bourgeois,France,Alumni Association Member
+T0469,2022-02-07,Corporate CSR Visit,29,"KIIT, KISS",2.76,CSR partnership evaluation,Sponsorship renewed,4.1,Synthetic,Maria Holland,USA,VP Corporate Affairs
+T0470,2022-02-08,Government Dignitary Visit,34,KISS only,3.32,Government outreach on tribal welfare,Enrollment confirmed,4.6,Synthetic,岡田 さゆり,Japan,District Collector
+T0471,2022-02-11,Donor Visit - Art of Giving,27,"KIIT, KIMS",3.38,Donor relationship / philanthropy visit,"Information shared, no commitment",4.3,Synthetic,Dean Collins,UK,Foundation Trustee
+T0472,2022-02-12,Diplomatic Visit,13,KIIT only,2.03,Diplomatic goodwill visit,Follow-up scheduled,3.5,Synthetic,Peter Turner,UK,Cultural Attache
+T0473,2022-02-13,Alumni Visit,7,"KIIT, KSAC, KISS",2.44,Alumni engagement / nostalgia visit,Positive press coverage,3.9,Synthetic,Sra. Zoe Abreu,Brazil,Guest of Honour
+T0474,2022-02-16,Corporate CSR Visit,6,KIIT only,1.62,CSR partnership evaluation,Enrollment confirmed,3.6,Synthetic,Dr Joan Francis,UK,VP Corporate Affairs
+T0475,2022-02-17,Government Dignitary Visit,35,"KIIT, KIMS",3.25,Government outreach on tribal welfare,Feedback collected,2.4,Synthetic,Milena Cavalcanti,Brazil,State Secretary (Tribal Welfare)
+T0476,2022-02-18,Media Visit,11,"KIIT, KISS",3.16,Press coverage,Feedback collected,3.3,Synthetic,Jane Smith,UK,Bureau Chief
+T0477,2022-02-19,Corporate CSR Visit,37,KIIT only,3.3,CSR partnership evaluation,Sponsorship renewed,4.6,Synthetic,Charles Daniel,France,Sustainability Lead
+T0478,2022-02-20,Diplomatic Visit,43,"KIIT, KISS",2.0,Diplomatic goodwill visit,Follow-up scheduled,5.0,Synthetic,山下 直子,Japan,Consul General
+T0479,2022-02-23,Global Immersion / India Trek,36,"KIIT, KSAC, KISS",3.78,Cultural immersion programme,"Information shared, no commitment",4.1,Synthetic,Meghan Jennings,USA,Student Delegation Lead
+T0480,2022-02-24,International Delegation,10,KISS only,3.77,International partnership / MoU discussion,Follow-up scheduled,4.5,Synthetic,Valerie Phillips,USA,Visiting Faculty
+T0481,2022-02-27,Corporate CSR Visit,21,"KIIT, KIMS, KISS",3.11,CSR partnership evaluation,"Information shared, no commitment",4.4,Synthetic,Stephanie Miller,USA,Sustainability Lead
+T0482,2022-02-28,International Delegation,11,KIIT only,3.53,International partnership / MoU discussion,"Information shared, no commitment",5.0,Synthetic,Tunde Eze,Nigeria,Visiting Faculty
+T0483,2022-03-02,Corporate CSR Visit,11,KIIT only,3.63,CSR partnership evaluation,MoU signed,4.5,Synthetic,高橋 涼平,Japan,VP Corporate Affairs
+T0484,2022-03-04,Academic Partner Visit,33,"KIIT, KISS",3.89,Academic collaboration / MoU signing,Follow-up scheduled,4.1,Synthetic,Tunde Nwosu,Nigeria,Dean of International Programs
+T0485,2022-03-06,Corporate CSR Visit,30,"KIIT, KIMS, KISS",2.5,CSR partnership evaluation,Enrollment confirmed,3.6,Synthetic,Eugène Leroux-Letellier,France,CSR Head
+T0486,2022-03-11,School Group,8,"KIIT, KIMS",3.95,Cultural exchange / outreach,Positive press coverage,2.8,Synthetic,Cheryl Price,USA,Delegation Representative
+T0487,2022-03-26,Alumni Visit,25,"KIIT, KSAC, KISS",1.53,Alumni engagement / nostalgia visit,Return visit requested,4.3,Synthetic,Jamie Christian,USA,Batch Representative
+T0488,2022-03-31,Global Immersion / India Trek,44,"KIIT, KSAC, KISS",1.74,Cultural immersion programme,"Information shared, no commitment",3.7,Synthetic,Sylvie Georges-Laporte,France,Programme Coordinator
+T0489,2022-04-01,Alumni Visit,29,KISS only,1.87,Alumni engagement / nostalgia visit,Feedback collected,3.3,Synthetic,Paul Taylor-Williams,UK,Alumni Association Member
+T0490,2022-04-02,Alumni Visit,15,"KIIT, KIMS, KISS",2.76,Alumni engagement / nostalgia visit,Follow-up scheduled,3.8,Synthetic,Connor Tyler-Brookes,UK,Batch Representative
+T0491,2022-04-03,Donor Visit - Art of Giving,25,"KIIT, KISS",2.1,Donor relationship / philanthropy visit,MoU signed,3.6,Synthetic,Oluwaseun Okafor,Nigeria,Major Gifts Officer
+T0492,2022-04-07,Donor Visit - Art of Giving,41,"KIIT, KIMS, KISS",2.62,Donor relationship / philanthropy visit,Donation pledged,5.0,Synthetic,Folake Nwosu,Nigeria,Foundation Trustee
+T0493,2022-04-10,Media Visit,31,KISS only,1.59,Press coverage,Donation pledged,4.7,Synthetic,Matteo Pinto,Brazil,Documentary Producer
+T0494,2022-04-18,International Delegation,19,"KIIT, KISS",3.61,International partnership / MoU discussion,Feedback collected,4.2,Synthetic,Krystal Jackson,USA,Programme Director
+T0495,2022-04-23,Alumni Visit,19,"KIIT, KISS",1.51,Alumni engagement / nostalgia visit,"Information shared, no commitment",5.0,Synthetic,Laura Clark,UK,Batch Representative
+T0496,2022-04-26,School Group,36,"KIIT, KSAC, KISS",1.85,Cultural exchange / outreach,"Information shared, no commitment",4.2,Synthetic,Adaeze Nwosu,Nigeria,Delegation Representative
+T0497,2022-04-27,MUN/TEDx Event Delegation,17,"KIIT, KIMS, KISS",1.97,Event sponsorship / jury hosting,Sponsorship renewed,3.7,Synthetic,Corinne Barre de la Bonnin,France,Jury Chair
+T0498,2022-04-30,Media Visit,7,"KIIT, KSAC, KISS",3.82,Press coverage,"Information shared, no commitment",5.0,Synthetic,Andrew Schwartz,USA,Documentary Producer
+T0499,2022-05-01,Admission Counselling,458,"KIIT, KISS",1.1,Admission counselling / campus familiarization,Return visit requested,4.5,Synthetic,Ekansh Batra,India,Counselling Desk Coordinator
+T0500,2022-05-02,MUN/TEDx Event Delegation,35,"KIIT, KIMS",3.81,Event sponsorship / jury hosting,Follow-up scheduled,3.2,Synthetic,Théodore Ledoux,France,Delegation Head
+T0501,2022-05-03,Admission Counselling,398,"KIIT, KISS",1.49,Admission counselling / campus familiarization,Enrollment confirmed,4.1,Synthetic,Ryan Walla,India,Counselling Desk Coordinator
+T0502,2022-05-04,Admission Counselling,554,"KIIT, KISS",1.57,Admission counselling / campus familiarization,Partnership renewed,3.7,Synthetic,Leena Chhabra,India,Counselling Desk Coordinator
+T0503,2022-05-06,Admission Counselling,411,"KIIT, KISS",1.45,Admission counselling / campus familiarization,Feedback collected,3.4,Synthetic,Samesh Jani,India,Counselling Desk Coordinator
+T0504,2022-05-07,Admission Counselling,483,"KIIT, KIMS, KISS",1.47,Admission counselling / campus familiarization,Return visit requested,4.8,Synthetic,Bahadurjit Banerjee,India,Counselling Desk Coordinator
+T0505,2022-05-08,Admission Counselling,544,"KIIT, KIMS, KISS",1.1,Admission counselling / campus familiarization,Return visit requested,5.0,Synthetic,Bhavna Sood,India,Counselling Desk Coordinator
+T0506,2022-05-09,Admission Counselling,589,"KIIT, KISS",1.26,Admission counselling / campus familiarization,Feedback collected,3.4,Synthetic,Kevin Chaudhari,India,Counselling Desk Coordinator
+T0507,2022-05-10,Admission Counselling,473,"KIIT, KISS",1.21,Admission counselling / campus familiarization,Feedback collected,4.5,Synthetic,Chaitaly Nagar,India,Counselling Desk Coordinator
+T0508,2022-05-11,Admission Counselling,227,"KIIT, KIMS, KISS",1.5,Admission counselling / campus familiarization,Sponsorship renewed,3.8,Synthetic,Pallavi Lal,India,Counselling Desk Coordinator
+T0509,2022-05-12,Admission Counselling,328,"KIIT, KIMS, KISS",1.11,Admission counselling / campus familiarization,"Information shared, no commitment",3.9,Synthetic,Indali Kunda,India,Counselling Desk Coordinator
+T0510,2022-05-13,Admission Counselling,383,"KIIT, KIMS, KISS",1.61,Admission counselling / campus familiarization,Feedback collected,3.8,Synthetic,Chanakya Pillai,India,Counselling Desk Coordinator
+T0511,2022-05-14,Alumni Visit,40,KISS only,2.47,Alumni engagement / nostalgia visit,Feedback collected,3.7,Synthetic,Dr. João Pedro Pinto,Brazil,Alumni Association Member
+T0512,2022-05-15,Admission Counselling,395,"KIIT, KISS",1.29,Admission counselling / campus familiarization,Follow-up scheduled,4.2,Synthetic,Nitara Balasubramanian,India,Counselling Desk Coordinator
+T0513,2022-05-16,Admission Counselling,517,"KIIT, KISS",1.65,Admission counselling / campus familiarization,Feedback collected,3.7,Synthetic,Zilmil Chaudhari,India,Counselling Desk Coordinator
+T0514,2022-05-17,Admission Counselling,586,"KIIT, KIMS, KISS",1.44,Admission counselling / campus familiarization,Follow-up scheduled,4.4,Synthetic,Upasna Bava,India,Counselling Desk Coordinator
+T0515,2022-05-18,Admission Counselling,549,"KIIT, KIMS, KISS",1.06,Admission counselling / campus familiarization,Follow-up scheduled,4.2,Synthetic,Gavin Mani,India,Counselling Desk Coordinator
+T0516,2022-05-19,Admission Counselling,484,"KIIT, KIMS, KISS",1.2,Admission counselling / campus familiarization,"Information shared, no commitment",4.1,Synthetic,Rajata Agarwal,India,Counselling Desk Coordinator
+T0517,2022-05-20,Admission Counselling,279,"KIIT, KISS",1.03,Admission counselling / campus familiarization,Feedback collected,3.7,Synthetic,Bhavya Bhagat,India,Counselling Desk Coordinator
+T0518,2022-05-21,Admission Counselling,451,"KIIT, KISS",1.59,Admission counselling / campus familiarization,Return visit requested,3.9,Synthetic,Ijaya Swaminathan,India,Counselling Desk Coordinator
+T0519,2022-05-22,Admission Counselling,294,"KIIT, KIMS, KISS",1.39,Admission counselling / campus familiarization,Positive press coverage,4.7,Synthetic,Vyanjana Gour,India,Counselling Desk Coordinator
+T0520,2022-05-23,Admission Counselling,309,"KIIT, KISS",1.5,Admission counselling / campus familiarization,MoU signed,4.5,Synthetic,Idika Varma,India,Counselling Desk Coordinator
+T0521,2022-05-25,Admission Counselling,487,"KIIT, KIMS, KISS",1.62,Admission counselling / campus familiarization,Partnership renewed,3.6,Synthetic,Nathan Mander,India,Counselling Desk Coordinator
+T0522,2022-05-26,MUN/TEDx Event Delegation,44,KIIT only,2.11,Event sponsorship / jury hosting,"Information shared, no commitment",3.9,Synthetic,Vincent Tara,India,Jury Chair
+T0523,2022-05-27,Admission Counselling,258,"KIIT, KISS",1.29,Admission counselling / campus familiarization,Positive press coverage,4.7,Synthetic,Imaran Buch,India,Counselling Desk Coordinator
+T0524,2022-05-28,Admission Counselling,460,"KIIT, KIMS, KISS",1.33,Admission counselling / campus familiarization,Return visit requested,3.2,Synthetic,Henry Narain,India,Counselling Desk Coordinator
+T0525,2022-05-29,Admission Counselling,249,"KIIT, KIMS, KISS",1.13,Admission counselling / campus familiarization,Follow-up scheduled,4.5,Synthetic,Girish Rattan,India,Counselling Desk Coordinator
+T0526,2022-05-30,Admission Counselling,550,"KIIT, KIMS, KISS",1.32,Admission counselling / campus familiarization,Sponsorship renewed,3.8,Synthetic,Gabriel Sami,India,Counselling Desk Coordinator
+T0527,2022-05-31,Media Visit,9,"KIIT, KIMS",3.37,Press coverage,Return visit requested,4.1,Synthetic,Allison Harris,USA,Bureau Chief
+T0528,2022-06-01,Corporate CSR Visit,9,"KIIT, KISS",1.64,CSR partnership evaluation,Feedback collected,3.7,Synthetic,吉田 結衣,Japan,Sustainability Lead
+T0529,2022-06-07,Media Visit,12,"KIIT, KSAC, KISS",2.84,Press coverage,Follow-up scheduled,3.1,Synthetic,小林 涼平,Japan,Bureau Chief
+T0530,2022-06-11,Global Immersion / India Trek,11,"KIIT, KSAC, KISS",2.22,Cultural immersion programme,Donation pledged,3.2,Synthetic,Connor Curtis,UK,Programme Coordinator
+T0531,2022-06-12,Donor Visit - Art of Giving,29,"KIIT, KSAC, KISS",2.49,Donor relationship / philanthropy visit,MoU signed,4.2,Synthetic,Kirk Norris,USA,Philanthropy Director
+T0532,2022-06-14,Media Visit,39,"KIIT, KSAC, KISS",2.24,Press coverage,Return visit requested,4.4,Synthetic,中村 太一,Japan,Documentary Producer
+T0533,2022-06-20,Global Immersion / India Trek,14,KIIT only,1.81,Cultural immersion programme,"Information shared, no commitment",3.3,Synthetic,Tunde Eze,Nigeria,Faculty Escort
+T0534,2022-06-23,Academic Partner Visit,18,"KIIT, KSAC, KISS",2.53,Academic collaboration / MoU signing,Follow-up scheduled,4.6,Synthetic,Shravya Naik,India,Dean of International Programs
+T0535,2022-06-24,Diplomatic Visit,44,"KIIT, KIMS",3.59,Diplomatic goodwill visit,Return visit requested,2.8,Synthetic,山田 裕樹,Japan,Cultural Attache
+T0536,2022-07-02,Corporate CSR Visit,21,"KIIT, KSAC, KISS",1.75,CSR partnership evaluation,"Information shared, no commitment",4.2,Synthetic,Tunde Nwosu,Nigeria,CSR Head
+T0537,2022-07-05,Government Dignitary Visit,44,"KIIT, KIMS",1.67,Government outreach on tribal welfare,Enrollment confirmed,3.1,Synthetic,Chinedu Adeyemi,Nigeria,State Secretary (Tribal Welfare)
+T0538,2022-07-06,Alumni Visit,24,"KIIT, KIMS",3.23,Alumni engagement / nostalgia visit,"Information shared, no commitment",3.4,Synthetic,Lauren Martinez,USA,Guest of Honour
+T0539,2022-07-09,Academic Partner Visit,20,"KIIT, KSAC, KISS",3.46,Academic collaboration / MoU signing,"Information shared, no commitment",4.2,Synthetic,Isabela Montenegro,Brazil,Dean of International Programs
+T0540,2022-07-10,Academic Partner Visit,13,"KIIT, KISS",3.2,Academic collaboration / MoU signing,"Information shared, no commitment",3.7,Synthetic,Tunde Okafor,Nigeria,Vice-Provost
+T0541,2022-07-14,Alumni Visit,43,"KIIT, KISS",1.7,Alumni engagement / nostalgia visit,Follow-up scheduled,4.0,Synthetic,Adaeze Okafor,Nigeria,Alumni Association Member
+T0542,2022-07-16,Alumni Visit,9,KIIT only,3.32,Alumni engagement / nostalgia visit,Feedback collected,4.4,Synthetic,Eric Warner,USA,Guest of Honour
+T0543,2022-07-17,MUN/TEDx Event Delegation,42,KISS only,2.51,Event sponsorship / jury hosting,Donation pledged,3.9,Synthetic,Nachiket Kota,India,Delegation Head
+T0544,2022-07-24,MUN/TEDx Event Delegation,23,KISS only,1.83,Event sponsorship / jury hosting,Enrollment confirmed,4.7,Synthetic,Sra. Stephany Ferreira,Brazil,Jury Chair
+T0545,2022-07-26,Diplomatic Visit,44,KISS only,3.21,Diplomatic goodwill visit,MoU signed,3.5,Synthetic,Garrett Lopez,USA,Cultural Attache
+T0546,2022-07-27,MUN/TEDx Event Delegation,14,"KIIT, KIMS, KISS",3.34,Event sponsorship / jury hosting,Follow-up scheduled,4.5,Synthetic,Lee O'Brien-Moss,UK,Delegation Head
+T0547,2022-07-28,Donor Visit - Art of Giving,19,"KIIT, KISS",1.66,Donor relationship / philanthropy visit,Return visit requested,5.0,Synthetic,Matheus Cassiano,Brazil,Foundation Trustee
+T0548,2022-07-29,Academic Partner Visit,29,"KIIT, KIMS, KISS",2.67,Academic collaboration / MoU signing,Follow-up scheduled,2.7,Synthetic,Kevin Siqueira,Brazil,Dean of International Programs
+T0549,2022-07-31,Global Immersion / India Trek,45,"KIIT, KSAC, KISS",3.57,Cultural immersion programme,Positive press coverage,3.7,Synthetic,Radhika Mahal,India,Programme Coordinator
+T0550,2022-08-06,Government Dignitary Visit,29,"KIIT, KIMS",3.93,Government outreach on tribal welfare,Partnership renewed,4.1,Synthetic,Michelle Dawson,UK,Policy Advisor
+T0551,2022-08-08,Donor Visit - Art of Giving,43,"KIIT, KIMS",1.52,Donor relationship / philanthropy visit,MoU signed,3.7,Synthetic,Guillaume Leclerc,France,Philanthropy Director
+T0552,2022-08-09,Alumni Visit,22,"KIIT, KIMS",2.03,Alumni engagement / nostalgia visit,Positive press coverage,4.0,Synthetic,山田 明美,Japan,Batch Representative
+T0553,2022-08-11,Diplomatic Visit,31,"KIIT, KSAC, KISS",3.53,Diplomatic goodwill visit,Return visit requested,3.8,Synthetic,Richard Steele,USA,Cultural Attache
+T0554,2022-08-13,School Group,31,KIIT only,1.56,Cultural exchange / outreach,Positive press coverage,3.9,Synthetic,Ubika Bains,India,Delegation Representative
+T0555,2022-08-14,Alumni Visit,37,KISS only,1.6,Alumni engagement / nostalgia visit,MoU signed,4.1,Synthetic,Gilbert Texier,France,Batch Representative
+T0556,2022-08-15,School Group,38,KISS only,3.9,Cultural exchange / outreach,Feedback collected,4.9,Synthetic,佐藤 千代,Japan,Delegation Representative
+T0557,2022-08-16,Alumni Visit,23,"KIIT, KIMS",3.87,Alumni engagement / nostalgia visit,Enrollment confirmed,4.0,Synthetic,Dr Bruce Allen,UK,Guest of Honour
+T0558,2022-08-18,Media Visit,43,KISS only,1.86,Press coverage,Follow-up scheduled,4.4,Synthetic,Oluwaseun Nwosu,Nigeria,Documentary Producer
+T0559,2022-08-21,Alumni Visit,26,KISS only,3.81,Alumni engagement / nostalgia visit,Follow-up scheduled,4.0,Synthetic,Jennifer Perez,USA,Guest of Honour
+T0560,2022-08-23,International Delegation,17,KISS only,2.81,International partnership / MoU discussion,Follow-up scheduled,3.9,Synthetic,Sheryl Schroeder,USA,Visiting Faculty
+T0561,2022-08-25,MUN/TEDx Event Delegation,43,KISS only,1.6,Event sponsorship / jury hosting,Donation pledged,3.9,Synthetic,森 充,Japan,Delegation Head
+T0562,2022-08-26,Alumni Visit,13,KISS only,3.75,Alumni engagement / nostalgia visit,Feedback collected,4.4,Synthetic,Rafael Lopes,Brazil,Batch Representative
+T0563,2022-08-30,Global Immersion / India Trek,32,"KIIT, KIMS, KISS",2.07,Cultural immersion programme,"Information shared, no commitment",3.9,Synthetic,Abha Chaudhari,India,Programme Coordinator
+T0564,2022-09-06,Diplomatic Visit,10,KISS only,2.21,Diplomatic goodwill visit,MoU signed,4.4,Synthetic,Dana Ross,USA,Deputy Head of Mission
+T0565,2022-09-07,International Delegation,41,KISS only,2.81,International partnership / MoU discussion,Return visit requested,5.0,Synthetic,Dra. Eduarda da Cunha,Brazil,International Liaison Officer
+T0566,2022-09-08,Academic Partner Visit,31,"KIIT, KIMS",2.41,Academic collaboration / MoU signing,Positive press coverage,4.3,Synthetic,佐々木 明美,Japan,Dean of International Programs
+T0567,2022-09-09,Global Immersion / India Trek,32,KISS only,2.91,Cultural immersion programme,Return visit requested,4.0,Synthetic,Dennis Joyce,UK,Programme Coordinator
+T0568,2022-09-11,Global Immersion / India Trek,40,"KIIT, KISS",2.71,Cultural immersion programme,"Information shared, no commitment",4.9,Synthetic,Emilly Rezende,Brazil,Faculty Escort
+T0569,2022-09-12,Government Dignitary Visit,41,"KIIT, KSAC, KISS",2.36,Government outreach on tribal welfare,MoU signed,4.0,Synthetic,Mrs Georgina Lee,UK,State Secretary (Tribal Welfare)
+T0570,2022-09-18,Diplomatic Visit,37,"KIIT, KISS",2.5,Diplomatic goodwill visit,Feedback collected,3.0,Synthetic,佐藤 英樹,Japan,Consul General
+T0571,2022-09-21,Alumni Visit,5,"KIIT, KIMS",3.51,Alumni engagement / nostalgia visit,Positive press coverage,3.2,Synthetic,Enrico Silva,Brazil,Batch Representative
+T0572,2022-09-23,Diplomatic Visit,28,KIIT only,1.7,Diplomatic goodwill visit,"Information shared, no commitment",2.7,Synthetic,Valentim Ferreira,Brazil,Deputy Head of Mission
+T0573,2022-10-01,Diplomatic Visit,38,KIIT only,2.22,Diplomatic goodwill visit,Feedback collected,3.6,Synthetic,Carly Murphy,UK,Cultural Attache
+T0574,2022-10-03,School Group,7,"KIIT, KSAC, KISS",2.4,Cultural exchange / outreach,MoU signed,4.2,Synthetic,山下 直人,Japan,Delegation Representative
+T0575,2022-10-04,Government Dignitary Visit,30,"KIIT, KIMS, KISS",2.38,Government outreach on tribal welfare,MoU signed,5.0,Synthetic,Kala Vig,India,District Collector
+T0576,2022-10-07,Corporate CSR Visit,40,KISS only,2.21,CSR partnership evaluation,"Information shared, no commitment",4.4,Synthetic,Dr. Rafael Costela,Brazil,Sustainability Lead
+T0577,2022-10-08,Government Dignitary Visit,19,"KIIT, KIMS",3.02,Government outreach on tribal welfare,Enrollment confirmed,3.7,Synthetic,Manya Varkey,India,State Secretary (Tribal Welfare)
+T0578,2022-10-10,Media Visit,37,KIIT only,1.77,Press coverage,Partnership renewed,4.3,Synthetic,石川 学,Japan,Senior Correspondent
+T0579,2022-10-23,Donor Visit - Art of Giving,42,"KIIT, KIMS, KISS",3.66,Donor relationship / philanthropy visit,Donation pledged,2.9,Synthetic,Mrs Hayley Robertson,UK,Philanthropy Director
+T0580,2022-10-24,Diplomatic Visit,19,"KIIT, KIMS, KISS",3.5,Diplomatic goodwill visit,Feedback collected,4.3,Synthetic,Adam Barnes,USA,Deputy Head of Mission
+T0581,2022-10-27,Government Dignitary Visit,10,"KIIT, KSAC, KISS",2.5,Government outreach on tribal welfare,Follow-up scheduled,4.7,Synthetic,Michael Bell,USA,District Collector
+T0582,2022-10-29,Academic Partner Visit,27,KISS only,2.05,Academic collaboration / MoU signing,Return visit requested,3.3,Synthetic,Ifeoma Okafor,Nigeria,Vice-Provost
+T0583,2022-11-01,Diplomatic Visit,20,"KIIT, KISS",3.34,Diplomatic goodwill visit,MoU signed,4.9,Synthetic,鈴木 七夏,Japan,Cultural Attache
+T0584,2022-11-04,Corporate CSR Visit,12,"KIIT, KSAC, KISS",3.8,CSR partnership evaluation,"Information shared, no commitment",4.4,Synthetic,Teresa Rose,USA,CSR Head
+T0585,2022-11-08,Donor Visit - Art of Giving,28,"KIIT, KIMS, KISS",3.05,Donor relationship / philanthropy visit,Feedback collected,4.0,Synthetic,中川 拓真,Japan,Foundation Trustee
+T0586,2022-11-10,Global Immersion / India Trek,22,KISS only,2.49,Cultural immersion programme,Positive press coverage,4.6,Synthetic,Hadassa Cavalcante,Brazil,Programme Coordinator
+T0587,2022-11-12,Global Immersion / India Trek,7,"KIIT, KIMS, KISS",2.76,Cultural immersion programme,Follow-up scheduled,5.0,Synthetic,Arthur Couturier,France,Programme Coordinator
+T0588,2022-11-13,Corporate CSR Visit,38,"KIIT, KSAC, KISS",2.65,CSR partnership evaluation,Return visit requested,4.3,Synthetic,山田 英樹,Japan,CSR Head
+T0589,2022-11-14,MUN/TEDx Event Delegation,11,KISS only,2.31,Event sponsorship / jury hosting,Follow-up scheduled,4.3,Synthetic,Robin Thomas,USA,Event Sponsor Representative
+T0590,2022-11-16,Donor Visit - Art of Giving,44,"KIIT, KIMS",2.36,Donor relationship / philanthropy visit,MoU signed,3.5,Synthetic,Suzanne Cousin,France,Philanthropy Director
+T0591,2022-11-17,Academic Partner Visit,28,"KIIT, KISS",3.64,Academic collaboration / MoU signing,Positive press coverage,3.7,Synthetic,後藤 直樹,Japan,Dean of International Programs
+T0592,2022-11-18,MUN/TEDx Event Delegation,19,"KIIT, KSAC, KISS",3.54,Event sponsorship / jury hosting,MoU signed,4.7,Synthetic,Sr. João Felipe Santos,Brazil,Event Sponsor Representative
+T0593,2022-11-21,School Group,35,"KIIT, KIMS",3.51,Cultural exchange / outreach,MoU signed,3.3,Synthetic,David Simmons,USA,Delegation Representative
+T0594,2022-11-27,Global Immersion / India Trek,41,KIIT only,1.62,Cultural immersion programme,Follow-up scheduled,3.8,Synthetic,佐々木 陽一,Japan,Student Delegation Lead
+T0595,2022-11-28,Government Dignitary Visit,35,KIIT only,3.6,Government outreach on tribal welfare,Partnership renewed,3.5,Synthetic,Bradley Evans-Waters,UK,Policy Advisor
+T0596,2022-11-29,Academic Partner Visit,40,"KIIT, KISS",2.89,Academic collaboration / MoU signing,Enrollment confirmed,4.5,Synthetic,Varsha Sundaram,India,Dean of International Programs
+T0597,2022-11-30,Alumni Visit,43,KISS only,2.0,Alumni engagement / nostalgia visit,Feedback collected,4.4,Synthetic,Mark Hopkins,USA,Batch Representative
+T0598,2022-12-01,Government Dignitary Visit,27,KISS only,2.31,Government outreach on tribal welfare,Return visit requested,4.8,Synthetic,Timothy Dickerson,USA,State Secretary (Tribal Welfare)
+T0599,2022-12-02,Corporate CSR Visit,29,"KIIT, KIMS, KISS",3.03,CSR partnership evaluation,Follow-up scheduled,3.9,Synthetic,Bryan Nunes,Brazil,Sustainability Lead
+T0600,2022-12-06,MUN/TEDx Event Delegation,41,KIIT only,2.51,Event sponsorship / jury hosting,Partnership renewed,3.6,Synthetic,Sr. Vinícius Ferreira,Brazil,Jury Chair
+T0601,2022-12-07,Academic Partner Visit,23,KISS only,3.28,Academic collaboration / MoU signing,"Information shared, no commitment",3.6,Synthetic,Advay Kadakia,India,Professor & Research Chair
+T0602,2022-12-13,School Group,16,"KIIT, KIMS",3.64,Cultural exchange / outreach,Feedback collected,3.5,Synthetic,Juan da Cunha,Brazil,Delegation Representative
+T0603,2022-12-14,Corporate CSR Visit,18,KIIT only,1.92,CSR partnership evaluation,Enrollment confirmed,4.0,Synthetic,Emeka Balogun,Nigeria,VP Corporate Affairs
+T0604,2022-12-16,Media Visit,38,KIIT only,3.41,Press coverage,Positive press coverage,4.3,Synthetic,Laura Dickerson,USA,Senior Correspondent
+T0605,2022-12-17,Alumni Visit,29,"KIIT, KIMS",2.27,Alumni engagement / nostalgia visit,"Information shared, no commitment",3.2,Synthetic,Siya Pal,India,Alumni Association Member
+T0606,2022-12-19,School Group,6,"KIIT, KISS",1.59,Cultural exchange / outreach,"Information shared, no commitment",4.7,Synthetic,Mr Stuart Cooke,UK,Delegation Representative
+T0607,2022-12-21,Global Immersion / India Trek,22,"KIIT, KIMS",2.87,Cultural immersion programme,Feedback collected,4.6,Synthetic,Mr Stewart Ball,UK,Faculty Escort
+T0608,2022-12-24,Alumni Visit,41,"KIIT, KSAC, KISS",2.59,Alumni engagement / nostalgia visit,"Information shared, no commitment",4.4,Synthetic,Chameli Hora,India,Guest of Honour
+T0609,2022-12-26,Diplomatic Visit,10,"KIIT, KISS",2.6,Diplomatic goodwill visit,MoU signed,5.0,Synthetic,Oluwaseun Nwosu,Nigeria,Deputy Head of Mission
+T0610,2022-12-27,International Delegation,38,"KIIT, KIMS",3.54,International partnership / MoU discussion,Enrollment confirmed,3.3,Synthetic,Ifeoma Adebayo,Nigeria,Programme Director
+T0611,2022-12-30,Donor Visit - Art of Giving,24,"KIIT, KIMS, KISS",1.52,Donor relationship / philanthropy visit,Feedback collected,3.5,Synthetic,Tanay Wali,India,Philanthropy Director
+T0612,2022-12-31,International Delegation,40,"KIIT, KIMS, KISS",2.43,International partnership / MoU discussion,"Information shared, no commitment",3.1,Synthetic,Pedro Lucas Rios,Brazil,Programme Director
+T0613,2023-01-02,Alumni Visit,29,"KIIT, KIMS",3.57,Alumni engagement / nostalgia visit,Enrollment confirmed,4.7,Synthetic,Kristen Baker,USA,Batch Representative
+T0614,2023-01-08,Alumni Visit,39,"KIIT, KIMS, KISS",3.52,Alumni engagement / nostalgia visit,Donation pledged,4.6,Synthetic,Daniel Reynaud-Teixeira,France,Batch Representative
+T0615,2023-01-09,Government Dignitary Visit,12,KISS only,3.09,Government outreach on tribal welfare,Return visit requested,4.2,Synthetic,Kari Whitehead,USA,District Collector
+T0616,2023-01-11,International Delegation,14,KISS only,1.62,International partnership / MoU discussion,Donation pledged,4.4,Synthetic,Duncan Smith-O'Brien,UK,International Liaison Officer
+T0617,2023-01-12,School Group,33,"KIIT, KIMS",3.32,Cultural exchange / outreach,Donation pledged,3.1,Synthetic,高橋 太一,Japan,Delegation Representative
+T0618,2023-01-14,Government Dignitary Visit,36,"KIIT, KIMS, KISS",3.99,Government outreach on tribal welfare,Follow-up scheduled,5.0,Synthetic,Sara Rios,Brazil,District Collector
+T0619,2023-01-15,School Group,8,"KIIT, KIMS, KISS",2.17,Cultural exchange / outreach,Enrollment confirmed,4.3,Synthetic,John Simmons,USA,Delegation Representative
+T0620,2023-01-16,Government Dignitary Visit,29,KIIT only,3.57,Government outreach on tribal welfare,Feedback collected,3.9,Synthetic,Pranit Patel,India,District Collector
+T0621,2023-01-17,Donor Visit - Art of Giving,20,KIIT only,3.34,Donor relationship / philanthropy visit,Return visit requested,4.2,Synthetic,Ansh Bath,India,Foundation Trustee
+T0622,2023-01-23,Academic Partner Visit,15,KIIT only,3.07,Academic collaboration / MoU signing,Feedback collected,4.1,Synthetic,Girindra Uppal,India,Dean of International Programs
+T0623,2023-01-25,Alumni Visit,24,KIIT only,2.0,Alumni engagement / nostalgia visit,Follow-up scheduled,3.9,Synthetic,Norman Peacock,UK,Alumni Association Member
+T0624,2023-01-27,Media Visit,25,"KIIT, KISS",1.54,Press coverage,"Information shared, no commitment",3.7,Synthetic,Arthur Gabriel Cunha,Brazil,Senior Correspondent
+T0625,2023-01-29,International Delegation,42,"KIIT, KIMS, KISS",3.46,International partnership / MoU discussion,Follow-up scheduled,4.5,Synthetic,Charlotte Maillot,France,Programme Director
+T0626,2023-01-31,School Group,36,KISS only,1.73,Cultural exchange / outreach,Sponsorship renewed,5.0,Synthetic,Lydia Owen,UK,Delegation Representative
+T0627,2023-02-02,Alumni Visit,14,KIIT only,3.25,Alumni engagement / nostalgia visit,MoU signed,4.6,Synthetic,Marcus Naylor,UK,Guest of Honour
+T0628,2023-02-03,Global Immersion / India Trek,27,"KIIT, KIMS, KISS",3.51,Cultural immersion programme,Follow-up scheduled,5.0,Synthetic,Bhanumati Saran,India,Faculty Escort
+T0629,2023-02-06,International Delegation,36,KISS only,3.27,International partnership / MoU discussion,Return visit requested,3.9,Synthetic,Dr. José Novaes,Brazil,International Liaison Officer
+T0630,2023-02-10,Donor Visit - Art of Giving,22,KISS only,3.67,Donor relationship / philanthropy visit,Feedback collected,3.6,Synthetic,João Vitor da Rocha,Brazil,Foundation Trustee
+T0631,2023-02-11,Global Immersion / India Trek,14,"KIIT, KISS",2.62,Cultural immersion programme,Enrollment confirmed,4.1,Synthetic,Dr Nicole Shepherd,UK,Faculty Escort
+T0632,2023-02-12,Alumni Visit,37,"KIIT, KIMS",2.45,Alumni engagement / nostalgia visit,Feedback collected,3.8,Synthetic,Yashawini Pai,India,Guest of Honour
+T0633,2023-02-15,Corporate CSR Visit,39,"KIIT, KIMS",3.55,CSR partnership evaluation,Enrollment confirmed,4.5,Synthetic,Chinedu Okafor,Nigeria,CSR Head
+T0634,2023-02-17,Government Dignitary Visit,25,"KIIT, KISS",2.52,Government outreach on tribal welfare,Positive press coverage,3.2,Synthetic,Waida Dalal,India,District Collector
+T0635,2023-02-19,School Group,16,"KIIT, KIMS",3.68,Cultural exchange / outreach,MoU signed,4.7,Synthetic,Sr. Liam Silva,Brazil,Delegation Representative
+T0636,2023-02-20,MUN/TEDx Event Delegation,29,KISS only,3.14,Event sponsorship / jury hosting,Feedback collected,4.1,Synthetic,Folake Adebayo,Nigeria,Jury Chair
+T0637,2023-02-21,Academic Partner Visit,19,KIIT only,3.01,Academic collaboration / MoU signing,MoU signed,3.5,Synthetic,高橋 里佳,Japan,Professor & Research Chair
+T0638,2023-03-04,MUN/TEDx Event Delegation,22,"KIIT, KSAC, KISS",2.82,Event sponsorship / jury hosting,Partnership renewed,3.6,Synthetic,Zachary Ross,USA,Jury Chair
+T0639,2023-03-05,Diplomatic Visit,38,"KIIT, KSAC, KISS",1.74,Diplomatic goodwill visit,Enrollment confirmed,3.2,Synthetic,Jennifer Andrews,USA,Consul General
+T0640,2023-03-06,Global Immersion / India Trek,20,"KIIT, KIMS",2.93,Cultural immersion programme,Feedback collected,4.3,Synthetic,Ifeoma Adebayo,Nigeria,Student Delegation Lead
+T0641,2023-03-08,Alumni Visit,41,"KIIT, KIMS, KISS",2.39,Alumni engagement / nostalgia visit,"Information shared, no commitment",4.2,Synthetic,Ngozi Eze,Nigeria,Alumni Association Member
+T0642,2023-03-10,School Group,40,"KIIT, KISS",2.5,Cultural exchange / outreach,Feedback collected,3.4,Synthetic,Miss Michelle Bailey,UK,Delegation Representative
+T0643,2023-03-14,Academic Partner Visit,28,"KIIT, KSAC, KISS",2.53,Academic collaboration / MoU signing,Return visit requested,3.4,Synthetic,長谷川 直樹,Japan,Professor & Research Chair
+T0644,2023-03-15,Diplomatic Visit,41,"KIIT, KIMS, KISS",2.86,Diplomatic goodwill visit,Feedback collected,4.0,Synthetic,Chinedu Eze,Nigeria,Consul General
+T0645,2023-03-16,Donor Visit - Art of Giving,33,KIIT only,3.9,Donor relationship / philanthropy visit,"Information shared, no commitment",4.8,Synthetic,後藤 零,Japan,Philanthropy Director
+T0646,2023-03-20,Government Dignitary Visit,19,"KIIT, KISS",2.04,Government outreach on tribal welfare,Sponsorship renewed,4.0,Synthetic,Jamie Thomas,USA,District Collector
+T0647,2023-03-27,Donor Visit - Art of Giving,27,"KIIT, KISS",1.89,Donor relationship / philanthropy visit,Positive press coverage,3.3,Synthetic,Simon Baral,India,Major Gifts Officer
+T0648,2023-03-28,Government Dignitary Visit,24,"KIIT, KIMS, KISS",1.73,Government outreach on tribal welfare,Follow-up scheduled,4.1,Synthetic,Owen Chaudhuri,India,District Collector
+T0649,2023-04-01,MUN/TEDx Event Delegation,11,"KIIT, KISS",2.99,Event sponsorship / jury hosting,Sponsorship renewed,4.0,Synthetic,Alfred De Oliveira,France,Delegation Head
+T0650,2023-04-03,International Delegation,26,"KIIT, KIMS, KISS",2.37,International partnership / MoU discussion,Sponsorship renewed,2.6,Synthetic,Mr Toby Brown,UK,Visiting Faculty
+T0651,2023-04-04,Diplomatic Visit,43,"KIIT, KSAC, KISS",3.82,Diplomatic goodwill visit,"Information shared, no commitment",4.2,Synthetic,後藤 英樹,Japan,Consul General
+T0652,2023-04-05,Global Immersion / India Trek,7,KISS only,2.3,Cultural immersion programme,Positive press coverage,4.1,Synthetic,Chasmum Goyal,India,Faculty Escort
+T0653,2023-04-07,Alumni Visit,30,KISS only,3.93,Alumni engagement / nostalgia visit,Follow-up scheduled,4.6,Synthetic,Alexandria Julien,France,Alumni Association Member
+T0654,2023-04-08,Government Dignitary Visit,30,"KIIT, KISS",1.87,Government outreach on tribal welfare,Positive press coverage,5.0,Synthetic,Keith Lane,USA,State Secretary (Tribal Welfare)
+T0655,2023-04-11,Media Visit,37,"KIIT, KSAC, KISS",2.59,Press coverage,MoU signed,4.9,Synthetic,佐々木 直人,Japan,Bureau Chief
+T0656,2023-04-13,Media Visit,41,KISS only,1.99,Press coverage,Feedback collected,4.0,Synthetic,Dante Vasconcelos,Brazil,Bureau Chief
+T0657,2023-04-14,Corporate CSR Visit,22,"KIIT, KISS",3.44,CSR partnership evaluation,Feedback collected,3.5,Synthetic,Laura Sellers,USA,CSR Head
+T0658,2023-04-15,Alumni Visit,31,"KIIT, KISS",2.56,Alumni engagement / nostalgia visit,Partnership renewed,5.0,Synthetic,Adrian Hughes,USA,Batch Representative
+T0659,2023-04-17,Government Dignitary Visit,15,KISS only,3.97,Government outreach on tribal welfare,"Information shared, no commitment",4.2,Synthetic,佐々木 翼,Japan,Policy Advisor
+T0660,2023-04-21,Alumni Visit,28,"KIIT, KSAC, KISS",1.89,Alumni engagement / nostalgia visit,Follow-up scheduled,4.2,Synthetic,Bella Barros,Brazil,Alumni Association Member
+T0661,2023-04-23,MUN/TEDx Event Delegation,14,"KIIT, KISS",3.67,Event sponsorship / jury hosting,Return visit requested,4.2,Synthetic,Olivia Cunha,Brazil,Delegation Head
+T0662,2023-04-25,Donor Visit - Art of Giving,6,"KIIT, KSAC, KISS",2.33,Donor relationship / philanthropy visit,MoU signed,4.3,Synthetic,Chinedu Adebayo,Nigeria,Foundation Trustee
+T0663,2023-05-01,Admission Counselling,392,"KIIT, KIMS, KISS",1.44,Admission counselling / campus familiarization,Donation pledged,4.1,Synthetic,Alexander Sane,India,Counselling Desk Coordinator
+T0664,2023-05-02,Admission Counselling,516,"KIIT, KISS",1.2,Admission counselling / campus familiarization,Follow-up scheduled,3.9,Synthetic,Aditya Dara,India,Counselling Desk Coordinator
+T0665,2023-05-03,Admission Counselling,539,"KIIT, KISS",1.64,Admission counselling / campus familiarization,Follow-up scheduled,3.9,Synthetic,Tejas Dara,India,Counselling Desk Coordinator
+T0666,2023-05-04,Media Visit,19,KISS only,3.95,Press coverage,Follow-up scheduled,4.2,Synthetic,Marie Brown,UK,Bureau Chief
+T0667,2023-05-06,Admission Counselling,245,"KIIT, KISS",1.14,Admission counselling / campus familiarization,Feedback collected,3.9,Synthetic,Shravya Grover,India,Counselling Desk Coordinator
+T0668,2023-05-07,Admission Counselling,471,"KIIT, KISS",1.23,Admission counselling / campus familiarization,MoU signed,3.8,Synthetic,Jasmit Dhillon,India,Counselling Desk Coordinator
+T0669,2023-05-08,Admission Counselling,381,"KIIT, KIMS, KISS",1.47,Admission counselling / campus familiarization,Feedback collected,4.3,Synthetic,Chaaya Tara,India,Counselling Desk Coordinator
+T0670,2023-05-09,Admission Counselling,331,"KIIT, KIMS, KISS",1.66,Admission counselling / campus familiarization,"Information shared, no commitment",4.0,Synthetic,Aachal Ben,India,Counselling Desk Coordinator
+T0671,2023-05-10,Admission Counselling,401,"KIIT, KIMS, KISS",1.49,Admission counselling / campus familiarization,Feedback collected,5.0,Synthetic,Advay Bhat,India,Counselling Desk Coordinator
+T0672,2023-05-12,Admission Counselling,316,"KIIT, KIMS, KISS",1.31,Admission counselling / campus familiarization,Partnership renewed,2.6,Synthetic,Fariq Ramachandran,India,Counselling Desk Coordinator
+T0673,2023-05-14,Admission Counselling,305,"KIIT, KIMS, KISS",1.49,Admission counselling / campus familiarization,"Information shared, no commitment",4.9,Synthetic,Devika Gandhi,India,Counselling Desk Coordinator
+T0674,2023-05-15,School Group,32,"KIIT, KIMS",3.99,Cultural exchange / outreach,Feedback collected,4.5,Synthetic,Anne Gomes,France,Delegation Representative
+T0675,2023-05-17,Admission Counselling,568,"KIIT, KISS",1.09,Admission counselling / campus familiarization,Follow-up scheduled,3.0,Synthetic,Reva Singhal,India,Counselling Desk Coordinator
+T0676,2023-05-18,Admission Counselling,411,"KIIT, KISS",1.72,Admission counselling / campus familiarization,Sponsorship renewed,4.0,Synthetic,Maanav Dada,India,Counselling Desk Coordinator
+T0677,2023-05-19,Government Dignitary Visit,14,KIIT only,3.45,Government outreach on tribal welfare,Donation pledged,3.6,Synthetic,Ms Vanessa Roberts,UK,District Collector
+T0678,2023-05-20,Admission Counselling,336,"KIIT, KIMS, KISS",1.45,Admission counselling / campus familiarization,Follow-up scheduled,3.4,Synthetic,Lekha Sethi,India,Counselling Desk Coordinator
+T0679,2023-05-21,Admission Counselling,552,"KIIT, KIMS, KISS",1.58,Admission counselling / campus familiarization,Positive press coverage,3.7,Synthetic,Gauri Master,India,Counselling Desk Coordinator
+T0680,2023-05-22,Admission Counselling,294,"KIIT, KISS",1.64,Admission counselling / campus familiarization,MoU signed,3.5,Synthetic,Darsh Natarajan,India,Counselling Desk Coordinator
+T0681,2023-05-23,Admission Counselling,591,"KIIT, KISS",1.73,Admission counselling / campus familiarization,Follow-up scheduled,5.0,Synthetic,Matthew More,India,Counselling Desk Coordinator
+T0682,2023-05-24,Diplomatic Visit,9,"KIIT, KIMS, KISS",1.94,Diplomatic goodwill visit,"Information shared, no commitment",4.8,Synthetic,Mariane da Cruz,Brazil,Deputy Head of Mission
+T0683,2023-05-25,Diplomatic Visit,32,KIIT only,2.51,Diplomatic goodwill visit,"Information shared, no commitment",4.6,Synthetic,Michael Guzman,USA,Deputy Head of Mission
+T0684,2023-05-26,Admission Counselling,580,"KIIT, KIMS, KISS",1.43,Admission counselling / campus familiarization,Enrollment confirmed,4.6,Synthetic,Siya Mander,India,Counselling Desk Coordinator
+T0685,2023-05-27,Diplomatic Visit,38,"KIIT, KSAC, KISS",2.84,Diplomatic goodwill visit,Enrollment confirmed,3.5,Synthetic,Erica Adams,USA,Consul General
+T0686,2023-05-28,Admission Counselling,225,"KIIT, KISS",1.14,Admission counselling / campus familiarization,Partnership renewed,3.9,Synthetic,Brijesh Mani,India,Counselling Desk Coordinator
+T0687,2023-05-29,Admission Counselling,285,"KIIT, KIMS, KISS",1.32,Admission counselling / campus familiarization,Follow-up scheduled,4.5,Synthetic,Manan Mahal,India,Counselling Desk Coordinator
+T0688,2023-05-30,Admission Counselling,246,"KIIT, KIMS, KISS",1.54,Admission counselling / campus familiarization,Positive press coverage,3.5,Synthetic,Idika Warrior,India,Counselling Desk Coordinator
+T0689,2023-06-02,Media Visit,25,"KIIT, KIMS",2.63,Press coverage,Return visit requested,4.2,Synthetic,Juan Salinas,USA,Senior Correspondent
+T0690,2023-06-05,Academic Partner Visit,15,KIIT only,3.3,Academic collaboration / MoU signing,Return visit requested,3.7,Synthetic,Paul Huynh,USA,Professor & Research Chair
+T0691,2023-06-19,School Group,16,KIIT only,3.42,Cultural exchange / outreach,Partnership renewed,3.6,Synthetic,Honoré Seguin-Boyer,France,Delegation Representative
+T0692,2023-06-22,School Group,12,"KIIT, KIMS",3.75,Cultural exchange / outreach,Sponsorship renewed,4.2,Synthetic,Joe Hall,UK,Delegation Representative
+T0693,2023-06-23,Donor Visit - Art of Giving,36,KISS only,3.64,Donor relationship / philanthropy visit,Feedback collected,4.5,Synthetic,西村 浩,Japan,Foundation Trustee
+T0694,2023-06-25,MUN/TEDx Event Delegation,35,"KIIT, KIMS, KISS",2.63,Event sponsorship / jury hosting,Positive press coverage,4.0,Synthetic,Rebecca Stevens,USA,Delegation Head
+T0695,2023-06-26,Global Immersion / India Trek,22,KISS only,3.05,Cultural immersion programme,Follow-up scheduled,4.9,Synthetic,René Monnier,France,Programme Coordinator
+T0696,2023-06-27,School Group,8,KIIT only,3.13,Cultural exchange / outreach,Donation pledged,3.2,Synthetic,Igor Gonçalves,Brazil,Delegation Representative
+T0697,2023-06-30,Corporate CSR Visit,8,"KIIT, KIMS",1.77,CSR partnership evaluation,Partnership renewed,4.2,Synthetic,Stephany da Luz,Brazil,VP Corporate Affairs
+T0698,2023-07-05,Donor Visit - Art of Giving,42,KIIT only,2.4,Donor relationship / philanthropy visit,Partnership renewed,4.2,Synthetic,Vansha Toor,India,Philanthropy Director
+T0699,2023-07-06,Media Visit,9,KISS only,3.4,Press coverage,Enrollment confirmed,4.0,Synthetic,Ranbir Kala,India,Bureau Chief
+T0700,2023-07-07,Government Dignitary Visit,26,KISS only,2.82,Government outreach on tribal welfare,MoU signed,4.4,Synthetic,Oluwaseun Adebayo,Nigeria,District Collector
+T0701,2023-07-09,Alumni Visit,38,"KIIT, KIMS, KISS",3.97,Alumni engagement / nostalgia visit,Feedback collected,3.4,Synthetic,Joanne Farrell,UK,Alumni Association Member
+T0702,2023-07-12,MUN/TEDx Event Delegation,25,KISS only,2.15,Event sponsorship / jury hosting,"Information shared, no commitment",4.8,Synthetic,Jacob Evans-Armstrong,UK,Event Sponsor Representative
+T0703,2023-07-20,Government Dignitary Visit,17,KIIT only,1.5,Government outreach on tribal welfare,Sponsorship renewed,3.7,Synthetic,Zansi Dixit,India,State Secretary (Tribal Welfare)
+T0704,2023-07-21,Diplomatic Visit,44,"KIIT, KIMS, KISS",4.0,Diplomatic goodwill visit,Partnership renewed,3.9,Synthetic,Thomas Snyder,USA,Cultural Attache
+T0705,2023-07-24,Diplomatic Visit,23,KIIT only,2.14,Diplomatic goodwill visit,Positive press coverage,4.4,Synthetic,Oluwaseun Okafor,Nigeria,Deputy Head of Mission
+T0706,2023-07-27,Academic Partner Visit,26,KISS only,2.49,Academic collaboration / MoU signing,Follow-up scheduled,3.8,Synthetic,Julien Lefort,France,Dean of International Programs
+T0707,2023-07-29,Academic Partner Visit,35,KIIT only,3.79,Academic collaboration / MoU signing,"Information shared, no commitment",3.0,Synthetic,後藤 くみ子,Japan,Vice-Provost
+T0708,2023-07-30,Donor Visit - Art of Giving,39,"KIIT, KIMS, KISS",3.74,Donor relationship / philanthropy visit,"Information shared, no commitment",3.3,Synthetic,Mrs Debra White,UK,Major Gifts Officer
+T0709,2023-08-01,Global Immersion / India Trek,24,"KIIT, KSAC, KISS",2.91,Cultural immersion programme,Positive press coverage,4.6,Synthetic,Girindra Bandi,India,Programme Coordinator
+T0710,2023-08-02,MUN/TEDx Event Delegation,26,"KIIT, KISS",3.5,Event sponsorship / jury hosting,MoU signed,3.4,Synthetic,Ryan Pastor,Brazil,Delegation Head
+T0711,2023-08-03,International Delegation,26,"KIIT, KSAC, KISS",3.96,International partnership / MoU discussion,MoU signed,5.0,Synthetic,Hadassa da Luz,Brazil,International Liaison Officer
+T0712,2023-08-10,International Delegation,22,"KIIT, KIMS, KISS",2.53,International partnership / MoU discussion,"Information shared, no commitment",3.0,Synthetic,Dr Allan Glover,UK,Visiting Faculty
+T0713,2023-08-13,Government Dignitary Visit,16,KIIT only,1.78,Government outreach on tribal welfare,Follow-up scheduled,4.8,Synthetic,Karan Kumar,India,District Collector
+T0714,2023-08-15,Donor Visit - Art of Giving,37,"KIIT, KISS",1.89,Donor relationship / philanthropy visit,Feedback collected,4.3,Synthetic,Mr Leslie Lawson,UK,Philanthropy Director
+T0715,2023-08-17,Academic Partner Visit,14,KIIT only,3.42,Academic collaboration / MoU signing,Feedback collected,3.7,Synthetic,Kritika Chacko,India,Dean of International Programs
+T0716,2023-08-19,International Delegation,34,KISS only,2.47,International partnership / MoU discussion,Partnership renewed,3.9,Synthetic,Margaret Howells,UK,Visiting Faculty
+T0717,2023-08-23,Donor Visit - Art of Giving,7,"KIIT, KSAC, KISS",1.76,Donor relationship / philanthropy visit,Follow-up scheduled,4.4,Synthetic,Suzanne Coulon,France,Major Gifts Officer
+T0718,2023-08-25,Diplomatic Visit,25,"KIIT, KISS",2.0,Diplomatic goodwill visit,Partnership renewed,4.2,Synthetic,Miguel Campos,Brazil,Consul General
+T0719,2023-08-28,School Group,22,KISS only,1.79,Cultural exchange / outreach,Follow-up scheduled,4.9,Synthetic,Adaeze Adebayo,Nigeria,Delegation Representative
+T0720,2023-08-29,Academic Partner Visit,40,"KIIT, KIMS",2.3,Academic collaboration / MoU signing,"Information shared, no commitment",3.9,Synthetic,渡辺 浩,Japan,Vice-Provost
+T0721,2023-08-31,Government Dignitary Visit,44,KISS only,3.73,Government outreach on tribal welfare,MoU signed,4.3,Synthetic,Sian Archer,UK,State Secretary (Tribal Welfare)
+T0722,2023-09-01,Alumni Visit,8,KIIT only,1.76,Alumni engagement / nostalgia visit,Enrollment confirmed,3.6,Synthetic,Nathalie de la Pons,France,Batch Representative
+T0723,2023-09-02,MUN/TEDx Event Delegation,42,"KIIT, KSAC, KISS",3.07,Event sponsorship / jury hosting,Feedback collected,4.2,Synthetic,Kamala Keer,India,Event Sponsor Representative
+T0724,2023-09-04,Diplomatic Visit,39,"KIIT, KIMS, KISS",1.7,Diplomatic goodwill visit,Follow-up scheduled,4.4,Synthetic,Orinder Barad,India,Deputy Head of Mission
+T0725,2023-09-12,Diplomatic Visit,14,KISS only,3.65,Diplomatic goodwill visit,Partnership renewed,3.2,Synthetic,Joseph-Antoine Lenoir,France,Deputy Head of Mission
+T0726,2023-09-19,Donor Visit - Art of Giving,12,"KIIT, KIMS, KISS",2.38,Donor relationship / philanthropy visit,"Information shared, no commitment",3.4,Synthetic,Champak Kuruvilla,India,Foundation Trustee
+T0727,2023-09-22,Corporate CSR Visit,30,KIIT only,3.54,CSR partnership evaluation,Return visit requested,4.2,Synthetic,Daksh Chaudhuri,India,VP Corporate Affairs
+T0728,2023-09-23,Government Dignitary Visit,39,KISS only,2.65,Government outreach on tribal welfare,Positive press coverage,4.3,Synthetic,Liam Sá,Brazil,Policy Advisor
+T0729,2023-09-24,School Group,35,"KIIT, KISS",2.46,Cultural exchange / outreach,Return visit requested,4.1,Synthetic,Cristian Goodman,USA,Delegation Representative
+T0730,2023-09-30,Alumni Visit,9,"KIIT, KSAC, KISS",3.35,Alumni engagement / nostalgia visit,"Information shared, no commitment",4.2,Synthetic,Maysa Teixeira,Brazil,Alumni Association Member
+T0731,2023-10-01,MUN/TEDx Event Delegation,34,KIIT only,2.31,Event sponsorship / jury hosting,Follow-up scheduled,4.0,Synthetic,山田 太郎,Japan,Delegation Head
+T0732,2023-10-02,Media Visit,9,"KIIT, KSAC, KISS",3.0,Press coverage,"Information shared, no commitment",3.9,Synthetic,Georgina Harvey-Jones,UK,Bureau Chief
+T0733,2023-10-03,Alumni Visit,8,"KIIT, KIMS",1.73,Alumni engagement / nostalgia visit,Feedback collected,3.3,Synthetic,Beverley Smith,UK,Guest of Honour
+T0734,2023-10-07,Government Dignitary Visit,29,"KIIT, KIMS, KISS",3.04,Government outreach on tribal welfare,Return visit requested,4.3,Synthetic,Annette Norman,UK,District Collector
+T0735,2023-10-09,Alumni Visit,24,"KIIT, KIMS, KISS",3.8,Alumni engagement / nostalgia visit,"Information shared, no commitment",3.6,Synthetic,Robert Banik,India,Batch Representative
+T0736,2023-10-16,Global Immersion / India Trek,8,KISS only,1.5,Cultural immersion programme,"Information shared, no commitment",4.4,Synthetic,Henry Barbosa,Brazil,Student Delegation Lead
+T0737,2023-10-17,Government Dignitary Visit,6,"KIIT, KSAC, KISS",2.09,Government outreach on tribal welfare,Feedback collected,3.2,Synthetic,Christian Gregory,UK,District Collector
+T0738,2023-10-18,Media Visit,30,KISS only,2.45,Press coverage,MoU signed,4.8,Synthetic,後藤 和也,Japan,Senior Correspondent
+T0739,2023-10-19,Diplomatic Visit,40,"KIIT, KISS",2.46,Diplomatic goodwill visit,Follow-up scheduled,4.5,Synthetic,Emeka Okonkwo,Nigeria,Consul General
+T0740,2023-10-20,Alumni Visit,13,KIIT only,1.84,Alumni engagement / nostalgia visit,Follow-up scheduled,4.0,Synthetic,近藤 里佳,Japan,Guest of Honour
+T0741,2023-10-22,Media Visit,13,"KIIT, KSAC, KISS",1.71,Press coverage,"Information shared, no commitment",4.8,Synthetic,山田 太一,Japan,Senior Correspondent
+T0742,2023-10-27,Media Visit,40,"KIIT, KIMS, KISS",3.55,Press coverage,MoU signed,5.0,Synthetic,Vivaan Sood,India,Bureau Chief
+T0743,2023-10-28,International Delegation,41,"KIIT, KSAC, KISS",2.75,International partnership / MoU discussion,Positive press coverage,4.8,Synthetic,Jacob Rivera,USA,Programme Director
+T0744,2023-10-29,Global Immersion / India Trek,41,KIIT only,2.42,Cultural immersion programme,Feedback collected,2.7,Synthetic,Pranit Seth,India,Programme Coordinator
+T0745,2023-10-30,MUN/TEDx Event Delegation,35,KIIT only,3.9,Event sponsorship / jury hosting,Return visit requested,3.0,Synthetic,吉田 京助,Japan,Delegation Head
+T0746,2023-11-03,Global Immersion / India Trek,10,KISS only,2.81,Cultural immersion programme,Enrollment confirmed,3.8,Synthetic,Anna Ali-Bryan,UK,Faculty Escort
+T0747,2023-11-13,Donor Visit - Art of Giving,37,KISS only,3.77,Donor relationship / philanthropy visit,"Information shared, no commitment",4.2,Synthetic,Ngozi Adeyemi,Nigeria,Philanthropy Director
+T0748,2023-11-14,Government Dignitary Visit,23,"KIIT, KSAC, KISS",1.92,Government outreach on tribal welfare,Feedback collected,4.5,Synthetic,Chaman Natt,India,Policy Advisor
+T0749,2023-11-15,MUN/TEDx Event Delegation,21,"KIIT, KIMS, KISS",1.65,Event sponsorship / jury hosting,Feedback collected,3.8,Synthetic,Debbie Rodriguez,USA,Delegation Head
+T0750,2023-11-16,Government Dignitary Visit,44,"KIIT, KIMS, KISS",1.57,Government outreach on tribal welfare,Positive press coverage,4.3,Synthetic,Folake Okafor,Nigeria,Policy Advisor
+T0751,2023-11-17,Government Dignitary Visit,21,"KIIT, KISS",1.83,Government outreach on tribal welfare,Partnership renewed,3.7,Synthetic,Valérie Noël,France,District Collector
+T0752,2023-11-18,Corporate CSR Visit,43,KISS only,1.94,CSR partnership evaluation,Feedback collected,3.8,Synthetic,Théo Araújo,Brazil,Sustainability Lead
+T0753,2023-11-19,School Group,21,"KIIT, KIMS",3.46,Cultural exchange / outreach,Sponsorship renewed,3.0,Synthetic,Rachel Schaefer,USA,Delegation Representative
+T0754,2023-11-21,Corporate CSR Visit,14,"KIIT, KIMS",2.99,CSR partnership evaluation,"Information shared, no commitment",3.2,Synthetic,Shane Lee,UK,VP Corporate Affairs
+T0755,2023-11-23,Donor Visit - Art of Giving,45,KISS only,1.92,Donor relationship / philanthropy visit,"Information shared, no commitment",3.4,Synthetic,Paul Arellano,USA,Major Gifts Officer
+T0756,2023-11-24,Government Dignitary Visit,12,"KIIT, KIMS, KISS",1.63,Government outreach on tribal welfare,Partnership renewed,3.6,Synthetic,Dean Allen,USA,State Secretary (Tribal Welfare)
+T0757,2023-11-25,Global Immersion / India Trek,19,"KIIT, KSAC, KISS",2.45,Cultural immersion programme,Partnership renewed,4.8,Synthetic,Gunbir Ramakrishnan,India,Faculty Escort
+T0758,2023-11-26,Media Visit,5,"KIIT, KIMS, KISS",2.22,Press coverage,Partnership renewed,3.6,Synthetic,加藤 さゆり,Japan,Senior Correspondent
+T0759,2023-11-29,Global Immersion / India Trek,45,"KIIT, KIMS, KISS",2.38,Cultural immersion programme,Feedback collected,5.0,Synthetic,Stephanie Connor,UK,Programme Coordinator
+T0760,2023-12-01,Government Dignitary Visit,11,KISS only,2.14,Government outreach on tribal welfare,Sponsorship renewed,4.5,Synthetic,Adaeze Nwosu,Nigeria,District Collector
+T0761,2023-12-03,Alumni Visit,42,KISS only,3.43,Alumni engagement / nostalgia visit,Return visit requested,4.3,Synthetic,Riya Tripathi,India,Guest of Honour
+T0762,2023-12-05,International Delegation,5,KIIT only,3.58,International partnership / MoU discussion,Positive press coverage,3.3,Synthetic,Sr. Pedro Miguel Abreu,Brazil,Programme Director
+T0763,2023-12-06,Donor Visit - Art of Giving,27,"KIIT, KISS",2.05,Donor relationship / philanthropy visit,Donation pledged,4.6,Synthetic,Quincy Parsa,India,Major Gifts Officer
+T0764,2023-12-07,Corporate CSR Visit,8,"KIIT, KSAC, KISS",3.85,CSR partnership evaluation,Follow-up scheduled,3.9,Synthetic,Alice Lejeune,France,Sustainability Lead
+T0765,2023-12-11,MUN/TEDx Event Delegation,13,"KIIT, KSAC, KISS",2.44,Event sponsorship / jury hosting,Follow-up scheduled,4.3,Synthetic,Ngozi Okonkwo,Nigeria,Event Sponsor Representative
+T0766,2023-12-14,Donor Visit - Art of Giving,9,"KIIT, KISS",3.1,Donor relationship / philanthropy visit,Feedback collected,5.0,Synthetic,Guillaume de la Dos Santos,France,Foundation Trustee
+T0767,2023-12-17,School Group,9,KIIT only,2.19,Cultural exchange / outreach,Partnership renewed,3.7,Synthetic,Raymond Pires,France,Delegation Representative
+T0768,2023-12-19,Government Dignitary Visit,16,"KIIT, KIMS, KISS",2.6,Government outreach on tribal welfare,Follow-up scheduled,4.9,Synthetic,Tunde Adeyemi,Nigeria,Policy Advisor
+T0769,2023-12-21,Donor Visit - Art of Giving,11,"KIIT, KIMS, KISS",1.86,Donor relationship / philanthropy visit,Return visit requested,3.8,Synthetic,Christopher Burke,USA,Philanthropy Director
+T0770,2023-12-22,Donor Visit - Art of Giving,21,KIIT only,1.76,Donor relationship / philanthropy visit,Return visit requested,3.8,Synthetic,坂本 裕太,Japan,Major Gifts Officer
+T0771,2023-12-23,Donor Visit - Art of Giving,6,"KIIT, KIMS",3.74,Donor relationship / philanthropy visit,Follow-up scheduled,4.9,Synthetic,Donald Harris DDS,USA,Foundation Trustee
+T0772,2023-12-26,Academic Partner Visit,30,KISS only,2.94,Academic collaboration / MoU signing,"Information shared, no commitment",3.8,Synthetic,Terry Barker-Jackson,UK,Dean of International Programs
+T0773,2023-12-27,Media Visit,9,KIIT only,2.85,Press coverage,Return visit requested,4.9,Synthetic,Austin Oconnor,USA,Senior Correspondent
+T0774,2023-12-29,MUN/TEDx Event Delegation,39,"KIIT, KISS",3.84,Event sponsorship / jury hosting,Partnership renewed,4.6,Synthetic,Ana Laura Moreira,Brazil,Event Sponsor Representative
+T0775,2023-12-30,Alumni Visit,10,"KIIT, KISS",2.41,Alumni engagement / nostalgia visit,Enrollment confirmed,3.9,Synthetic,Gautami Manda,India,Guest of Honour
+T0776,2024-01-01,Diplomatic Visit,16,"KIIT, KIMS, KISS",2.89,Diplomatic goodwill visit,"Information shared, no commitment",4.6,Synthetic,Adaeze Okonkwo,Nigeria,Deputy Head of Mission
+T0777,2024-01-06,Alumni Visit,33,"KIIT, KIMS",3.34,Alumni engagement / nostalgia visit,Donation pledged,4.4,Synthetic,Gautam Aurora,India,Batch Representative
+T0778,2024-01-10,Global Immersion / India Trek,24,"KIIT, KIMS, KISS",2.75,Cultural immersion programme,Follow-up scheduled,4.6,Synthetic,Valentine Lucas,France,Faculty Escort
+T0779,2024-01-11,International Delegation,26,KIIT only,3.47,International partnership / MoU discussion,MoU signed,2.9,Synthetic,Gérard-Éric Thibault,France,International Liaison Officer
+T0780,2024-01-17,MUN/TEDx Event Delegation,19,KIIT only,3.81,Event sponsorship / jury hosting,"Information shared, no commitment",3.4,Synthetic,Ifeoma Okonkwo,Nigeria,Jury Chair
+T0781,2024-01-21,Alumni Visit,13,"KIIT, KSAC, KISS",1.54,Alumni engagement / nostalgia visit,Partnership renewed,4.1,Synthetic,Dr Jack Humphries,UK,Guest of Honour
+T0782,2024-01-23,MUN/TEDx Event Delegation,15,KIIT only,3.59,Event sponsorship / jury hosting,Follow-up scheduled,3.8,Synthetic,Kurt Smith,USA,Jury Chair
+T0783,2024-01-24,MUN/TEDx Event Delegation,44,"KIIT, KIMS",2.05,Event sponsorship / jury hosting,Sponsorship renewed,4.2,Synthetic,藤原 香織,Japan,Delegation Head
+T0784,2024-01-28,Alumni Visit,41,"KIIT, KISS",2.86,Alumni engagement / nostalgia visit,Follow-up scheduled,4.3,Synthetic,Eleanor Edwards,UK,Batch Representative
+T0785,2024-01-31,Corporate CSR Visit,22,"KIIT, KIMS, KISS",1.85,CSR partnership evaluation,Partnership renewed,3.4,Synthetic,Monique Verdier,France,VP Corporate Affairs
+T0786,2024-02-04,Corporate CSR Visit,45,"KIIT, KIMS",3.03,CSR partnership evaluation,Enrollment confirmed,4.0,Synthetic,Amy Salas,USA,CSR Head
+T0787,2024-02-05,International Delegation,16,"KIIT, KSAC, KISS",3.82,International partnership / MoU discussion,"Information shared, no commitment",4.6,Synthetic,Sanya Varghese,India,International Liaison Officer
+T0788,2024-02-10,Alumni Visit,22,"KIIT, KIMS, KISS",2.81,Alumni engagement / nostalgia visit,MoU signed,4.5,Synthetic,松本 英樹,Japan,Batch Representative
+T0789,2024-02-12,School Group,36,KIIT only,3.03,Cultural exchange / outreach,"Information shared, no commitment",4.4,Synthetic,David Davis,USA,Delegation Representative
+T0790,2024-02-13,International Delegation,40,KIIT only,2.09,International partnership / MoU discussion,Follow-up scheduled,4.3,Synthetic,Tunde Adebayo,Nigeria,Visiting Faculty
+T0791,2024-02-20,International Delegation,17,"KIIT, KIMS",1.78,International partnership / MoU discussion,"Information shared, no commitment",4.1,Synthetic,Tunde Nwosu,Nigeria,Visiting Faculty
+T0792,2024-02-22,International Delegation,8,"KIIT, KISS",3.11,International partnership / MoU discussion,Partnership renewed,4.2,Synthetic,Oliver Chauhan,India,Visiting Faculty
+T0793,2024-02-23,Donor Visit - Art of Giving,7,KIIT only,1.76,Donor relationship / philanthropy visit,Follow-up scheduled,2.8,Synthetic,Hayley Duffy-Nolan,UK,Foundation Trustee
+T0794,2024-02-24,International Delegation,36,KIIT only,2.79,International partnership / MoU discussion,Feedback collected,4.1,Synthetic,Sophie Bennett,UK,Visiting Faculty
+T0795,2024-03-01,Corporate CSR Visit,25,"KIIT, KIMS",2.07,CSR partnership evaluation,Follow-up scheduled,3.9,Synthetic,Tunde Eze,Nigeria,Sustainability Lead
+T0796,2024-03-03,Donor Visit - Art of Giving,42,"KIIT, KIMS, KISS",2.71,Donor relationship / philanthropy visit,Positive press coverage,4.4,Synthetic,Srta. Joana Almeida,Brazil,Philanthropy Director
+T0797,2024-03-06,Diplomatic Visit,45,"KIIT, KISS",2.4,Diplomatic goodwill visit,MoU signed,3.4,Synthetic,William Sawhney,India,Cultural Attache
+T0798,2024-03-07,MUN/TEDx Event Delegation,8,KIIT only,2.2,Event sponsorship / jury hosting,"Information shared, no commitment",3.2,Synthetic,Sean Love,USA,Event Sponsor Representative
+T0799,2024-03-10,Government Dignitary Visit,43,"KIIT, KSAC, KISS",1.89,Government outreach on tribal welfare,Follow-up scheduled,4.8,Synthetic,João Gabriel Campos,Brazil,District Collector
+T0800,2024-03-13,Media Visit,38,"KIIT, KIMS",2.72,Press coverage,"Information shared, no commitment",3.8,Synthetic,Chinedu Okafor,Nigeria,Documentary Producer
+T0801,2024-03-14,Media Visit,20,"KIIT, KIMS, KISS",2.12,Press coverage,Feedback collected,4.6,Synthetic,佐々木 桃子,Japan,Documentary Producer
+T0802,2024-03-19,Donor Visit - Art of Giving,37,KISS only,1.58,Donor relationship / philanthropy visit,Sponsorship renewed,4.2,Synthetic,Ngozi Okafor,Nigeria,Philanthropy Director
+T0803,2024-03-23,Global Immersion / India Trek,5,"KIIT, KIMS, KISS",3.23,Cultural immersion programme,Follow-up scheduled,4.2,Synthetic,Bertrand-Charles Rivière,France,Student Delegation Lead
+T0804,2024-03-25,Corporate CSR Visit,6,"KIIT, KISS",2.7,CSR partnership evaluation,Enrollment confirmed,4.8,Synthetic,Cecilia Nogueira,Brazil,CSR Head
+T0805,2024-03-28,Donor Visit - Art of Giving,34,"KIIT, KSAC, KISS",3.43,Donor relationship / philanthropy visit,Sponsorship renewed,3.9,Synthetic,Shannon Thomas,USA,Philanthropy Director
+T0806,2024-04-01,Alumni Visit,9,"KIIT, KSAC, KISS",2.46,Alumni engagement / nostalgia visit,Donation pledged,4.3,Synthetic,中島 さゆり,Japan,Batch Representative
+T0807,2024-04-02,Government Dignitary Visit,44,"KIIT, KIMS",2.86,Government outreach on tribal welfare,Follow-up scheduled,3.5,Synthetic,Ngozi Okonkwo,Nigeria,Policy Advisor
+T0808,2024-04-04,International Delegation,37,"KIIT, KSAC, KISS",3.86,International partnership / MoU discussion,Donation pledged,3.9,Synthetic,Alicia Reid,USA,Visiting Faculty
+T0809,2024-04-05,Academic Partner Visit,34,"KIIT, KISS",3.05,Academic collaboration / MoU signing,Return visit requested,4.0,Synthetic,Emeka Eze,Nigeria,Professor & Research Chair
+T0810,2024-04-07,Diplomatic Visit,13,"KIIT, KIMS",3.95,Diplomatic goodwill visit,Return visit requested,3.9,Synthetic,Linda Morrison,USA,Deputy Head of Mission
+T0811,2024-04-12,Diplomatic Visit,25,"KIIT, KISS",2.38,Diplomatic goodwill visit,Enrollment confirmed,3.9,Synthetic,Louis Roux,France,Deputy Head of Mission
+T0812,2024-04-13,Corporate CSR Visit,28,"KIIT, KIMS, KISS",2.36,CSR partnership evaluation,Sponsorship renewed,5.0,Synthetic,Tunde Adeyemi,Nigeria,VP Corporate Affairs
+T0813,2024-04-14,Global Immersion / India Trek,39,"KIIT, KIMS, KISS",3.75,Cultural immersion programme,Feedback collected,3.7,Synthetic,Maggie Maréchal,France,Faculty Escort
+T0814,2024-04-18,Donor Visit - Art of Giving,10,"KIIT, KIMS",1.7,Donor relationship / philanthropy visit,Donation pledged,3.7,Synthetic,George Graham,USA,Major Gifts Officer
+T0815,2024-04-19,Government Dignitary Visit,12,"KIIT, KIMS, KISS",3.24,Government outreach on tribal welfare,MoU signed,3.9,Synthetic,Shaun Sharp,UK,Policy Advisor
+T0816,2024-04-22,Alumni Visit,39,"KIIT, KIMS, KISS",3.83,Alumni engagement / nostalgia visit,Enrollment confirmed,5.0,Synthetic,Anastasie Germain-Blondel,France,Alumni Association Member
+T0817,2024-04-24,Diplomatic Visit,9,"KIIT, KIMS",1.56,Diplomatic goodwill visit,Feedback collected,3.9,Synthetic,Bethan McDonald,UK,Deputy Head of Mission
+T0818,2024-04-27,Alumni Visit,25,"KIIT, KSAC, KISS",2.72,Alumni engagement / nostalgia visit,Feedback collected,4.8,Synthetic,Pahal Apte,India,Alumni Association Member
+T0819,2024-04-29,School Group,24,"KIIT, KISS",1.93,Cultural exchange / outreach,Partnership renewed,3.3,Synthetic,Joseph Jones,USA,Delegation Representative
+T0820,2024-05-01,Admission Counselling,380,"KIIT, KIMS, KISS",1.21,Admission counselling / campus familiarization,Follow-up scheduled,4.4,Synthetic,Sai Thaman,India,Counselling Desk Coordinator
+T0821,2024-05-02,Admission Counselling,289,"KIIT, KIMS, KISS",1.63,Admission counselling / campus familiarization,Donation pledged,4.7,Synthetic,Umang Dewan,India,Counselling Desk Coordinator
+T0822,2024-05-03,Admission Counselling,264,"KIIT, KISS",1.33,Admission counselling / campus familiarization,Positive press coverage,4.2,Synthetic,Mekhala Setty,India,Counselling Desk Coordinator
+T0823,2024-05-04,Admission Counselling,376,"KIIT, KISS",1.11,Admission counselling / campus familiarization,MoU signed,4.8,Synthetic,Banjeet Banerjee,India,Counselling Desk Coordinator
+T0824,2024-05-05,Admission Counselling,212,"KIIT, KISS",1.3,Admission counselling / campus familiarization,"Information shared, no commitment",3.9,Synthetic,Anjali Banik,India,Counselling Desk Coordinator
+T0825,2024-05-07,Global Immersion / India Trek,37,"KIIT, KSAC, KISS",2.33,Cultural immersion programme,Partnership renewed,5.0,Synthetic,Danielle Meyer,USA,Student Delegation Lead
+T0826,2024-05-09,Alumni Visit,14,"KIIT, KSAC, KISS",3.5,Alumni engagement / nostalgia visit,"Information shared, no commitment",5.0,Synthetic,Ms Nicola Hussain,UK,Guest of Honour
+T0827,2024-05-10,Admission Counselling,445,"KIIT, KIMS, KISS",1.68,Admission counselling / campus familiarization,Follow-up scheduled,4.0,Synthetic,Idika Ganesan,India,Counselling Desk Coordinator
+T0828,2024-05-11,Admission Counselling,312,"KIIT, KIMS, KISS",1.33,Admission counselling / campus familiarization,Positive press coverage,3.9,Synthetic,Darpan Varkey,India,Counselling Desk Coordinator
+T0829,2024-05-12,Admission Counselling,313,"KIIT, KISS",1.59,Admission counselling / campus familiarization,Donation pledged,5.0,Synthetic,Frado Shukla,India,Counselling Desk Coordinator
+T0830,2024-05-13,Admission Counselling,543,"KIIT, KISS",1.72,Admission counselling / campus familiarization,Partnership renewed,5.0,Synthetic,Ria Dasgupta,India,Counselling Desk Coordinator
+T0831,2024-05-14,Admission Counselling,228,"KIIT, KISS",1.68,Admission counselling / campus familiarization,Return visit requested,3.9,Synthetic,Chaaya Ray,India,Counselling Desk Coordinator
+T0832,2024-05-15,Admission Counselling,390,"KIIT, KISS",1.01,Admission counselling / campus familiarization,Enrollment confirmed,3.9,Synthetic,Anusha Kohli,India,Counselling Desk Coordinator
+T0833,2024-05-16,Admission Counselling,572,"KIIT, KISS",1.67,Admission counselling / campus familiarization,"Information shared, no commitment",4.0,Synthetic,Bhavna Sha,India,Counselling Desk Coordinator
+T0834,2024-05-17,Admission Counselling,417,"KIIT, KISS",1.55,Admission counselling / campus familiarization,Positive press coverage,3.4,Synthetic,Libni Jaggi,India,Counselling Desk Coordinator
+T0835,2024-05-18,Admission Counselling,355,"KIIT, KISS",1.36,Admission counselling / campus familiarization,Positive press coverage,3.6,Synthetic,Triveni Mitter,India,Counselling Desk Coordinator
+T0836,2024-05-19,Admission Counselling,409,"KIIT, KISS",1.48,Admission counselling / campus familiarization,Positive press coverage,3.6,Synthetic,Upasna Mukherjee,India,Counselling Desk Coordinator
+T0837,2024-05-20,Admission Counselling,270,"KIIT, KISS",1.15,Admission counselling / campus familiarization,Enrollment confirmed,3.7,Synthetic,Xavier Nath,India,Counselling Desk Coordinator
+T0838,2024-05-21,MUN/TEDx Event Delegation,24,"KIIT, KSAC, KISS",2.74,Event sponsorship / jury hosting,Donation pledged,4.2,Synthetic,Barbara Lewis,UK,Jury Chair
+T0839,2024-05-22,Admission Counselling,353,"KIIT, KISS",1.72,Admission counselling / campus familiarization,Return visit requested,4.3,Synthetic,Meghana Arora,India,Counselling Desk Coordinator
+T0840,2024-05-23,Admission Counselling,451,"KIIT, KIMS, KISS",1.68,Admission counselling / campus familiarization,Sponsorship renewed,5.0,Synthetic,Nicholas Khare,India,Counselling Desk Coordinator
+T0841,2024-05-24,Corporate CSR Visit,43,KISS only,3.36,CSR partnership evaluation,Enrollment confirmed,3.6,Synthetic,Gabriel Nelson,USA,VP Corporate Affairs
+T0842,2024-05-25,Admission Counselling,443,"KIIT, KIMS, KISS",1.73,Admission counselling / campus familiarization,Return visit requested,4.8,Synthetic,Chakrika Bhandari,India,Counselling Desk Coordinator
+T0843,2024-05-26,School Group,42,"KIIT, KISS",1.65,Cultural exchange / outreach,Return visit requested,4.1,Synthetic,Nathan Bhavsar,India,Delegation Representative
+T0844,2024-05-27,Admission Counselling,339,"KIIT, KISS",1.27,Admission counselling / campus familiarization,Partnership renewed,4.2,Synthetic,Ria Bhatia,India,Counselling Desk Coordinator
+T0845,2024-05-28,Global Immersion / India Trek,17,"KIIT, KIMS",3.42,Cultural immersion programme,Feedback collected,4.2,Synthetic,Maria Julia Macedo,Brazil,Faculty Escort
+T0846,2024-05-29,Admission Counselling,361,"KIIT, KISS",1.62,Admission counselling / campus familiarization,Return visit requested,3.5,Synthetic,Ikbal Verma,India,Counselling Desk Coordinator
+T0847,2024-05-30,Admission Counselling,496,"KIIT, KIMS, KISS",1.26,Admission counselling / campus familiarization,Positive press coverage,4.4,Synthetic,Mohammed Saha,India,Counselling Desk Coordinator
+T0848,2024-05-31,Admission Counselling,410,"KIIT, KIMS, KISS",1.26,Admission counselling / campus familiarization,MoU signed,4.3,Synthetic,Indira Dey,India,Counselling Desk Coordinator
+T0849,2024-06-13,School Group,6,"KIIT, KISS",2.7,Cultural exchange / outreach,Follow-up scheduled,4.5,Synthetic,Tunde Eze,Nigeria,Delegation Representative
+T0850,2024-06-18,Government Dignitary Visit,6,KIIT only,3.36,Government outreach on tribal welfare,Sponsorship renewed,4.0,Synthetic,Oliver Richards,UK,Policy Advisor
+T0851,2024-06-21,Diplomatic Visit,13,"KIIT, KIMS, KISS",3.95,Diplomatic goodwill visit,Follow-up scheduled,5.0,Synthetic,Valentim Brito,Brazil,Deputy Head of Mission
+T0852,2024-06-22,Donor Visit - Art of Giving,32,KIIT only,1.61,Donor relationship / philanthropy visit,Return visit requested,3.4,Synthetic,Dra. Olívia da Mata,Brazil,Foundation Trustee
+T0853,2024-06-24,Corporate CSR Visit,21,"KIIT, KISS",1.61,CSR partnership evaluation,Follow-up scheduled,3.9,Synthetic,Mr Russell Taylor,UK,VP Corporate Affairs
+T0854,2024-06-27,Diplomatic Visit,16,KIIT only,3.18,Diplomatic goodwill visit,Sponsorship renewed,3.4,Synthetic,Chelsea Miller,UK,Cultural Attache
+T0855,2024-06-29,MUN/TEDx Event Delegation,27,KISS only,2.38,Event sponsorship / jury hosting,Feedback collected,3.9,Synthetic,Kathleen Estes,USA,Jury Chair
+T0856,2024-06-30,MUN/TEDx Event Delegation,9,KISS only,1.75,Event sponsorship / jury hosting,Feedback collected,3.8,Synthetic,Keith Fletcher,UK,Event Sponsor Representative
+T0857,2024-07-01,Diplomatic Visit,23,KISS only,1.93,Diplomatic goodwill visit,Return visit requested,4.9,Synthetic,遠藤 陽子,Japan,Consul General
+T0858,2024-07-02,Diplomatic Visit,37,"KIIT, KIMS, KISS",3.63,Diplomatic goodwill visit,Positive press coverage,5.0,Synthetic,Samuel Schwartz,USA,Cultural Attache
+T0859,2024-07-03,Alumni Visit,11,"KIIT, KISS",1.95,Alumni engagement / nostalgia visit,"Information shared, no commitment",3.9,Synthetic,Luiz Gustavo da Rocha,Brazil,Alumni Association Member
+T0860,2024-07-04,Diplomatic Visit,31,"KIIT, KISS",1.78,Diplomatic goodwill visit,Donation pledged,3.7,Synthetic,Dr Marian Duffy,UK,Cultural Attache
+T0861,2024-07-08,International Delegation,10,KIIT only,2.32,International partnership / MoU discussion,Enrollment confirmed,4.1,Synthetic,Miss Sarah Greenwood,UK,Programme Director
+T0862,2024-07-10,Donor Visit - Art of Giving,19,"KIIT, KISS",2.88,Donor relationship / philanthropy visit,"Information shared, no commitment",3.9,Synthetic,Maria Helena Macedo,Brazil,Major Gifts Officer
+T0863,2024-07-11,Corporate CSR Visit,35,"KIIT, KISS",3.85,CSR partnership evaluation,Return visit requested,4.6,Synthetic,Francisco Nascimento,Brazil,VP Corporate Affairs
+T0864,2024-07-13,Donor Visit - Art of Giving,38,KIIT only,3.15,Donor relationship / philanthropy visit,Enrollment confirmed,3.9,Synthetic,Diogo Lopes,Brazil,Philanthropy Director
+T0865,2024-07-16,School Group,9,"KIIT, KIMS",2.41,Cultural exchange / outreach,Positive press coverage,2.9,Synthetic,Maria Flor Pacheco,Brazil,Delegation Representative
+T0866,2024-07-19,Media Visit,36,"KIIT, KSAC, KISS",2.2,Press coverage,Feedback collected,5.0,Synthetic,Roberto Rivera,USA,Senior Correspondent
+T0867,2024-07-20,Alumni Visit,30,"KIIT, KSAC, KISS",2.39,Alumni engagement / nostalgia visit,"Information shared, no commitment",5.0,Synthetic,Mr Ben Martin,UK,Guest of Honour
+T0868,2024-07-23,Donor Visit - Art of Giving,11,"KIIT, KIMS, KISS",1.81,Donor relationship / philanthropy visit,Return visit requested,3.8,Synthetic,Alexia Alves,Brazil,Foundation Trustee
+T0869,2024-07-25,International Delegation,9,KIIT only,2.75,International partnership / MoU discussion,"Information shared, no commitment",3.6,Synthetic,渡辺 涼平,Japan,International Liaison Officer
+T0870,2024-07-27,Government Dignitary Visit,44,KIIT only,3.06,Government outreach on tribal welfare,Feedback collected,4.0,Synthetic,Kieran Wall,UK,State Secretary (Tribal Welfare)
+T0871,2024-07-30,Alumni Visit,36,"KIIT, KISS",2.73,Alumni engagement / nostalgia visit,Sponsorship renewed,4.4,Synthetic,Kimberly Murillo,USA,Batch Representative
+T0872,2024-08-03,Media Visit,12,"KIIT, KISS",2.46,Press coverage,"Information shared, no commitment",4.6,Synthetic,Kelly Jennings,USA,Documentary Producer
+T0873,2024-08-05,Global Immersion / India Trek,24,"KIIT, KIMS",3.71,Cultural immersion programme,MoU signed,5.0,Synthetic,Nicole Fogaça,Brazil,Programme Coordinator
+T0874,2024-08-06,Media Visit,36,KISS only,3.41,Press coverage,Feedback collected,4.1,Synthetic,Indali Sethi,India,Senior Correspondent
+T0875,2024-08-11,International Delegation,30,KISS only,2.16,International partnership / MoU discussion,Feedback collected,3.7,Synthetic,Ekansh Vohra,India,International Liaison Officer
+T0876,2024-08-14,International Delegation,6,"KIIT, KIMS",2.98,International partnership / MoU discussion,"Information shared, no commitment",3.0,Synthetic,Carol Bolton,UK,Programme Director
+T0877,2024-08-23,Diplomatic Visit,20,"KIIT, KISS",2.09,Diplomatic goodwill visit,Feedback collected,3.8,Synthetic,Mitesh Guha,India,Cultural Attache
+T0878,2024-08-24,Government Dignitary Visit,12,KIIT only,2.34,Government outreach on tribal welfare,Donation pledged,3.8,Synthetic,Dr Suzanne Williams,UK,Policy Advisor
+T0879,2024-08-29,Donor Visit - Art of Giving,42,"KIIT, KISS",1.56,Donor relationship / philanthropy visit,Enrollment confirmed,5.0,Synthetic,Whitney Cooper,USA,Foundation Trustee
+T0880,2024-08-30,Corporate CSR Visit,36,"KIIT, KSAC, KISS",1.75,CSR partnership evaluation,Enrollment confirmed,3.9,Synthetic,Bernadette de la Étienne,France,VP Corporate Affairs
+T0881,2024-09-02,MUN/TEDx Event Delegation,24,"KIIT, KIMS, KISS",2.41,Event sponsorship / jury hosting,Return visit requested,4.3,Synthetic,Mathilde Sanchez,France,Event Sponsor Representative
+T0882,2024-09-07,International Delegation,24,"KIIT, KIMS, KISS",3.99,International partnership / MoU discussion,Feedback collected,4.2,Synthetic,Kayla Rodriguez,USA,Programme Director
+T0883,2024-09-09,MUN/TEDx Event Delegation,11,"KIIT, KISS",2.98,Event sponsorship / jury hosting,Sponsorship renewed,4.9,Synthetic,Jean Grégoire du Lefort,France,Jury Chair
+T0884,2024-09-12,Corporate CSR Visit,24,"KIIT, KISS",2.76,CSR partnership evaluation,Positive press coverage,5.0,Synthetic,Dylan Hunt,USA,CSR Head
+T0885,2024-09-13,Media Visit,30,KISS only,2.13,Press coverage,Sponsorship renewed,3.9,Synthetic,Nitara Gopal,India,Senior Correspondent
+T0886,2024-09-18,Donor Visit - Art of Giving,18,"KIIT, KSAC, KISS",3.15,Donor relationship / philanthropy visit,"Information shared, no commitment",3.9,Synthetic,Cauê Fogaça,Brazil,Philanthropy Director
+T0887,2024-09-28,School Group,24,"KIIT, KIMS, KISS",3.61,Cultural exchange / outreach,Sponsorship renewed,4.8,Synthetic,池田 晃,Japan,Delegation Representative
+T0888,2024-10-02,Government Dignitary Visit,15,KISS only,2.14,Government outreach on tribal welfare,MoU signed,4.6,Synthetic,Damyanti Agrawal,India,Policy Advisor
+T0889,2024-10-03,Diplomatic Visit,6,"KIIT, KISS",2.11,Diplomatic goodwill visit,Positive press coverage,5.0,Synthetic,Jennifer Garcia,USA,Cultural Attache
+T0890,2024-10-05,International Delegation,17,"KIIT, KIMS",1.9,International partnership / MoU discussion,Sponsorship renewed,4.2,Synthetic,Ifeoma Nwosu,Nigeria,Programme Director
+T0891,2024-10-08,International Delegation,36,KIIT only,3.46,International partnership / MoU discussion,Follow-up scheduled,3.6,Synthetic,Ayushman Hegde,India,Visiting Faculty
+T0892,2024-10-09,Government Dignitary Visit,9,"KIIT, KIMS, KISS",3.75,Government outreach on tribal welfare,Feedback collected,4.6,Synthetic,Theo Vargas,Brazil,Policy Advisor
+T0893,2024-10-11,School Group,20,"KIIT, KSAC, KISS",1.78,Cultural exchange / outreach,Donation pledged,4.9,Synthetic,Glen Phillips,UK,Delegation Representative
+T0894,2024-10-16,Corporate CSR Visit,20,"KIIT, KISS",3.0,CSR partnership evaluation,Positive press coverage,4.7,Synthetic,Claire Bruneau-Philippe,France,Sustainability Lead
+T0895,2024-10-21,Corporate CSR Visit,16,"KIIT, KISS",2.04,CSR partnership evaluation,Partnership renewed,4.5,Synthetic,Camila Casa Grande,Brazil,VP Corporate Affairs
+T0896,2024-10-23,Global Immersion / India Trek,28,KIIT only,3.25,Cultural immersion programme,Enrollment confirmed,4.4,Synthetic,Peter Rodriguez,USA,Programme Coordinator
+T0897,2024-10-24,Diplomatic Visit,22,"KIIT, KIMS",3.7,Diplomatic goodwill visit,Return visit requested,4.5,Synthetic,Faqid Garde,India,Consul General
+T0898,2024-10-25,Government Dignitary Visit,6,KISS only,3.11,Government outreach on tribal welfare,Return visit requested,5.0,Synthetic,Unni Sani,India,Policy Advisor
+T0899,2024-10-30,Global Immersion / India Trek,29,"KIIT, KSAC, KISS",2.27,Cultural immersion programme,Sponsorship renewed,4.6,Synthetic,Advik Naidu,India,Faculty Escort
